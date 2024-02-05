@@ -1,0 +1,1520 @@
+﻿	NAME	LABEL	FIPSCODE	municipality	edgar_emission_2015(tons_CO2)
+0	Wakefield	City of Wakefield	82780	City of Wakefield-82780	5.842584327231295
+1	Buchanan	City of Buchanan	11400	City of Buchanan-11400	1225.5485854817443
+2	Ovid	City of Ovid	61860	City of Ovid-61860	222.74259530443905
+3	Westland	City of Westland	86000	City of Westland-86000	151549.1470019532
+4	Livonia	City of Livonia	49000	City of Livonia-49000	217130.78909256295
+5	Watervliet	City of Watervliet	84500	City of Watervliet-84500	153.74368682608474
+6	Berkley	City of Berkley	07660	City of Berkley-07660	16390.01789546146
+7	East Jordan	City of East Jordan	24020	City of East Jordan-24020	691.5914826374689
+8	Hart	City of Hart	36920	City of Hart-36920	294.88580707832733
+9	Mackinac Island	City of Mackinac Island	50280	City of Mackinac Island-50280	39.72827666884537
+10	Montrose	City of Montrose	55280	City of Montrose-55280	79.38846530191557
+11	Standish	City of Standish	76120	City of Standish-76120	45.44639922418273
+12	White Cloud	City of White Cloud	86680	City of White Cloud-86680	69.3243110369635
+13	Harper Woods	City of Harper Woods	36700	City of Harper Woods-36700	5909.175552607168
+14	Battle Creek	City of Battle Creek	05920	City of Battle Creek-05920	64765.00139982427
+15	Parchment	City of Parchment	62340	City of Parchment-62340	1326.3199921014007
+16	Yale	City of Yale	89000	City of Yale-89000	128.5702330464444
+17	Galesburg	City of Galesburg	31260	City of Galesburg-31260	119.6796964031516
+18	Williamston	City of Williamston	87420	City of Williamston-87420	132.98130104036278
+19	New Baltimore	City of New Baltimore	57100	City of New Baltimore-57100	1014.3457286953201
+20	Caro	City of Caro	13420	City of Caro-13420	140.71603249267105
+21	Bay City	City of Bay City	06020	City of Bay City-06020	11388.367492959342
+22	Hartford	City of Hartford	36960	City of Hartford-36960	291.9818088301046
+23	Chelsea	City of Chelsea	15020	City of Chelsea-15020	618.1391098879716
+24	Plymouth	City of Plymouth	65060	City of Plymouth-65060	9582.392483598956
+25	Memphis	City of Memphis	52960	City of Memphis-52960	69.97531344627882
+26	Portage	City of Portage	65560	City of Portage-65560	83066.04199931973
+27	Traverse City	City of Traverse City	80340	City of Traverse City-80340	3534.4903479089517
+28	Adrian	City of Adrian	00440	City of Adrian-00440	4408.97880536428
+29	Royal Oak	City of Royal Oak	70040	City of Royal Oak-70040	79660.2358832999
+30	Frankfort	City of Frankfort	30260	City of Frankfort-30260	566.4471661958322
+31	Crystal Falls	City of Crystal Falls	19140	City of Crystal Falls-19140	11.501397699505098
+32	Essexville	City of Essexville	26420	City of Essexville-26420	328.8689452821485
+33	Walker	City of Walker	82960	City of Walker-82960	60786.7050430467
+34	Center Line	City of Center Line	14320	City of Center Line-14320	13357.972530399511
+35	Hazel Park	City of Hazel Park	37420	City of Hazel Park-37420	20562.452703711333
+36	Harrisville	City of Harrisville	36860	City of Harrisville-36860	2.6083498297062104
+37	Wayland	City of Wayland	84880	City of Wayland-84880	569.6916248129893
+38	Iron River	City of Iron River	40980	City of Iron River-40980	108.05313418062542
+39	Brighton	City of Brighton	10620	City of Brighton-10620	5399.924222735269
+40	Potterville	City of Potterville	66100	City of Potterville-66100	1181.1434899457113
+41	Dearborn Heights	City of Dearborn Heights	21020	City of Dearborn Heights-21020	98277.40915752068
+42	Clio	City of Clio	16620	City of Clio-16620	99.32264202832908
+43	Wayne	City of Wayne	84940	City of Wayne-84940	44650.98384722257
+44	Grand Rapids	City of Grand Rapids	34000	City of Grand Rapids-34000	133280.81602090716
+45	Au Gres	City of Au Gres	04120	City of Au Gres-04120	167.14580491601112
+46	Fenton	City of Fenton	27760	City of Fenton-27760	3506.3042370202643
+47	Harbor Beach	City of Harbor Beach	36460	City of Harbor Beach-36460	95.54400821181657
+48	Grand Blanc	City of Grand Blanc	33280	City of Grand Blanc-33280	2298.0584860750682
+49	Houghton	City of Houghton	39360	City of Houghton-39360	2488.5513167625154
+50	Hudson	City of Hudson	39720	City of Hudson-39720	129.37800175004767
+51	Sandusky	City of Sandusky	71540	City of Sandusky-71540	61.655063176799025
+52	Holland	City of Holland	38640	City of Holland-38640	21829.478110448494
+53	Flushing	City of Flushing	29200	City of Flushing-29200	2668.4211698432887
+54	Mt Clemens	City of Mt Clemens	55820	City of Mt Clemens-55820	11283.85761154857
+55	Lansing	City of Lansing	46000	City of Lansing-46000	135576.54114437665
+56	Huntington Woods	City of Huntington Woods	40000	City of Huntington Woods-40000	9389.71963159077
+57	Wyoming	City of Wyoming	88940	City of Wyoming-88940	207619.62513310532
+58	Taylor	City of Taylor	79000	City of Taylor-79000	166692.39520947012
+59	Luna Pier	City of Luna Pier	49700	City of Luna Pier-49700	396.60105466313314
+60	Wyandotte	City of Wyandotte	88900	City of Wyandotte-88900	31381.664622046734
+61	Harrison	City of Harrison	36800	City of Harrison-36800	344.3647957066093
+62	Belding	City of Belding	06900	City of Belding-06900	667.3319339851537
+63	Petoskey	City of Petoskey	63820	City of Petoskey-63820	1447.7862872408894
+64	Benton Harbor	City of Benton Harbor	07520	City of Benton Harbor-07520	4289.376055383965
+65	Ann Arbor	City of Ann Arbor	03000	City of Ann Arbor-03000	29237.588655793006
+66	Algonac	City of Algonac	01180	City of Algonac-01180	186.2173913312084
+67	River Rouge	City of River Rouge	68760	City of River Rouge-68760	28946.732511746155
+68	Gladstone	City of Gladstone	32300	City of Gladstone-32300	321.94500900591737
+69	Durand	City of Durand	23500	City of Durand-23500	686.0740935128598
+70	Kingsford	City of Kingsford	43300	City of Kingsford-43300	2356.6036693067167
+71	Southgate	City of Southgate	74960	City of Southgate-74960	37221.21496851036
+72	Zeeland	City of Zeeland	89260	City of Zeeland-89260	771.8047072642723
+73	Boyne City	City of Boyne City	09820	City of Boyne City-09820	188.31985607037177
+74	Richmond	City of Richmond	68380	City of Richmond-68380	857.6403936463679
+75	Manistique	City of Manistique	50760	City of Manistique-50760	428.9496897128169
+76	Big Rapids	City of Big Rapids	08300	City of Big Rapids-08300	1495.9915224444196
+77	Roseville	City of Roseville	69800	City of Roseville-69800	54726.668512164135
+78	Springfield	City of Springfield	75700	City of Springfield-75700	6023.581395652718
+79	Gobles	City of Gobles	32640	City of Gobles-32640	55.11223681817319
+80	Grant	City of Grant	34360	City of Grant-34360	59.64007897548526
+81	Grayling	City of Grayling	34640	City of Grayling-34640	35.01000340353099
+82	New Buffalo	City of New Buffalo	57220	City of New Buffalo-57220	405.66583966471774
+83	Saugatuck	City of Saugatuck	71700	City of Saugatuck-71700	4856.268604367014
+84	Auburn	City of Auburn	04080	City of Auburn-04080	288.150087458087
+85	Village of Clarkston	City of Village of Clarkston	82450	City of Village of Clarkston-82450	890.7380948479968
+86	East Lansing	City of East Lansing	24120	City of East Lansing-24120	30147.009808355986
+87	Reed City	City of Reed City	67820	City of Reed City-67820	33.707714531413146
+88	Muskegon	City of Muskegon	56320	City of Muskegon-56320	42431.105405423514
+89	Ecorse	City of Ecorse	24740	City of Ecorse-24740	24842.315301812967
+90	St Johns	City of St Johns	70940	City of St Johns-70940	773.4514148307848
+91	Auburn Hills	City of Auburn Hills	04105	City of Auburn Hills-04105	34262.82733405638
+92	Fraser	City of Fraser	30420	City of Fraser-30420	24835.236499762148
+93	Scottville	City of Scottville	72080	City of Scottville-72080	86.71677724144637
+94	Pontiac	City of Pontiac	65440	City of Pontiac-65440	59577.838218399746
+95	Grosse Pointe Farms	City of Grosse Pointe Farms	35520	City of Grosse Pointe Farms-35520	5819.894771014196
+96	Garden City	City of Garden City	31420	City of Garden City-31420	45213.6839088218
+97	Bronson	City of Bronson	10860	City of Bronson-10860	33.69967731749649
+98	Mt Pleasant	City of Mt Pleasant	56020	City of Mt Pleasant-56020	5976.532648550719
+99	Stanton	City of Stanton	76220	City of Stanton-76220	69.25853342517536
+100	Wixom	City of Wixom	88140	City of Wixom-88140	34259.81211362492
+101	Coldwater	City of Coldwater	17020	City of Coldwater-17020	2142.409342300174
+102	Walled Lake	City of Walled Lake	83060	City of Walled Lake-83060	8794.46319261726
+103	Alma	City of Alma	01540	City of Alma-01540	1465.1125547047923
+104	Charlevoix	City of Charlevoix	14780	City of Charlevoix-14780	580.8413607192531
+105	McBain	City of McBain	49980	City of McBain-49980	26.279086910447326
+106	Iron Mountain	City of Iron Mountain	40960	City of Iron Mountain-40960	2922.3335295206825
+107	Birmingham	City of Birmingham	08640	City of Birmingham-08640	28213.644620377556
+108	Dexter	City of Dexter	22160	City of Dexter-22160	1057.028807418513
+109	Marysville	City of Marysville	52080	City of Marysville-52080	22290.0436398342
+110	Northville	City of Northville	58980	City of Northville-58980	8854.959037641513
+111	Grandville	City of Grandville	34160	City of Grandville-34160	43114.60798422957
+112	Otsego	City of Otsego	61620	City of Otsego-61620	234.6612137477257
+113	Beaverton	City of Beaverton	06660	City of Beaverton-06660	158.66508311969025
+114	Onaway	City of Onaway	60680	City of Onaway-60680	9.358935208668267
+115	Litchfield	City of Litchfield	47980	City of Litchfield-47980	200.1944358039201
+116	Mt Morris	City of Mt Morris	55960	City of Mt Morris-55960	539.7192874577278
+117	Kentwood	City of Kentwood	42820	City of Kentwood-42820	53078.91947993182
+118	East Grand Rapids	City of East Grand Rapids	23980	City of East Grand Rapids-23980	5011.5685866307285
+119	Leslie	City of Leslie	47180	City of Leslie-47180	93.71214586706833
+120	Utica	City of Utica	81540	City of Utica-81540	11966.128469437754
+121	Coleman	City of Coleman	17100	City of Coleman-17100	72.55072109687491
+122	Midland	City of Midland	53780	City of Midland-53780	26517.03698450233
+123	The Village of Grosse Pointe Shores A Michigan City	City of The Village of Grosse Pointe Shores A Michigan City	82453	City of The Village of Grosse Pointe Shores A Michigan City-82453	2718.0761724047516
+124	Allen Park	City of Allen Park	01380	City of Allen Park-01380	62493.64668404609
+125	Marlette	City of Marlette	51820	City of Marlette-51820	253.45148282974657
+126	Omer	City of Omer	60660	City of Omer-60660	30.804539229412796
+127	Niles	City of Niles	57760	City of Niles-57760	3293.532459214146
+128	Port Huron	City of Port Huron	65820	City of Port Huron-65820	12250.302627173727
+129	Mason	City of Mason	52180	City of Mason-52180	1436.7103964614917
+130	Farmington	City of Farmington	27380	City of Farmington-27380	9773.58248998336
+131	Ishpeming	City of Ishpeming	41220	City of Ishpeming-41220	2928.9855385682786
+132	Troy	City of Troy	80700	City of Troy-80700	166775.0409446467
+133	Petersburg	City of Petersburg	63800	City of Petersburg-63800	197.06030695312958
+134	Rose City	City of Rose City	69680	City of Rose City-69680	16.776177779211416
+135	Muskegon Heights	City of Muskegon Heights	56360	City of Muskegon Heights-56360	7431.857840863284
+136	Lincoln Park	City of Lincoln Park	47800	City of Lincoln Park-47800	41508.80596508205
+137	Roosevelt Park	City of Roosevelt Park	69520	City of Roosevelt Park-69520	5800.462729128419
+138	Grand Ledge	City of Grand Ledge	33420	City of Grand Ledge-33420	2902.9264735148026
+139	Reading	City of Reading	67500	City of Reading-67500	51.74860961470275
+140	Farmington Hills	City of Farmington Hills	27440	City of Farmington Hills-27440	133478.98663928764
+141	Belleville	City of Belleville	07020	City of Belleville-07020	3116.5140231330197
+142	Marshall	City of Marshall	51940	City of Marshall-51940	724.9756622035519
+143	Romulus	City of Romulus	69420	City of Romulus-69420	186105.16448336624
+144	Whittemore	City of Whittemore	87140	City of Whittemore-87140	20.148065452049593
+145	Bridgman	City of Bridgman	10580	City of Bridgman-10580	1165.6712439517466
+146	Zilwaukee	City of Zilwaukee	89320	City of Zilwaukee-89320	2324.0906027688916
+147	Bad Axe	City of Bad Axe	04740	City of Bad Axe-04740	36.46349003687582
+148	Highland Park	City of Highland Park	38180	City of Highland Park-38180	25666.297662939924
+149	Evart	City of Evart	26640	City of Evart-26640	396.78171365515857
+150	Hastings	City of Hastings	37120	City of Hastings-37120	1151.7182573021396
+151	Gibraltar	City of Gibraltar	32020	City of Gibraltar-32020	9478.047107680859
+152	Hamtramck	City of Hamtramck	36280	City of Hamtramck-36280	19727.08571105563
+153	Rockford	City of Rockford	69080	City of Rockford-69080	1711.3886792525575
+154	Saginaw	City of Saginaw	70520	City of Saginaw-70520	33156.47901522961
+155	Ypsilanti	City of Ypsilanti	89140	City of Ypsilanti-89140	10370.368843716324
+156	Norway	City of Norway	59220	City of Norway-59220	26.442460099353514
+157	Three Rivers	City of Three Rivers	79760	City of Three Rivers-79760	764.3444069787552
+158	South Haven	City of South Haven	74980	City of South Haven-74980	1931.248104867286
+159	Allegan	City of Allegan	01260	City of Allegan-01260	743.485196570398
+160	Vassar	City of Vassar	81840	City of Vassar-81840	56.48428181989417
+161	Greenville	City of Greenville	35100	City of Greenville-35100	389.8015542953703
+162	Clawson	City of Clawson	16160	City of Clawson-16160	14730.498869782514
+163	Swartz Creek	City of Swartz Creek	77700	City of Swartz Creek-77700	14423.454966466856
+164	Southfield	City of Southfield	74900	City of Southfield-74900	145482.662933286
+165	Ionia	City of Ionia	40860	City of Ionia-40860	339.52737066086
+166	Lowell	City of Lowell	49540	City of Lowell-49540	823.9977009954628
+167	Dowagiac	City of Dowagiac	22880	City of Dowagiac-22880	261.7224620906811
+168	Bessemer	City of Bessemer	07960	City of Bessemer-07960	18.340914739983305
+169	Jackson	City of Jackson	41420	City of Jackson-41420	9112.568384428392
+170	Corunna	City of Corunna	18300	City of Corunna-18300	71.22249622863407
+171	Ithaca	City of Ithaca	41340	City of Ithaca-41340	85.22653999446992
+172	Bloomfield Hills	City of Bloomfield Hills	09180	City of Bloomfield Hills-09180	22484.964715525202
+173	Caspian	City of Caspian	13860	City of Caspian-13860	19.875518578322314
+174	Riverview	City of Riverview	68880	City of Riverview-68880	24946.358369839745
+175	Lake Angelus	City of Lake Angelus	44440	City of Lake Angelus-44440	1786.5971182509634
+176	Sault Ste Marie	City of Sault Ste Marie	71740	City of Sault Ste Marie-71740	49736.05679063485
+177	Keego Harbor	City of Keego Harbor	42460	City of Keego Harbor-42460	2099.6506295429326
+178	Cheboygan	City of Cheboygan	15000	City of Cheboygan-15000	1513.8524463141798
+179	Fremont	City of Fremont	30700	City of Fremont-30700	128.09122622633478
+180	St Clair	City of St Clair	70680	City of St Clair-70680	3538.9473513388075
+181	Menominee	City of Menominee	53020	City of Menominee-53020	261.6994729697698
+182	Whitehall	City of Whitehall	86780	City of Whitehall-86780	205.15122992383783
+183	Stephenson	City of Stephenson	76380	City of Stephenson-76380	14.37283046081976
+184	Madison Heights	City of Madison Heights	50560	City of Madison Heights-50560	50668.25706691491
+185	Coopersville	City of Coopersville	18020	City of Coopersville-18020	278.12679973329966
+186	Marine City	City of Marine City	51600	City of Marine City-51600	731.8442912126302
+187	Monroe	City of Monroe	55020	City of Monroe-55020	10267.795646711656
+188	South Lyon	City of South Lyon	75100	City of South Lyon-75100	5094.189195573971
+189	Saline	City of Saline	71140	City of Saline-71140	26906.12665908856
+190	Trenton	City of Trenton	80420	City of Trenton-80420	24691.32098706437
+191	Owosso	City of Owosso	61940	City of Owosso-61940	1981.422089386288
+192	Gaylord	City of Gaylord	31720	City of Gaylord-31720	1984.893515819902
+193	Sturgis	City of Sturgis	76960	City of Sturgis-76960	390.962967577441
+194	Woodhaven	City of Woodhaven	88380	City of Woodhaven-88380	19535.231998539195
+195	Rochester Hills	City of Rochester Hills	69035	City of Rochester Hills-69035	78546.90230014893
+196	Frankenmuth	City of Frankenmuth	30200	City of Frankenmuth-30200	432.92099530021255
+197	East Tawas	City of East Tawas	24420	City of East Tawas-24420	59.22012855066898
+198	Detroit	City of Detroit	22000	City of Detroit-22000	1354200.4458845407
+199	Manistee	City of Manistee	50720	City of Manistee-50720	382.5826792553854
+200	Jonesville	City of Jonesville	41920	City of Jonesville-41920	147.09729713937568
+201	Olivet	City of Olivet	60580	City of Olivet-60580	84.77561029362704
+202	Lake City	City of Lake City	44480	City of Lake City-44480	24.07745584480676
+203	Clare	City of Clare	15920	City of Clare-15920	868.834865577392
+204	Escanaba	City of Escanaba	26360	City of Escanaba-26360	10870.021504586739
+205	Grosse Pointe	City of Grosse Pointe	35480	City of Grosse Pointe-35480	2285.677394574857
+206	Flint	City of Flint	29000	City of Flint-29000	78941.98843100246
+207	Lathrup Village	City of Lathrup Village	46320	City of Lathrup Village-46320	9555.303321803513
+208	Lapeer	City of Lapeer	46040	City of Lapeer-46040	1201.835044277078
+209	Kalamazoo	City of Kalamazoo	42160	City of Kalamazoo-42160	34833.97764894776
+210	Dearborn	City of Dearborn	21000	City of Dearborn-21000	244447.85830164907
+211	Pleasant Ridge	City of Pleasant Ridge	64900	City of Pleasant Ridge-64900	3918.9828814579682
+212	Rochester	City of Rochester	69020	City of Rochester-69020	6360.40860917776
+213	Milan	City of Milan	53920	City of Milan-53920	2302.3396088652835
+214	Laingsburg	City of Laingsburg	44200	City of Laingsburg-44200	201.21132079663238
+215	Montague	City of Montague	55100	City of Montague-55100	999.3874631247237
+216	Hancock	City of Hancock	36300	City of Hancock-36300	1745.2157207046125
+217	Bangor	City of Bangor	05140	City of Bangor-05140	106.74553046707977
+218	Ironwood	City of Ironwood	41060	City of Ironwood-41060	702.6539405476428
+219	Fennville	City of Fennville	27740	City of Fennville-27740	159.95266941779704
+220	St Louis	City of St Louis	71000	City of St Louis-71000	619.4880310584712
+221	North Muskegon	City of North Muskegon	58640	City of North Muskegon-58640	3860.222144980603
+222	Howell	City of Howell	39540	City of Howell-39540	1642.508412531756
+223	Pinconning	City of Pinconning	64160	City of Pinconning-64160	120.3175623875038
+224	Tawas City	City of Tawas City	78140	City of Tawas City-78140	35.541489568237786
+225	Sterling Heights	City of Sterling Heights	76460	City of Sterling Heights-76460	229076.27428143454
+226	Brown City	City of Brown City	11180	City of Brown City-11180	123.54633058844335
+227	Oak Park	City of Oak Park	59920	City of Oak Park-59920	34471.43857700948
+228	Munising	City of Munising	56200	City of Munising-56200	423.31980616401603
+229	Gladwin	City of Gladwin	32320	City of Gladwin-32320	86.08071423839986
+230	Perry	City of Perry	63700	City of Perry-63700	249.8317287808644
+231	Hillsdale	City of Hillsdale	38460	City of Hillsdale-38460	921.4953121846767
+232	Inkster	City of Inkster	40680	City of Inkster-40680	49287.31619827314
+233	St Joseph	City of St Joseph	70960	City of St Joseph-70960	6931.668029697017
+234	Carson City	City of Carson City	13600	City of Carson City-13600	29.905287187799644
+235	Caseville	City of Caseville	13760	City of Caseville-13760	57.369014953917144
+236	Eaton Rapids	City of Eaton Rapids	24540	City of Eaton Rapids-24540	1084.828325690738
+237	Grand Haven	City of Grand Haven	33340	City of Grand Haven-33340	5690.014753126791
+238	Cadillac	City of Cadillac	12320	City of Cadillac-12320	866.8747572969314
+239	Cedar Springs	City of Cedar Springs	14200	City of Cedar Springs-14200	491.33544282895343
+240	Hudsonville	City of Hudsonville	39800	City of Hudsonville-39800	7384.6094211252175
+241	St Ignace	City of St Ignace	70840	City of St Ignace-70840	3.836104189921109
+242	Linden	City of Linden	47820	City of Linden-47820	2929.683328298412
+243	Albion	City of Albion	00980	City of Albion-00980	1017.0563586755686
+244	Harbor Springs	City of Harbor Springs	36560	City of Harbor Springs-36560	448.7079509085605
+245	Ferndale	City of Ferndale	27880	City of Ferndale-27880	28328.78761903432
+246	Village of Douglas	City of Village of Douglas	22740	City of Village of Douglas-22740	317.30933076874913
+247	Burton	City of Burton	12060	City of Burton-12060	40306.36632635875
+248	Alpena	City of Alpena	01740	City of Alpena-01740	350.05144842050953
+249	Dewitt	City of Dewitt	22120	City of Dewitt-22120	1879.2066150224184
+250	Rockwood	City of Rockwood	69180	City of Rockwood-69180	7573.951280860609
+251	Ludington	City of Ludington	49640	City of Ludington-49640	10022.110140363375
+252	Morenci	City of Morenci	55500	City of Morenci-55500	56.329491458282114
+253	Marquette	City of Marquette	51900	City of Marquette-51900	1519.1168390645928
+254	Newaygo	City of Newaygo	57080	City of Newaygo-57080	434.6387592384007
+255	St Clair Shores	City of St Clair Shores	70760	City of St Clair Shores-70760	55091.857794410644
+256	Davison	City of Davison	19880	City of Davison-19880	385.5372064568976
+257	Norton Shores	City of Norton Shores	59140	City of Norton Shores-59140	97810.08893099251
+258	Grosse Pointe Park	City of Grosse Pointe Park	35540	City of Grosse Pointe Park-35540	4679.810029966559
+259	Flat Rock	City of Flat Rock	28360	City of Flat Rock-28360	23949.53416625974
+260	Croswell	City of Croswell	18920	City of Croswell-18920	75.67352520079562
+261	Gaastra	City of Gaastra	31160	City of Gaastra-31160	21.42947012358939
+262	Negaunee	City of Negaunee	56860	City of Negaunee-56860	858.6148154634509
+263	Portland	City of Portland	65860	City of Portland-65860	236.9406103153059
+264	Coloma	City of Coloma	17320	City of Coloma-17320	97.31178713540118
+265	Charlotte	City of Charlotte	14820	City of Charlotte-14820	1397.3813036338106
+266	Tecumseh	City of Tecumseh	79120	City of Tecumseh-79120	1705.095774348189
+267	Manton	City of Manton	50880	City of Manton-50880	47.65699313130944
+268	Ferrysburg	City of Ferrysburg	27960	City of Ferrysburg-27960	4258.387292148795
+269	Plainwell	City of Plainwell	64740	City of Plainwell-64740	431.0975581699072
+270	West Branch	City of West Branch	85580	City of West Branch-85580	37.12499675458588
+271	Melvindale	City of Melvindale	52940	City of Melvindale-52940	29315.19827074063
+272	Eastpointe	City of Eastpointe	24290	City of Eastpointe-24290	30574.441095993017
+273	Warren	City of Warren	84000	City of Warren-84000	258810.36905511364
+274	Orchard Lake Village	City of Orchard Lake Village	61020	City of Orchard Lake Village-61020	13222.216239654314
+275	Grosse Pointe Woods	City of Grosse Pointe Woods	35580	City of Grosse Pointe Woods-35580	7262.464623997106
+276	Novi	City of Novi	59440	City of Novi-59440	120830.02485236198
+277	Sylvan Lake	City of Sylvan Lake	77860	City of Sylvan Lake-77860	2257.3867290762923
+278	Rogers City	City of Rogers City	69260	City of Rogers City-69260	0.8942584227584184
+279	Imlay City	City of Imlay City	40320	City of Imlay City-40320	828.9449237791995
+280	Mayfield	Mayfield Township	52500	Mayfield Township-52500	2479.0203675388557
+281	Stronach	Stronach Township	76840	Stronach Township-76840	1299.5670126512466
+282	Newark	Newark Township	57040	Newark Township-57040	8535.401027784093
+283	Everett	Everett Township	26700	Everett Township-26700	2325.7378657323725
+284	Winsor	Winsor Township	87960	Winsor Township-87960	2674.6775813894037
+285	Franklin	Franklin Township	30300	Franklin Township-30300	6333.715932720396
+286	Chandler	Chandler Township	14600	Chandler Township-14600	822.4621477661573
+287	Metamora	Metamora Township	53360	Metamora Township-53360	3363.8431237711916
+288	Elbridge	Elbridge Township	25200	Elbridge Township-25200	669.2553586023068
+289	Perry	Perry Township	63720	Perry Township-63720	6452.558239224987
+290	Webber	Webber Township	85060	Webber Township-85060	1121.4430031385796
+291	Moltke	Moltke Township	54860	Moltke Township-54860	3437.616838693648
+292	Sherman	Sherman Township	73180	Sherman Township-73180	1015.4112532280403
+293	Groveland	Groveland Township	35640	Groveland Township-35640	11578.708275407329
+294	Mastodon	Mastodon Township	52300	Mastodon Township-52300	1367.5804920630949
+295	Florence	Florence Township	29060	Florence Township-29060	3878.226771303881
+296	Tompkins	Tompkins Township	79980	Tompkins Township-79980	4832.388140861266
+297	Fawn River	Fawn River Township	27540	Fawn River Township-27540	1748.687575473643
+298	Ransom	Ransom Township	67120	Ransom Township-67120	1256.473978078243
+299	Marathon	Marathon Township	51420	Marathon Township-51420	2295.3843243669594
+300	Sumpter	Sumpter Township	77360	Sumpter Township-77360	47301.11375951918
+301	Watson	Watson Township	84580	Watson Township-84580	6197.821824232934
+302	Woodland	Woodland Township	88440	Woodland Township-88440	2649.669936563706
+303	West Traverse	West Traverse Township	86300	West Traverse Township-86300	1418.472691741086
+304	Hudson	Hudson Township	39740	Hudson Township-39740	1768.314412529651
+305	Brown	Brown Township	11160	Brown Township-11160	1259.0177148182127
+306	Brady	Brady Township	09920	Brady Township-09920	2702.189284789497
+307	Bearinger	Bearinger Township	06400	Bearinger Township-06400	233.46878147927669
+308	Eden	Eden Township	24820	Eden Township-24820	1087.2346392735046
+309	Union	Union Township	81320	Union Township-81320	686.9536086802107
+310	Mitchell	Mitchell Township	54740	Mitchell Township-54740	298.6482867827033
+311	Pinconning	Pinconning Township	64180	Pinconning Township-64180	3974.9415608533227
+312	Peacock	Peacock Township	63120	Peacock Township-63120	290.893985074124
+313	Hillman	Hillman Township	38400	Hillman Township-38400	902.4487223097398
+314	Johnstown	Johnstown Township	41860	Johnstown Township-41860	1622.8541109734135
+315	Osceola	Osceola Township	61280	Osceola Township-61280	2312.7784953320543
+316	Lee	Lee Township	46620	Lee Township-46620	1295.566664280588
+317	Polkton	Polkton Township	65320	Polkton Township-65320	6134.5592069787235
+318	Wales	Wales Township	82900	Wales Township-82900	5694.680905547965
+319	Pickford	Pickford Township	63980	Pickford Township-63980	5111.845258213011
+320	Nester	Nester Township	56980	Nester Township-56980	599.0450251737268
+321	Decatur	Decatur Township	21060	Decatur Township-21060	7283.225862837693
+322	South Arm	South Arm Township	74680	South Arm Township-74680	4074.3586412402824
+323	Brownstown	Brownstown Township	11220	Brownstown Township-11220	99058.82516275928
+324	Lodi	Lodi Township	49120	Lodi Township-49120	126679.49991555183
+325	Tobacco	Tobacco Township	79860	Tobacco Township-79860	2657.634461868602
+326	Norwood	Norwood Township	59340	Norwood Township-59340	3303.9056764618067
+327	Medina	Medina Township	52820	Medina Township-52820	3927.441967733884
+328	Lebanon	Lebanon Township	46580	Lebanon Township-46580	1694.5654494148318
+329	Forest Home	Forest Home Township	29600	Forest Home Township-29600	1285.4003772241133
+330	Weldon	Weldon Township	85160	Weldon Township-85160	1186.5702263996818
+331	Onondaga	Onondaga Township	60800	Onondaga Township-60800	9474.891235432578
+332	Hagar	Hagar Township	35860	Hagar Township-35860	2499.2149694126088
+333	Adams	Adams Township	00300	Adams Township-00300	2010.0978477829253
+334	Bingham	Bingham Township	08440	Bingham Township-08440	1983.9965732578514
+335	Moore	Moore Township	55320	Moore Township-55320	2343.8099832572243
+336	Bark River	Bark River Township	05420	Bark River Township-05420	1064.026512428928
+337	Greenwood	Greenwood Township	35120	Greenwood Township-35120	5257.705247696997
+338	Columbia	Columbia Township	17400	Columbia Township-17400	6866.636729702659
+339	Stanton	Stanton Township	76200	Stanton Township-76200	7445.771093983733
+340	Bergland	Bergland Township	07640	Bergland Township-07640	264.55622965882117
+341	Carlton	Carlton Township	13340	Carlton Township-13340	3556.971904424025
+342	Charlton	Charlton Township	14840	Charlton Township-14840	779.1349146331111
+343	Reading	Reading Township	67520	Reading Township-67520	5963.417142919216
+344	Clyde	Clyde Township	16720	Clyde Township-16720	3106.567104041693
+345	Brookfield	Brookfield Township	10940	Brookfield Township-10940	856.6980333351146
+346	Royalton	Royalton Township	70100	Royalton Township-70100	7834.088526555681
+347	Clement	Clement Township	16360	Clement Township-16360	653.3063457174131
+348	Eagle Harbor	Eagle Harbor Township	23620	Eagle Harbor Township-23620	53.125725200831276
+349	Aetna	Aetna Township	00500	Aetna Township-00500	2455.4937854343234
+350	Ridgeway	Ridgeway Township	68540	Ridgeway Township-68540	1554.1702359267397
+351	Tyrone	Tyrone Township	81160	Tyrone Township-81160	23149.221848638863
+352	Leroy	Leroy Township	47120	Leroy Township-47120	1344.8557412612518
+353	Armada	Armada Township	03540	Armada Township-03540	4114.189154959077
+354	Shelby	Shelby Township	72860	Shelby Township-72860	2926.9481359929205
+355	Flynn	Flynn Township	29240	Flynn Township-29240	903.8871124771099
+356	Newkirk	Newkirk Township	57480	Newkirk Township-57480	580.200525639015
+357	Pokagon	Pokagon Township	65300	Pokagon Township-65300	7906.55423422303
+358	Marquette	Marquette Township	51880	Marquette Township-51880	2175.4282941233078
+359	Quincy	Quincy Township	66660	Quincy Township-66660	2903.9588396765853
+360	Kalamazoo	Kalamazoo Township	42180	Kalamazoo Township-42180	13064.916862826254
+361	Deerfield	Deerfield Township	21240	Deerfield Township-21240	1523.5656107716422
+362	Lanse	Lanse Township	45560	Lanse Township-45560	3190.0851334848826
+363	Bloomfield	Bloomfield Township	09080	Bloomfield Township-09080	596.3336715297999
+364	Platte	Platte Township	64760	Platte Township-64760	930.6360415597525
+365	Richland	Richland Township	68280	Richland Township-68280	1319.8195390316769
+366	Chesaning	Chesaning Township	15160	Chesaning Township-15160	1456.9436152156131
+367	Monterey	Monterey Township	55200	Monterey Township-55200	4649.0961394895985
+368	Vergennes	Vergennes Township	81920	Vergennes Township-81920	5347.714478180252
+369	Green Oak	Green Oak Township	35060	Green Oak Township-35060	36133.33324507347
+370	Avery	Avery Township	04580	Avery Township-04580	591.378665751679
+371	Dorr	Dorr Township	22680	Dorr Township-22680	37151.27367345877
+372	Mansfield	Mansfield Township	50860	Mansfield Township-50860	281.84404684718305
+373	Albion	Albion Township	01000	Albion Township-01000	12182.69997607001
+374	Bingham	Bingham Township	08420	Bingham Township-08420	1397.8720115808799
+375	Home	Home Township	38860	Home Township-38860	539.2055929220747
+376	Heath	Heath Township	37460	Heath Township-37460	2462.653675210283
+377	Klacking	Klacking Township	43640	Klacking Township-43640	1115.763053271474
+378	Wayne	Wayne Township	84920	Wayne Township-84920	1866.1857243692002
+379	Ontwa	Ontwa Township	60900	Ontwa Township-60900	2435.870412859505
+380	Carp Lake	Carp Lake Township	13520	Carp Lake Township-13520	717.1542417318554
+381	Benona	Benona Township	07300	Benona Township-07300	3865.9738532118495
+382	Churchill	Churchill Township	15740	Churchill Township-15740	620.9469565468477
+383	Bloomfield	Bloomfield Township	09110	Bloomfield Township-09110	108631.09289308453
+384	Almira	Almira Township	01640	Almira Township-01640	3667.299317988788
+385	East China	East China Township	23820	East China Township-23820	5678.11821471389
+386	Butler	Butler Township	12140	Butler Township-12140	2257.0887085366394
+387	Haight	Haight Township	35960	Haight Township-35960	435.98806745013366
+388	Galien	Galien Township	31320	Galien Township-31320	970.4973853267752
+389	Branch	Branch Township	10020	Branch Township-10020	400.66719376588475
+390	White Oak	White Oak Township	86900	White Oak Township-86900	4654.605313162022
+391	Vevay	Vevay Township	82220	Vevay Township-82220	6935.1222533779
+392	Denton	Denton Township	21640	Denton Township-21640	2744.63998940023
+393	Laird	Laird Township	44220	Laird Township-44220	728.7859340306591
+394	Evergreen	Evergreen Township	26740	Evergreen Township-26740	542.755696225337
+395	Lakefield	Lakefield Township	44540	Lakefield Township-44540	2809.493456362556
+396	Lee	Lee Township	46640	Lee Township-46640	5558.956005312469
+397	Bismark	Bismark Township	08700	Bismark Township-08700	1470.8883259027102
+398	Greenbush	Greenbush Township	34840	Greenbush Township-34840	1811.010804184598
+399	Posen	Posen Township	66020	Posen Township-66020	234.50583351359873
+400	California	California Township	12560	California Township-12560	856.4323762441403
+401	Lake	Lake Township	44360	Lake Township-44360	1151.3718656945732
+402	Trout Lake	Trout Lake Township	80600	Trout Lake Township-80600	189.7449682906267
+403	Tilden	Tilden Township	79780	Tilden Township-79780	12903.551607891388
+404	Hiawatha	Hiawatha Township	37940	Hiawatha Township-37940	586.5957878395383
+405	Greenwood	Greenwood Township	35240	Greenwood Township-35240	3813.049463296382
+406	Springfield	Springfield Township	75720	Springfield Township-75720	892.2335013658857
+407	Albert	Albert Township	00940	Albert Township-00940	1056.5833096301499
+408	Whitefish	Whitefish Township	86700	Whitefish Township-86700	379.3678576444977
+409	Chikaming	Chikaming Township	15480	Chikaming Township-15480	5216.762791170996
+410	Morton	Morton Township	55600	Morton Township-55600	1616.3221869491265
+411	Mellen	Mellen Township	52860	Mellen Township-52860	391.16426391096314
+412	Penn	Penn Township	63380	Penn Township-63380	1993.8260107475028
+413	Newton	Newton Township	57640	Newton Township-57640	812.6396189031175
+414	Adams	Adams Township	00280	Adams Township-00280	2796.1404264093208
+415	Sullivan	Sullivan Township	77100	Sullivan Township-77100	1960.9869316962797
+416	Norvell	Norvell Township	59180	Norvell Township-59180	1915.077070091217
+417	Holland	Holland Township	38620	Holland Township-38620	197.89963938569042
+418	Sand Beach	Sand Beach Township	71260	Sand Beach Township-71260	2502.791054666022
+419	Denmark	Denmark Township	21600	Denmark Township-21600	1114.8926582005574
+420	Montrose	Montrose Township	55300	Montrose Township-55300	6540.052982182588
+421	Austin	Austin Township	04380	Austin Township-04380	1685.2171748858755
+422	Lilley	Lilley Township	47440	Lilley Township-47440	783.411207185832
+423	Home	Home Township	38840	Home Township-38840	1936.6870443606244
+424	Lansing	Lansing Township	46020	Lansing Township-46020	17186.981559246433
+425	Ada	Ada Township	00240	Ada Township-00240	7952.753861469735
+426	Hamlin	Hamlin Township	36220	Hamlin Township-36220	1765.9718851191014
+427	Cedar Creek	Cedar Creek Township	14120	Cedar Creek Township-14120	1080.9409053399584
+428	Southfield	Southfield Township	74920	Southfield Township-74920	39880.34994797642
+429	Verona	Verona Township	82140	Verona Township-82140	1474.6138980794055
+430	Sanilac	Sanilac Township	71580	Sanilac Township-71580	1027.3944120926262
+431	St Joseph	St Joseph Township	70980	St Joseph Township-70980	13856.408393117654
+432	Isabella	Isabella Township	41160	Isabella Township-41160	3847.1690133160523
+433	Kenockee	Kenockee Township	42740	Kenockee Township-42740	2913.0786482094663
+434	Deerfield	Deerfield Township	21220	Deerfield Township-21220	19941.526816824116
+435	Rose	Rose Township	69580	Rose Township-69580	10769.769443845307
+436	Scio	Scio Township	71940	Scio Township-71940	23822.424600924525
+437	Lima	Lima Township	47460	Lima Township-47460	11960.578796805903
+438	Burt	Burt Township	11960	Burt Township-11960	374.4793997264264
+439	Waverly	Waverly Township	84760	Waverly Township-84760	531.5394461639188
+440	Inverness	Inverness Township	40820	Inverness Township-40820	7316.834023093272
+441	Sylvan	Sylvan Township	77760	Sylvan Township-77760	611.1678678335595
+442	Hudson	Hudson Township	39760	Hudson Township-39760	77.30075176862027
+443	Deerfield	Deerfield Township	21140	Deerfield Township-21140	5369.123905832435
+444	Marion	Marion Township	51700	Marion Township-51700	857.9446240352718
+445	Grant	Grant Township	34300	Grant Township-34300	169.5688604511892
+446	Iron River	Iron River Township	41000	Iron River Township-41000	762.4000010500793
+447	Hampton	Hampton Township	36260	Hampton Township-36260	2288.389164549085
+448	Roxand	Roxand Township	70020	Roxand Township-70020	3921.594059392038
+449	Robinson	Robinson Township	69000	Robinson Township-69000	5298.792998667322
+450	Berlin	Berlin Township	07720	Berlin Township-07720	51942.99526760212
+451	Walker	Walker Township	82940	Walker Township-82940	436.6094717653707
+452	Walton	Walton Township	83180	Walton Township-83180	12924.410821953432
+453	Hinton	Hinton Township	38540	Hinton Township-38540	1212.6623032234577
+454	Grant	Grant Township	34320	Grant Township-34320	10367.879759320576
+455	Sherman	Sherman Township	73300	Sherman Township-73300	7211.293783019425
+456	Franklin	Franklin Township	30320	Franklin Township-30320	8892.85855684825
+457	Hawes	Hawes Township	37220	Hawes Township-37220	991.6665342404476
+458	Grant	Grant Township	34340	Grant Township-34340	919.0016794975545
+459	Wheeler	Wheeler Township	86620	Wheeler Township-86620	2401.7696364336143
+460	White Lake	White Lake Township	86860	White Lake Township-86860	65679.97897447449
+461	Montmorency	Montmorency Township	55240	Montmorency Township-55240	771.9389527458653
+462	Oliver	Oliver Township	60540	Oliver Township-60540	329.1095366766895
+463	Green	Green Township	34740	Green Township-34740	1198.7225957838343
+464	Bridgehampton	Bridgehampton Township	10420	Bridgehampton Township-10420	650.2482735615049
+465	South Branch	South Branch Township	74820	South Branch Township-74820	263.38499880547545
+466	Kingston	Kingston Township	43400	Kingston Township-43400	1035.7772240371276
+467	Plainfield	Plainfield Township	64640	Plainfield Township-64640	1371.9236118290514
+468	Custer	Custer Township	19460	Custer Township-19460	1820.4044072415134
+469	Alpena	Alpena Township	01760	Alpena Township-01760	21371.122131302516
+470	Arvon	Arvon Township	03660	Arvon Township-03660	170.06402368031388
+471	Unadilla	Unadilla Township	81240	Unadilla Township-81240	6272.69708136237
+472	Watertown	Watertown Township	84440	Watertown Township-84440	1418.9436298893484
+473	Jamestown	Jamestown Township	41520	Jamestown Township-41520	83404.74182794712
+474	Cold Springs	Cold Springs Township	17000	Cold Springs Township-17000	884.2550780261406
+475	Harris	Harris Township	36760	Harris Township-36760	1655.884646461259
+476	Redding	Redding Township	67600	Redding Township-67600	433.08633186181186
+477	Seney	Seney Township	72500	Seney Township-72500	35.535842931048315
+478	Sparta	Sparta Township	75440	Sparta Township-75440	6746.185829755999
+479	Dickson	Dickson Township	22320	Dickson Township-22320	889.9385503719169
+480	Wakeshma	Wakeshma Township	82840	Wakeshma Township-82840	2599.4849500013875
+481	Eveline	Eveline Township	26680	Eveline Township-26680	4362.609859659755
+482	Ocqueoc	Ocqueoc Township	60160	Ocqueoc Township-60160	220.59717289969308
+483	Flushing	Flushing Township	29220	Flushing Township-29220	17440.56749194697
+484	Benzonia	Benzonia Township	07600	Benzonia Township-07600	1344.5800204610625
+485	Big Rapids	Big Rapids Township	08320	Big Rapids Township-08320	8979.821513124769
+486	Allendale	Allendale Township	01360	Allendale Township-01360	10096.049341283386
+487	Sodus	Sodus Township	74440	Sodus Township-74440	2258.316474796798
+488	Enterprise	Enterprise Township	26200	Enterprise Township-26200	210.60779008472466
+489	Washington	Washington Township	84080	Washington Township-84080	686.1228281991748
+490	Burtchville	Burtchville Township	12020	Burtchville Township-12020	97.26146529520145
+491	Pavilion	Pavilion Township	62960	Pavilion Township-62960	8296.802933398223
+492	Lincoln	Lincoln Township	47720	Lincoln Township-47720	1014.6615325873959
+493	Litchfield	Litchfield Township	48000	Litchfield Township-48000	2291.5466669281755
+494	Eckford	Eckford Township	24700	Eckford Township-24700	4375.4424560366515
+495	Wayland	Wayland Township	84900	Wayland Township-84900	5279.287129926639
+496	Liberty	Liberty Township	47380	Liberty Township-47380	1507.0467155063843
+497	Wheatland	Wheatland Township	86560	Wheatland Township-86560	1565.2222264021689
+498	Colfax	Colfax Township	17200	Colfax Township-17200	1431.5752665837015
+499	Amber	Amber Township	01980	Amber Township-01980	1356.604213724532
+500	Carrollton	Carrollton Township	13540	Carrollton Township-13540	3417.959940302753
+501	Rust	Rust Township	70380	Rust Township-70380	935.9646875233581
+502	Bay Mills	Bay Mills Township	06070	Bay Mills Township-06070	1852.4141903439638
+503	Grand Blanc	Grand Blanc Township	33300	Grand Blanc Township-33300	57816.7888829264
+504	Kawkawlin	Kawkawlin Township	42360	Kawkawlin Township-42360	2357.3933300231647
+505	Wheatland	Wheatland Township	86540	Wheatland Township-86540	3928.5613856566297
+506	Freedom	Freedom Township	30520	Freedom Township-30520	10077.118622225376
+507	Hancock	Hancock Township	36320	Hancock Township-36320	315.2502330598745
+508	Chester	Chester Township	15280	Chester Township-15280	1097.9944354467254
+509	Elmwood	Elmwood Township	25700	Elmwood Township-25700	1767.5929727857488
+510	Pipestone	Pipestone Township	64480	Pipestone Township-64480	3483.0846022327314
+511	Orion	Orion Township	61100	Orion Township-61100	35080.07136136161
+512	Wilson	Wilson Township	87680	Wilson Township-87680	9600.523365118032
+513	Atlas	Atlas Township	04000	Atlas Township-04000	8189.727088322287
+514	Clinton	Clinton Township	16500	Clinton Township-16500	3275.0967441141815
+515	Chester	Chester Township	15260	Chester Township-15260	2885.5127715232475
+516	Ira	Ira Township	40920	Ira Township-40920	3489.1181575529276
+517	Deerfield	Deerfield Township	21200	Deerfield Township-21200	2300.6660626047983
+518	Pulawski	Pulawski Township	66460	Pulawski Township-66460	51.23903354071185
+519	Stephenson	Stephenson Township	76400	Stephenson Township-76400	277.85146594935594
+520	Dwight	Dwight Township	23540	Dwight Township-23540	414.89840997202816
+521	Cambria	Cambria Township	12700	Cambria Township-12700	7752.077785959991
+522	Porter	Porter Township	65720	Porter Township-65720	2521.369283076631
+523	Reeder	Reeder Township	67840	Reeder Township-67840	595.9610702015623
+524	Wheatland	Wheatland Township	86580	Wheatland Township-86580	1108.404383364208
+525	Bruce	Bruce Township	11280	Bruce Township-11280	4682.472201216586
+526	Millington	Millington Township	54240	Millington Township-54240	3136.8718941584098
+527	Sciota	Sciota Township	71960	Sciota Township-71960	3047.069819230782
+528	Central Lake	Central Lake Township	14420	Central Lake Township-14420	1876.2297574197385
+529	Cambridge	Cambridge Township	12720	Cambridge Township-12720	3668.300613153411
+530	Waterford	Waterford Township	84240	Waterford Township-84240	98113.99762759867
+531	West Bloomfield	West Bloomfield Township	85480	West Bloomfield Township-85480	127059.2910713693
+532	Paw Paw	Paw Paw Township	63000	Paw Paw Township-63000	10960.8032668253
+533	Arenac	Arenac Township	03360	Arenac Township-03360	934.0256224966348
+534	Comins	Comins Township	17600	Comins Township-17600	711.9817331863508
+535	Maple Ridge	Maple Ridge Township	51260	Maple Ridge Township-51260	462.56072199920936
+536	Bourret	Bourret Township	09720	Bourret Township-09720	744.3518109355664
+537	Blaine	Blaine Township	08840	Blaine Township-08840	856.2738926220119
+538	Gerrish	Gerrish Township	31960	Gerrish Township-31960	1216.9211019421914
+539	Gore	Gore Township	33080	Gore Township-33080	5.106010207592066
+540	Crystal Lake	Crystal Lake Township	19180	Crystal Lake Township-19180	3167.786946107505
+541	Emerson	Emerson Township	25880	Emerson Township-25880	2153.5251711302626
+542	Forester	Forester Township	29500	Forester Township-29500	164.00773710889754
+543	Porter	Porter Township	65740	Porter Township-65740	2603.8084984751486
+544	Hayes	Hayes Township	37360	Hayes Township-37360	7708.137009246806
+545	Fruitland	Fruitland Township	30980	Fruitland Township-30980	12082.590267565443
+546	Duncan	Duncan Township	23340	Duncan Township-23340	171.02789823985918
+547	Chassell	Chassell Township	14920	Chassell Township-14920	1724.1405839807326
+548	Logan	Logan Township	49140	Logan Township-49140	476.8164297073666
+549	Spencer	Spencer Township	75560	Spencer Township-75560	2392.100742339438
+550	Ellington	Ellington Township	25380	Ellington Township-25380	1131.330299168224
+551	Blendon	Blendon Township	08940	Blendon Township-08940	43080.33373290683
+552	Erie	Erie Township	26320	Erie Township-26320	11515.617919478029
+553	Keeler	Keeler Township	42500	Keeler Township-42500	2483.4577338794847
+554	Comstock	Comstock Township	17680	Comstock Township-17680	5978.063445636029
+555	Pinora	Pinora Township	64440	Pinora Township-64440	858.3487802112722
+556	Lake	Lake Township	44300	Lake Township-44300	366.2009123942516
+557	Trowbridge	Trowbridge Township	80620	Trowbridge Township-80620	6133.686694546993
+558	Fairplain	Fairplain Township	27180	Fairplain Township-27180	3330.7190414720735
+559	Goodland	Goodland Township	32960	Goodland Township-32960	1119.295361508708
+560	Summerfield	Summerfield Township	77120	Summerfield Township-77120	319.4110349735501
+561	Barry	Barry Township	05560	Barry Township-05560	2027.0412025111286
+562	Beaverton	Beaverton Township	06680	Beaverton Township-06680	3731.018883165713
+563	Winterfield	Winterfield Township	87980	Winterfield Township-87980	335.0844847898539
+564	Ovid	Ovid Township	61840	Ovid Township-61840	7225.979890401008
+565	Convis	Convis Township	17880	Convis Township-17880	4328.434246729604
+566	Thomas	Thomas Township	79520	Thomas Township-79520	44187.99262533503
+567	Hume	Hume Township	39960	Hume Township-39960	751.7575117241812
+568	Greenbush	Greenbush Township	34820	Greenbush Township-34820	596.6004361610172
+569	Eaton Rapids	Eaton Rapids Township	24560	Eaton Rapids Township-24560	39681.46886757598
+570	Mt Forest	Mt Forest Township	55920	Mt Forest Township-55920	1006.1727761560182
+571	Chestonia	Chestonia Township	15380	Chestonia Township-15380	448.4816507191198
+572	Marlette	Marlette Township	51840	Marlette Township-51840	2865.238292920671
+573	Holmes	Holmes Township	38760	Holmes Township-38760	322.373275738034
+574	Interior	Interior Township	40760	Interior Township-40760	159.12894474866127
+575	Clam Lake	Clam Lake Township	15860	Clam Lake Township-15860	6102.885670640947
+576	Evergreen	Evergreen Township	26720	Evergreen Township-26720	2344.7313508250418
+577	Stambaugh	Stambaugh Township	76080	Stambaugh Township-76080	2822.0022424044596
+578	Greenwood	Greenwood Township	35220	Greenwood Township-35220	2276.646062021401
+579	Moran	Moran Township	55480	Moran Township-55480	1542.7221526415628
+580	Austin	Austin Township	04400	Austin Township-04400	694.7060125735775
+581	Buckeye	Buckeye Township	11440	Buckeye Township-11440	1907.8995058916767
+582	Koylton	Koylton Township	43880	Koylton Township-43880	1551.8172232005843
+583	Ferris	Ferris Township	27900	Ferris Township-27900	1679.483493526758
+584	Clay Banks	Clay Banks Township	16200	Clay Banks Township-16200	1871.259490967687
+585	Midland	Midland Township	53800	Midland Township-53800	10356.339546061694
+586	Bloomfield	Bloomfield Township	09060	Bloomfield Township-09060	486.06975278720967
+587	Buena Vista	Buena Vista Township	11560	Buena Vista Township-11560	11489.447057840638
+588	Williamstown	Williamstown Township	87440	Williamstown Township-87440	3743.798953225145
+589	Belvidere	Belvidere Township	07200	Belvidere Township-07200	1963.9155752780498
+590	Ely	Ely Township	25820	Ely Township-25820	7905.271789994937
+591	Pere Marquette	Pere Marquette Township	63600	Pere Marquette Township-63600	6348.50668664994
+592	Portsmouth	Portsmouth Township	65980	Portsmouth Township-65980	8027.361051043913
+593	Deep River	Deep River Township	21120	Deep River Township-21120	857.160489805889
+594	Richland	Richland Township	68260	Richland Township-68260	3109.466641461566
+595	Henrietta	Henrietta Township	37700	Henrietta Township-37700	1877.8829491046447
+596	Benton	Benton Township	07420	Benton Township-07420	2605.4272803813656
+597	Chapin	Chapin Township	14660	Chapin Township-14660	770.4563614663213
+598	Oakland	Oakland Township	59820	Oakland Township-59820	24606.27855905785
+599	Adrian	Adrian Township	00460	Adrian Township-00460	18743.928640643404
+600	Attica	Attica Township	04040	Attica Township-04040	5885.660540405488
+601	Shelby	Shelby Township	72820	Shelby Township-72820	72875.22102804875
+602	Tawas	Tawas Township	78100	Tawas Township-78100	2660.2578181592753
+603	Inwood	Inwood Township	40840	Inwood Township-40840	469.1878895078035
+604	Bedford	Bedford Township	06740	Bedford Township-06740	23182.91079034147
+605	Rich	Rich Township	68160	Rich Township-68160	1664.6660548722368
+606	Alpine	Alpine Township	01840	Alpine Township-01840	26747.113685855555
+607	Adams	Adams Township	00320	Adams Township-00320	9929.399355403157
+608	Richland	Richland Township	68340	Richland Township-68340	8219.92889742787
+609	Wright	Wright Township	88820	Wright Township-88820	9291.459489965826
+610	Bay De Noc	Bay De Noc Township	06040	Bay De Noc Township-06040	548.0283603694307
+611	Garfield	Garfield Township	31540	Garfield Township-31540	1326.451558352353
+612	Zilwaukee	Zilwaukee Township	89340	Zilwaukee Township-89340	5189.260560221933
+613	Bethel	Bethel Township	08060	Bethel Township-08060	10180.104012169186
+614	Oceola	Oceola Township	60120	Oceola Township-60120	17350.037492073578
+615	Madison	Madison Township	50540	Madison Township-50540	18456.444295537014
+616	Canton	Canton Township	13120	Canton Township-13120	213882.63806425224
+617	Campbell	Campbell Township	12840	Campbell Township-12840	2191.250927930498
+618	Coe	Coe Township	16880	Coe Township-16880	2528.664888311496
+619	Swan Creek	Swan Creek Township	77660	Swan Creek Township-77660	21822.410015296104
+620	Lockport	Lockport Township	49060	Lockport Township-49060	2894.412636840621
+621	Algoma	Algoma Township	01160	Algoma Township-01160	14168.656542744626
+622	Riley	Riley Township	68620	Riley Township-68620	2171.8859688055654
+623	Sherwood	Sherwood Township	73440	Sherwood Township-73440	3724.572718459807
+624	Valley	Valley Township	81580	Valley Township-81580	4584.617498687594
+625	Surrey	Surrey Township	77580	Surrey Township-77580	1773.8630831030173
+626	Park	Park Township	62480	Park Township-62480	8223.524303810445
+627	Antwerp	Antwerp Township	03140	Antwerp Township-03140	16605.12106076133
+628	Mathias	Mathias Township	52360	Mathias Township-52360	182.59780379875986
+629	Manchester	Manchester Township	50680	Manchester Township-50680	4456.244279118463
+630	Hamilton	Hamilton Township	36160	Hamilton Township-36160	723.7349446790769
+631	Boardman	Boardman Township	09440	Boardman Township-09440	1771.6030592010839
+632	Wells	Wells Township	85280	Wells Township-85280	903.9673432584217
+633	Yankee Springs	Yankee Springs Township	89020	Yankee Springs Township-89020	5215.621971490291
+634	Pentland	Pentland Township	63500	Pentland Township-63500	4684.745233600259
+635	Onekama	Onekama Township	60760	Onekama Township-60760	1266.2124381048038
+636	Troy	Troy Township	80680	Troy Township-80680	692.299605003493
+637	Orient	Orient Township	61080	Orient Township-61080	782.2206305966035
+638	Lake	Lake Township	44320	Lake Township-44320	755.6248709174565
+639	Ontonagon	Ontonagon Township	60880	Ontonagon Township-60880	2755.0436863760006
+640	Kearney	Kearney Township	42400	Kearney Township-42400	682.1351691797825
+641	Clearwater	Clearwater Township	16340	Clearwater Township-16340	1504.670175279375
+642	Peaine	Peaine Township	63140	Peaine Township-63140	456.58719335747605
+643	Millen	Millen Township	54060	Millen Township-54060	500.07456159092186
+644	Cross Village	Cross Village Township	18900	Cross Village Township-18900	132.0636285884091
+645	Holly	Holly Township	38720	Holly Township-38720	21258.920418107544
+646	Cumming	Cumming Township	19260	Cumming Township-19260	533.2726352405501
+647	Evangeline	Evangeline Township	26580	Evangeline Township-26580	2801.757844308494
+648	Milford	Milford Township	53980	Milford Township-53980	43573.84679950352
+649	Emmett	Emmett Township	25960	Emmett Township-25960	2019.8314879894858
+650	Monroe	Monroe Township	55060	Monroe Township-55060	247.12755993833431
+651	Bessemer	Bessemer Township	07980	Bessemer Township-07980	3770.8756284242854
+652	Skandia	Skandia Township	74110	Skandia Township-74110	354.4458559106901
+653	Mentor	Mentor Township	53100	Mentor Township-53100	1172.9823458417723
+654	Northfield	Northfield Township	58280	Northfield Township-58280	38026.88193223437
+655	Lincoln	Lincoln Township	47660	Lincoln Township-47660	41228.03066417855
+656	Otsego Lake	Otsego Lake Township	61680	Otsego Lake Township-61680	2526.8474680572917
+657	Lincoln	Lincoln Township	47600	Lincoln Township-47600	32980.79806190329
+658	Covington	Covington Township	18600	Covington Township-18600	314.71867436975595
+659	Ross	Ross Township	69820	Ross Township-69820	6599.482339485317
+660	Bridgeton	Bridgeton Township	10500	Bridgeton Township-10500	5339.83621571029
+661	Bloomingdale	Bloomingdale Township	09240	Bloomingdale Township-09240	2215.7080160624905
+662	Stockbridge	Stockbridge Township	76580	Stockbridge Township-76580	2709.946382830178
+663	Dalton	Dalton Township	19660	Dalton Township-19660	4605.9230296979085
+664	Saugatuck	Saugatuck Township	71720	Saugatuck Township-71720	22432.41294795541
+665	Harrison	Harrison Township	36820	Harrison Township-36820	49503.461136530605
+666	Otsego	Otsego Township	61640	Otsego Township-61640	6708.341992347917
+667	Fairhaven	Fairhaven Township	27120	Fairhaven Township-27120	895.1188374545409
+668	Cheshire	Cheshire Township	15200	Cheshire Township-15200	5536.387638985863
+669	Taymouth	Taymouth Township	79100	Taymouth Township-79100	7634.559301678499
+670	Grant	Grant Township	34220	Grant Township-34220	3296.1885663955395
+671	Ronald	Ronald Township	69440	Ronald Township-69440	1104.5944967986138
+672	Buel	Buel Township	11540	Buel Township-11540	1168.7929507357642
+673	Turner	Turner Township	80840	Turner Township-80840	320.68967726589125
+674	Northville	Northville Township	59000	Northville Township-59000	72798.98510899313
+675	Palmyra	Palmyra Township	62240	Palmyra Township-62240	5271.734338277793
+676	Geneva	Geneva Township	31840	Geneva Township-31840	2846.173130342515
+677	Clark	Clark Township	16060	Clark Township-16060	1492.0682285220553
+678	Elk	Elk Township	25260	Elk Township-25260	824.4545252516915
+679	Garfield	Garfield Township	31620	Garfield Township-31620	580.2917160854794
+680	Hopkins	Hopkins Township	39200	Hopkins Township-39200	9217.304656265824
+681	Indianfields	Indianfields Township	40440	Indianfields Township-40440	3306.335471168708
+682	Colfax	Colfax Township	17160	Colfax Township-17160	928.3703478765026
+683	Arcadia	Arcadia Township	03320	Arcadia Township-03320	965.6485955785811
+684	Holton	Holton Township	38820	Holton Township-38820	2751.154724768259
+685	Marengo	Marengo Township	51520	Marengo Township-51520	1491.4330772856115
+686	Bloomer	Bloomer Township	09040	Bloomer Township-09040	4157.315083090595
+687	Lake	Lake Township	44240	Lake Township-44240	557.6286370254119
+688	Paradise	Paradise Township	62320	Paradise Township-62320	4002.4851128380465
+689	Arbela	Arbela Township	03220	Arbela Township-03220	4626.667579055362
+690	Manistee	Manistee Township	50740	Manistee Township-50740	1949.9206930933292
+691	Tuscarora	Tuscarora Township	80880	Tuscarora Township-80880	1463.4415256781529
+692	Spalding	Spalding Township	75350	Spalding Township-75350	583.575890039396
+693	Elmwood	Elmwood Township	25720	Elmwood Township-25720	1418.2001015786414
+694	Cedar	Cedar Township	14040	Cedar Township-14040	1036.5079591092408
+695	Hulbert	Hulbert Township	39860	Hulbert Township-39860	154.12797174225025
+696	Bear Lake	Bear Lake Township	06480	Bear Lake Township-06480	804.5457800828829
+697	Beaver	Beaver Township	06540	Beaver Township-06540	1789.2278483216473
+698	Ossineke	Ossineke Township	61520	Ossineke Township-61520	1849.02648504349
+699	Fredonia	Fredonia Township	30500	Fredonia Township-30500	13286.557463032825
+700	Watertown	Watertown Township	84460	Watertown Township-84460	2701.982622171605
+701	Genoa	Genoa Township	31860	Genoa Township-31860	25541.63829457426
+702	Oshtemo	Oshtemo Township	61400	Oshtemo Township-61400	32276.176055117376
+703	Bates	Bates Township	05860	Bates Township-05860	435.82253079155305
+704	Parma	Parma Township	62760	Parma Township-62760	2410.85710936833
+705	Calumet	Calumet Township	12600	Calumet Township-12600	3014.574723545047
+706	Plainfield	Plainfield Township	64660	Plainfield Township-64660	26939.580531659085
+707	Mundy	Mundy Township	56160	Mundy Township-56160	94957.81918006387
+708	Butterfield	Butterfield Township	12200	Butterfield Township-12200	588.729750887437
+709	Novi	Novi Township	59460	Novi Township-59460	436.05994346446676
+710	Mt Morris	Mt Morris Township	55980	Mt Morris Township-55980	26807.71991828606
+711	Sherman	Sherman Township	73280	Sherman Township-73280	1954.5943898826517
+712	Springport	Springport Township	75880	Springport Township-75880	2795.358761098289
+713	Blumfield	Blumfield Township	09400	Blumfield Township-09400	1928.296028073981
+714	Champion	Champion Township	14540	Champion Township-14540	270.59940681138346
+715	Warner	Warner Township	83300	Warner Township-83300	748.6431491897745
+716	Caseville	Caseville Township	13780	Caseville Township-13780	744.071190706922
+717	Ravenna	Ravenna Township	67300	Ravenna Township-67300	2322.49799766218
+718	Sherman	Sherman Township	73160	Sherman Township-73160	1168.3982656336107
+719	Girard	Girard Township	32280	Girard Township-32280	1338.1979428157558
+720	Niles	Niles Township	57780	Niles Township-57780	15428.44184858073
+721	Huron	Huron Township	40020	Huron Township-40020	91.48990589154891
+722	New Field	New Field Township	57300	New Field Township-57300	831.0156976008924
+723	Sage	Sage Township	70500	Sage Township-70500	1227.1350688569898
+724	Erwin	Erwin Township	26340	Erwin Township-26340	2745.7971948505697
+725	Beaugrand	Beaugrand Township	06500	Beaugrand Township-06500	1241.2959582134217
+726	Arlington	Arlington Township	03500	Arlington Township-03500	2010.34404127518
+727	Custer	Custer Township	19400	Custer Township-19400	2611.159900149585
+728	Sims	Sims Township	74020	Sims Township-74020	391.40064063649226
+729	Fraser	Fraser Township	30400	Fraser Township-30400	3693.95155051746
+730	Sandstone	Sandstone Township	71500	Sandstone Township-71500	7606.6193081578185
+731	Sands	Sands Township	71460	Sands Township-71460	21690.499988954514
+732	Hill	Hill Township	38300	Hill Township-38300	964.6503572620742
+733	Vienna	Vienna Township	82420	Vienna Township-82420	379.4798643371878
+734	Hartford	Hartford Township	36980	Hartford Township-36980	5279.981493016384
+735	Colfax	Colfax Township	17120	Colfax Township-17120	2564.203202749006
+736	Castleton	Castleton Township	13960	Castleton Township-13960	3110.5462501523907
+737	Gilford	Gilford Township	32160	Gilford Township-32160	842.4828520525634
+738	Tittabawassee	Tittabawassee Township	79840	Tittabawassee Township-79840	5622.725253392259
+739	Whitney	Whitney Township	87080	Whitney Township-87080	1238.5337974761364
+740	Maple Forest	Maple Forest Township	50940	Maple Forest Township-50940	614.7949853240275
+741	Garfield	Garfield Township	31580	Garfield Township-31580	26317.882118668298
+742	Schoolcraft	Schoolcraft Township	71880	Schoolcraft Township-71880	30984.63637143884
+743	Fremont	Fremont Township	30720	Fremont Township-30720	4545.373449407472
+744	Stannard	Stannard Township	76180	Stannard Township-76180	450.65077794053997
+745	Macomb	Macomb Township	50480	Macomb Township-50480	38265.41884162215
+746	Onota	Onota Township	60820	Onota Township-60820	259.79495690888604
+747	Hamilton	Hamilton Township	36180	Hamilton Township-36180	3373.794437072588
+748	Blue Lake	Blue Lake Township	09340	Blue Lake Township-09340	888.8070299429874
+749	Fayette	Fayette Township	27580	Fayette Township-27580	1840.2556809216235
+750	Batavia	Batavia Township	05800	Batavia Township-05800	10951.534047615913
+751	Munro	Munro Township	56280	Munro Township-56280	1022.0568731701964
+752	Whiteford	Whiteford Township	86740	Whiteford Township-86740	30497.534159766616
+753	Haring	Haring Township	36600	Haring Township-36600	1335.5718935969642
+754	Clinton	Clinton Township	16520	Clinton Township-16520	103341.78874842034
+755	Maple Grove	Maple Grove Township	50960	Maple Grove Township-50960	2318.0951059878316
+756	Oneida	Oneida Township	60700	Oneida Township-60700	26509.814960802818
+757	Caledonia	Caledonia Township	12500	Caledonia Township-12500	11076.149930768659
+758	Elmira	Elmira Township	25620	Elmira Township-25620	1693.3763217032756
+759	Lyon	Lyon Township	49840	Lyon Township-49840	1547.390785156173
+760	St James	St James Township	70920	St James Township-70920	23.671034738834223
+761	Bath	Bath Township	05900	Bath Township-05900	5869.5158188828445
+762	Ensley	Ensley Township	26160	Ensley Township-26160	2492.4234669326133
+763	Ingham	Ingham Township	40640	Ingham Township-40640	5286.0042934216945
+764	Augusta	Augusta Township	04180	Augusta Township-04180	43860.86759802005
+765	Burnside	Burnside Township	11900	Burnside Township-11900	3876.888329321292
+766	Greenland	Greenland Township	35000	Greenland Township-35000	203.23012401016842
+767	Greenleaf	Greenleaf Township	35020	Greenleaf Township-35020	863.031574943987
+768	Frost	Frost Township	30900	Frost Township-30900	732.592833087779
+769	Tekonsha	Tekonsha Township	79180	Tekonsha Township-79180	2596.779125133081
+770	Elk	Elk Township	25280	Elk Township-25280	714.1081609986152
+771	Springfield	Springfield Township	75760	Springfield Township-75760	27868.41652355351
+772	Fenton	Fenton Township	27780	Fenton Township-27780	36706.644856687904
+773	Brookfield	Brookfield Township	10920	Brookfield Township-10920	5372.994262384473
+774	Osceola	Osceola Township	61260	Osceola Township-61260	8352.017681149726
+775	Oregon	Oregon Township	61060	Oregon Township-61060	5068.880673004523
+776	Grosse Ile	Grosse Ile Township	35420	Grosse Ile Township-35420	31945.247807369746
+777	Essex	Essex Township	26400	Essex Township-26400	1862.3991104561574
+778	Sherman	Sherman Township	73260	Sherman Township-73260	2358.1133000707573
+779	Richfield	Richfield Township	68200	Richfield Township-68200	2121.7454278553646
+780	Noble	Noble Township	57860	Noble Township-57860	2112.0303613879064
+781	Cedarville	Cedarville Township	14240	Cedarville Township-14240	276.0475298136346
+782	Pittsfield	Pittsfield Township	64560	Pittsfield Township-64560	108768.57875524653
+783	Lowell	Lowell Township	49560	Lowell Township-49560	11664.72160277728
+784	Gunplain	Gunplain Township	35720	Gunplain Township-35720	4082.4050551268833
+785	McKinley	McKinley Township	50360	McKinley Township-50360	1178.5349444648562
+786	Aloha	Aloha Township	01720	Aloha Township-01720	1092.9869258284762
+787	Milton	Milton Township	54460	Milton Township-54460	2783.2008536314643
+788	Alaiedon	Alaiedon Township	00800	Alaiedon Township-00800	23823.993703112526
+789	Quincy	Quincy Township	66680	Quincy Township-66680	710.8866900596953
+790	Greenwood	Greenwood Township	35160	Greenwood Township-35160	1994.3455709533173
+791	Mills	Mills Township	54320	Mills Township-54320	1017.1316490893147
+792	Green	Green Township	34760	Green Township-34760	4181.5004386217315
+793	New Haven	New Haven Township	57360	New Haven Township-57360	4640.976782307057
+794	Amboy	Amboy Township	02020	Amboy Township-02020	879.4092693647406
+795	Lenox	Lenox Township	46900	Lenox Township-46900	15215.39536410446
+796	Sherman	Sherman Township	73240	Sherman Township-73240	749.8446786661231
+797	Cottrellville	Cottrellville Township	18400	Cottrellville Township-18400	7167.537662634907
+798	Ford River	Ford River Township	29380	Ford River Township-29380	12748.381014276463
+799	Speaker	Speaker Township	75500	Speaker Township-75500	942.8622471482129
+800	Standish	Standish Township	76140	Standish Township-76140	1292.9485556681389
+801	Orangeville	Orangeville Township	60980	Orangeville Township-60980	2713.11080261588
+802	Venice	Venice Township	81880	Venice Township-81880	8571.592719186796
+803	Victory	Victory Township	82360	Victory Township-82360	871.7094591292262
+804	Bliss	Bliss Township	08980	Bliss Township-08980	419.1622773190451
+805	Allen	Allen Township	01320	Allen Township-01320	6792.102358688816
+806	Wisner	Wisner Township	88080	Wisner Township-88080	311.68297229197503
+807	Maple River	Maple River Township	51280	Maple River Township-51280	1284.1778676848237
+808	Riverside	Riverside Township	68820	Riverside Township-68820	673.7617834605173
+809	York	York Township	89100	York Township-89100	52590.85228779727
+810	Athens	Athens Township	03900	Athens Township-03900	3368.75187677657
+811	Greendale	Greendale Township	34860	Greendale Township-34860	1617.5957106085361
+812	Grattan	Grattan Township	34560	Grattan Township-34560	9335.629446095754
+813	West Branch	West Branch Township	85600	West Branch Township-85600	769.4182077805496
+814	Fairfield	Fairfield Township	27020	Fairfield Township-27020	11916.97477089025
+815	Koehler	Koehler Township	43820	Koehler Township-43820	841.142825936702
+816	Concord	Concord Township	17760	Concord Township-17760	7728.029343594513
+817	Charleston	Charleston Township	14720	Charleston Township-14720	23046.678685390365
+818	Green Lake	Green Lake Township	34960	Green Lake Township-34960	19133.72416703973
+819	Hanover	Hanover Township	36420	Hanover Township-36420	2645.517198059292
+820	Detour	Detour Township	21770	Detour Township-21770	612.3098313573652
+821	Three Oaks	Three Oaks Township	79740	Three Oaks Township-79740	1606.937104850542
+822	St Ignace	St Ignace Township	70860	St Ignace Township-70860	541.7918508428202
+823	Casnovia	Casnovia Township	13840	Casnovia Township-13840	3755.8174919637527
+824	Sherman	Sherman Township	73140	Sherman Township-73140	868.8290403671805
+825	Flowerfield	Flowerfield Township	29140	Flowerfield Township-29140	5562.1872512761975
+826	Lawrence	Lawrence Township	46460	Lawrence Township-46460	3268.870708640898
+827	Almena	Almena Township	01600	Almena Township-01600	3443.81805462157
+828	Sidney	Sidney Township	73840	Sidney Township-73840	2709.121108313033
+829	Arcada	Arcada Township	03260	Arcada Township-03260	11791.35285238903
+830	Crystal Falls	Crystal Falls Township	19150	Crystal Falls Township-19150	992.9813850709825
+831	Mullett	Mullett Township	56100	Mullett Township-56100	1331.8923303233933
+832	Beaver Creek	Beaver Creek Township	06600	Beaver Creek Township-06600	5407.010381666132
+833	McMillan	McMillan Township	50460	McMillan Township-50460	392.2389404082251
+834	Fife Lake	Fife Lake Township	28020	Fife Lake Township-28020	971.2719450542977
+835	Overisel	Overisel Township	61820	Overisel Township-61820	8189.827270473136
+836	Arcadia	Arcadia Township	03280	Arcadia Township-03280	1745.4544051634882
+837	Norwich	Norwich Township	59280	Norwich Township-59280	204.0358956850459
+838	Barton	Barton Township	05620	Barton Township-05620	4380.385064715162
+839	Montague	Montague Township	55120	Montague Township-55120	3101.8314730728985
+840	Ionia	Ionia Township	40880	Ionia Township-40880	1434.8991160727767
+841	Elmer	Elmer Township	25540	Elmer Township-25540	4936.2547359970595
+842	Frankenlust	Frankenlust Township	30180	Frankenlust Township-30180	21937.798245911425
+843	Woodhull	Woodhull Township	88400	Woodhull Township-88400	5677.131813893056
+844	Rock River	Rock River Township	69160	Rock River Township-69160	656.624709757865
+845	Nadeau	Nadeau Township	56440	Nadeau Township-56440	1402.9226146871963
+846	Howard	Howard Township	39480	Howard Township-39480	8438.935776226803
+847	Marshall	Marshall Township	51960	Marshall Township-51960	1677.4546269172524
+848	Spaulding	Spaulding Township	75480	Spaulding Township-75480	35009.928734754474
+849	Inland	Inland Township	40700	Inland Township-40700	4349.798377551787
+850	Ellis	Ellis Township	25400	Ellis Township-25400	515.1347733445402
+851	Cherry Grove	Cherry Grove Township	15060	Cherry Grove Township-15060	14922.259085221896
+852	Rolland	Rolland Township	69300	Rolland Township-69300	1431.4327739607675
+853	Gaines	Gaines Township	31240	Gaines Township-31240	46672.181642142656
+854	Volinia	Volinia Township	82580	Volinia Township-82580	4075.6103255891317
+855	Freeman	Freeman Township	30560	Freeman Township-30560	938.669556268477
+856	Sheridan	Sheridan Township	73000	Sheridan Township-73000	1602.0972311018281
+857	Hanover	Hanover Township	36400	Hanover Township-36400	13390.479761735316
+858	Cornell	Cornell Township	18280	Cornell Township-18280	459.9370024038599
+859	Bridgeport	Bridgeport Township	10460	Bridgeport Township-10460	5774.797073342289
+860	Dewitt	Dewitt Township	22140	Dewitt Township-22140	9680.799197255343
+861	Oliver	Oliver Township	60520	Oliver Township-60520	3439.5695817069764
+862	Edwards	Edwards Township	25020	Edwards Township-25020	5131.126823595836
+863	Liberty	Liberty Township	47360	Liberty Township-47360	14759.077316070601
+864	Pulaski	Pulaski Township	66440	Pulaski Township-66440	2904.938816212168
+865	Grand Island	Grand Island Township	33380	Grand Island Township-33380	208.6961397985389
+866	Center	Center Township	14300	Center Township-14300	555.8637102768939
+867	West Branch	West Branch Township	85540	West Branch Township-85540	2211.9476994573656
+868	Raisinville	Raisinville Township	66900	Raisinville Township-66900	29174.211549258704
+869	Weesaw	Weesaw Township	85120	Weesaw Township-85120	3714.8790913579746
+870	Hebron	Hebron Township	37480	Hebron Township-37480	292.70393248430565
+871	Excelsior	Excelsior Township	26860	Excelsior Township-26860	697.1687821698413
+872	Drummond	Drummond Township	23080	Drummond Township-23080	655.2796264478246
+873	Metz	Metz Township	53440	Metz Township-53440	424.04480789502054
+874	Columbus	Columbus Township	17520	Columbus Township-17520	6586.90672410283
+875	Martiny	Martiny Township	52060	Martiny Township-52060	1179.2852531128026
+876	Prairieville	Prairieville Township	66260	Prairieville Township-66260	2053.7911078456655
+877	St Clair	St Clair Township	70700	St Clair Township-70700	50183.600560853985
+878	Wheatfield	Wheatfield Township	86520	Wheatfield Township-86520	5588.652347374522
+879	Markey	Markey Township	51780	Markey Township-51780	1553.9016851217605
+880	Bronson	Bronson Township	10880	Bronson Township-10880	2082.3218116567114
+881	West Branch	West Branch Township	85520	West Branch Township-85520	103.70008426672503
+882	Antrim	Antrim Township	03120	Antrim Township-03120	3327.7312301998745
+883	Selma	Selma Township	72380	Selma Township-72380	1133.1769253318216
+884	Chippewa	Chippewa Township	15560	Chippewa Township-15560	151.15049622863694
+885	Custer	Custer Township	19440	Custer Township-19440	1261.696986038473
+886	Michigamme	Michigamme Township	53540	Michigamme Township-53540	82.52904770615051
+887	Summerfield	Summerfield Township	77140	Summerfield Township-77140	10691.26725425586
+888	Baldwin	Baldwin Township	04920	Baldwin Township-04920	937.797556812193
+889	Clayton	Clayton Township	16260	Clayton Township-16260	66811.78330092761
+890	Gilmore	Gilmore Township	32200	Gilmore Township-32200	2491.5908260797833
+891	Moorland	Moorland Township	55440	Moorland Township-55440	2318.384926542187
+892	Bruce	Bruce Township	11300	Bruce Township-11300	6470.203464160893
+893	Pine	Pine Township	64200	Pine Township-64200	1815.6964506664317
+894	Hillsdale	Hillsdale Township	38480	Hillsdale Township-38480	5811.104507780888
+895	Nelson	Nelson Township	56920	Nelson Township-56920	3749.582959421598
+896	Cascade	Cascade Township	13660	Cascade Township-13660	16020.513701733953
+897	Fort Gratiot	Fort Gratiot Township	29760	Fort Gratiot Township-29760	10096.409966211426
+898	Washington	Washington Township	84140	Washington Township-84140	1084.4015314767362
+899	Nottawa	Nottawa Township	59360	Nottawa Township-59360	1406.380734541657
+900	Lake	Lake Township	44400	Lake Township-44400	2015.7175206589945
+901	Tallmadge	Tallmadge Township	77980	Tallmadge Township-77980	23310.833484387396
+902	Lincoln	Lincoln Township	47680	Lincoln Township-47680	1568.1446468489592
+903	Bengal	Bengal Township	07240	Bengal Township-07240	4597.108737998906
+904	Beaver	Beaver Township	06580	Beaver Township-06580	339.5222811737476
+905	Oronoko	Oronoko Township	61180	Oronoko Township-61180	9902.037853626052
+906	Torch Lake	Torch Lake Township	80100	Torch Lake Township-80100	1345.5707259460078
+907	Gaines	Gaines Township	31220	Gaines Township-31220	34228.52154762329
+908	Gustin	Gustin Township	35740	Gustin Township-35740	804.4654538402423
+909	Antioch	Antioch Township	03060	Antioch Township-03060	637.407404729684
+910	McKinley	McKinley Township	50340	McKinley Township-50340	565.3088110700032
+911	Breitung	Breitung Township	10220	Breitung Township-10220	3110.575198881753
+912	Millbrook	Millbrook Township	54020	Millbrook Township-54020	887.6000621618878
+913	Chandler	Chandler Township	14560	Chandler Township-14560	593.5682349950287
+914	Alamo	Alamo Township	00840	Alamo Township-00840	19463.982297115563
+915	Port Austin	Port Austin Township	65700	Port Austin Township-65700	153.28148728809145
+916	Schoolcraft	Schoolcraft Township	71840	Schoolcraft Township-71840	525.4291513192928
+917	Marion	Marion Township	51720	Marion Township-51720	485.2999869358355
+918	Salem	Salem Township	71100	Salem Township-71100	23783.155797900865
+919	Carp Lake	Carp Lake Township	13500	Carp Lake Township-13500	750.4811782246927
+920	Readmond	Readmond Township	67540	Readmond Township-67540	504.33217302622427
+921	Solon	Solon Township	74460	Solon Township-74460	7134.781554330511
+922	Orange	Orange Township	60920	Orange Township-60920	6374.822313887158
+923	Delhi	Delhi Township	21420	Delhi Township-21420	66908.2880834488
+924	Dayton	Dayton Township	19980	Dayton Township-19980	1178.2394630387216
+925	Marenisco	Marenisco Township	51560	Marenisco Township-51560	1011.52161850185
+926	Gibson	Gibson Township	32040	Gibson Township-32040	1019.1302135446069
+927	Laketon	Laketon Township	45160	Laketon Township-45160	26625.860926649053
+928	Redford	Redford Township	67625	Redford Township-67625	89816.89008599504
+929	Fork	Fork Township	29680	Fork Township-29680	1054.224417954434
+930	Pine Grove	Pine Grove Township	64280	Pine Grove Township-64280	5725.476798384372
+931	Mendon	Mendon Township	53000	Mendon Township-53000	2365.53436761745
+932	Grand Rapids	Grand Rapids Township	34020	Grand Rapids Township-34020	17244.326465546088
+933	Harrisville	Harrisville Township	36880	Harrisville Township-36880	454.0657060069018
+934	Gilead	Gilead Township	32120	Gilead Township-32120	1003.2858101280248
+935	Benton	Benton Township	07400	Benton Township-07400	9678.415180898268
+936	Iosco	Iosco Township	40900	Iosco Township-40900	11132.721037164643
+937	Bowne	Bowne Township	09780	Bowne Township-09780	2801.062524428648
+938	Courtland	Courtland Township	18500	Courtland Township-18500	3522.084444207361
+939	Spurr	Spurr Township	76000	Spurr Township-76000	430.14876982882504
+940	Davison	Davison Township	19900	Davison Township-19900	16536.747601485575
+941	Benton	Benton Township	07440	Benton Township-07440	21464.72577065942
+942	Bainbridge	Bainbridge Township	04840	Bainbridge Township-04840	7191.939662176918
+943	Freesoil	Freesoil Township	30620	Freesoil Township-30620	654.5686789986502
+944	Napoleon	Napoleon Township	56640	Napoleon Township-56640	8456.240455539806
+945	Mackinaw	Mackinaw Township	50300	Mackinaw Township-50300	222.4174896827561
+946	Cleon	Cleon Township	16380	Cleon Township-16380	694.5614606244646
+947	Alabaster	Alabaster Township	00760	Alabaster Township-00760	7464.56320600106
+948	Mason	Mason Township	52120	Mason Township-52120	585.4776606022117
+949	Eureka	Eureka Township	26520	Eureka Township-26520	5978.762895378825
+950	Kalkaska	Kalkaska Township	42280	Kalkaska Township-42280	5862.050318469912
+951	Olive	Olive Township	60460	Olive Township-60460	11252.67504001396
+952	Park	Park Township	62460	Park Township-62460	43044.48054464749
+953	Sheridan	Sheridan Township	72980	Sheridan Township-72980	2482.320820571078
+954	Butman	Butman Township	12180	Butman Township-12180	833.8172333116413
+955	Grout	Grout Township	35620	Grout Township-35620	3110.229772288868
+956	Portage	Portage Township	65600	Portage Township-65600	761.104822388447
+957	Elba	Elba Township	25120	Elba Township-25120	840.9210459668233
+958	Brooks	Brooks Township	11060	Brooks Township-11060	2774.706558650001
+959	Greenwood	Greenwood Township	35200	Greenwood Township-35200	1256.930119577632
+960	Lynn	Lynn Township	49800	Lynn Township-49800	2796.27255077731
+961	Marquette	Marquette Township	51920	Marquette Township-51920	7985.848850301483
+962	Lee	Lee Township	46600	Lee Township-46600	2306.9948513155136
+963	Lyndon	Lyndon Township	49780	Lyndon Township-49780	8362.22133172354
+964	Littlefield	Littlefield Township	48020	Littlefield Township-48020	1278.96847372219
+965	Hendricks	Hendricks Township	37660	Hendricks Township-37660	160.2380402176956
+966	Mikado	Mikado Township	53880	Mikado Township-53880	1304.779958696146
+967	Secord	Secord Township	72240	Secord Township-72240	269.27098886472504
+968	James	James Township	41480	James Township-41480	37401.05129688493
+969	Vienna	Vienna Township	82380	Vienna Township-82380	8917.398848973038
+970	Richland	Richland Township	68320	Richland Township-68320	611.1220054811743
+971	Maple Grove	Maple Grove Township	51000	Maple Grove Township-51000	497.9208616056383
+972	Mueller	Mueller Township	56060	Mueller Township-56060	253.44834126492472
+973	Eaton	Eaton Township	24520	Eaton Township-24520	9931.390923151943
+974	Rogers	Rogers Township	69240	Rogers Township-69240	1789.9373473798403
+975	Richmond	Richmond Township	68440	Richmond Township-68440	1183.3873266845244
+976	Vernon	Vernon Township	82000	Vernon Township-82000	6612.8266087206375
+977	Billings	Billings Township	08360	Billings Township-08360	333.16243810242077
+978	Royal Oak	Royal Oak Township	70060	Royal Oak Township-70060	4943.402981006596
+979	Berrien	Berrien Township	07820	Berrien Township-07820	4170.365785348086
+980	Wilson	Wilson Township	87700	Wilson Township-87700	4087.133225061805
+981	Ovid	Ovid Township	61880	Ovid Township-61880	5458.069793677583
+982	Maple Ridge	Maple Ridge Township	51220	Maple Ridge Township-51220	1327.1645390056638
+983	Ann Arbor	Ann Arbor Township	03020	Ann Arbor Township-03020	5033.234821110285
+984	Tuscola	Tuscola Township	80940	Tuscola Township-80940	3144.6341321064015
+985	Tecumseh	Tecumseh Township	79140	Tecumseh Township-79140	4344.660447079185
+986	Pentwater	Pentwater Township	63560	Pentwater Township-63560	1709.775352930446
+987	Rush	Rush Township	70260	Rush Township-70260	5530.962539085124
+988	Plymouth	Plymouth Township	65080	Plymouth Township-65080	71810.40400987607
+989	Humboldt	Humboldt Township	39940	Humboldt Township-39940	617.45777436974
+990	Mentor	Mentor Township	53120	Mentor Township-53120	629.8402879173466
+991	Baltimore	Baltimore Township	05020	Baltimore Township-05020	4871.0555060447405
+992	Georgetown	Georgetown Township	31880	Georgetown Township-31880	92213.04492378264
+993	Rose Lake	Rose Lake Township	69760	Rose Lake Township-69760	710.6981848184026
+994	Lakefield	Lakefield Township	44560	Lakefield Township-44560	1685.8105315434304
+995	Novesta	Novesta Township	59420	Novesta Township-59420	2451.8296345165077
+996	Ashland	Ashland Township	03700	Ashland Township-03700	4231.927224099587
+997	Elk Rapids	Elk Rapids Township	25340	Elk Rapids Township-25340	802.236606572108
+998	Nunda	Nunda Township	59500	Nunda Township-59500	640.4811154927461
+999	Foster	Foster Township	29860	Foster Township-29860	789.8200547399144
+1000	Roscommon	Roscommon Township	69560	Roscommon Township-69560	11177.999388474518
+1001	Echo	Echo Township	24640	Echo Township-24640	3172.595911448711
+1002	Rollin	Rollin Township	69340	Rollin Township-69340	3070.3321394790073
+1003	Escanaba	Escanaba Township	26380	Escanaba Township-26380	6183.926271461726
+1004	Texas	Texas Township	79300	Texas Township-79300	144111.68461736612
+1005	Martin	Martin Township	52000	Martin Township-52000	4585.292112304114
+1006	Clayton	Clayton Township	16240	Clayton Township-16240	778.9779861085685
+1007	Salem	Salem Township	71130	Salem Township-71130	51561.92762825612
+1008	North Plains	North Plains Township	58720	North Plains Township-58720	7675.951112372746
+1009	Hope	Hope Township	39160	Hope Township-39160	833.3222458559169
+1010	Addison	Addison Township	00400	Addison Township-00400	8160.888979224406
+1011	Dafter	Dafter Township	19540	Dafter Township-19540	13031.980456988897
+1012	Springvale	Springvale Township	75900	Springvale Township-75900	1993.3148705047117
+1013	Hope	Hope Township	39120	Hope Township-39120	5766.07687576278
+1014	Clyde	Clyde Township	16760	Clyde Township-16760	12695.755086627949
+1015	Slagle	Slagle Township	74220	Slagle Township-74220	598.7990201599729
+1016	Clay	Clay Township	16180	Clay Township-16180	27997.470031573706
+1017	Wells	Wells Township	85240	Wells Township-85240	11641.778449005331
+1018	Dayton	Dayton Township	19960	Dayton Township-19960	1160.375711737322
+1019	Kimball	Kimball Township	43160	Kimball Township-43160	39493.47804756377
+1020	Mottville	Mottville Township	55780	Mottville Township-55780	4248.205999561784
+1021	Powell	Powell Township	66120	Powell Township-66120	303.2185179525399
+1022	Pleasant Plains	Pleasant Plains Township	64880	Pleasant Plains Township-64880	1391.845417481325
+1023	Boon	Boon Township	09580	Boon Township-09580	637.5303655688691
+1024	Albee	Albee Township	00920	Albee Township-00920	19126.764135332007
+1025	Homer	Homer Township	38940	Homer Township-38940	2578.1675597973317
+1026	Ingallston	Ingallston Township	40600	Ingallston Township-40600	411.55406096211937
+1027	Hadley	Hadley Township	35840	Hadley Township-35840	8292.64496418045
+1028	Columbia	Columbia Township	17420	Columbia Township-17420	1005.317995790343
+1029	Scipio	Scipio Township	71980	Scipio Township-71980	1650.5799788557715
+1030	Huron	Huron Township	40040	Huron Township-40040	108049.1440082604
+1031	Assyria	Assyria Township	03860	Assyria Township-03860	1975.7286828721144
+1032	Coldwater	Coldwater Township	17040	Coldwater Township-17040	5224.792177720492
+1033	White Pigeon	White Pigeon Township	86940	White Pigeon Township-86940	3633.336043820803
+1034	Dundee	Dundee Township	23400	Dundee Township-23400	12831.916096862655
+1035	Sturgis	Sturgis Township	76980	Sturgis Township-76980	7461.049876777156
+1036	Rockland	Rockland Township	69140	Rockland Township-69140	375.0520156833764
+1037	Denver	Denver Township	21700	Denver Township-21700	405.6534605057076
+1038	Lincoln	Lincoln Township	47620	Lincoln Township-47620	3608.2108387270437
+1039	Seneca	Seneca Township	72440	Seneca Township-72440	6170.728437654164
+1040	South Haven	South Haven Township	75000	South Haven Township-75000	6190.046546074458
+1041	Helena	Helena Township	37500	Helena Township-37500	1107.5103832881466
+1042	Rome	Rome Township	69360	Rome Township-69360	6305.517789926931
+1043	Orleans	Orleans Township	61160	Orleans Township-61160	1571.3914825469856
+1044	Moffatt	Moffatt Township	54800	Moffatt Township-54800	4372.453152015496
+1045	Warren	Warren Township	84020	Warren Township-84020	2957.613411163656
+1046	Hartland	Hartland Township	37040	Hartland Township-37040	23414.327927040456
+1047	Loud	Loud Township	49480	Loud Township-49480	296.6611540395893
+1048	Colon	Colon Township	17370	Colon Township-17370	2466.0412262539658
+1049	Ewing	Ewing Township	26840	Ewing Township-26840	174.86735880105192
+1050	Logan	Logan Township	49160	Logan Township-49160	897.892966203713
+1051	Yates	Yates Township	89040	Yates Township-89040	511.17988486556
+1052	Mecosta	Mecosta Township	52780	Mecosta Township-52780	14020.157168416476
+1053	Meade	Meade Township	52600	Meade Township-52600	655.1425317763624
+1054	Merrill	Merrill Township	53160	Merrill Township-53160	543.8498659141468
+1055	Ishpeming	Ishpeming Township	41240	Ishpeming Township-41240	6284.841246843345
+1056	Almer	Almer Township	01620	Almer Township-01620	1112.0968737411786
+1057	Climax	Climax Township	16460	Climax Township-16460	14155.825819420108
+1058	Bedford	Bedford Township	06720	Bedford Township-06720	3740.859303232197
+1059	Cato	Cato Township	14000	Cato Township-14000	2459.8185996113157
+1060	Burns	Burns Township	11880	Burns Township-11880	6081.022788089797
+1061	Day	Day Township	19920	Day Township-19920	1525.1554442004349
+1062	Rudyard	Rudyard Township	70220	Rudyard Township-70220	7785.570471316642
+1063	Burlington	Burlington Township	11840	Burlington Township-11840	2259.7979569736726
+1064	Cooper	Cooper Township	17980	Cooper Township-17980	11365.953712762896
+1065	Forest	Forest Township	29420	Forest Township-29420	3036.8081447537133
+1066	Pennfield	Pennfield Township	63440	Pennfield Township-63440	4504.956903160435
+1067	Mancelona	Mancelona Township	50640	Mancelona Township-50640	2975.497816410488
+1068	Franklin	Franklin Township	30280	Franklin Township-30280	629.2400433983605
+1069	Ida	Ida Township	40260	Ida Township-40260	9906.438235601017
+1070	Little Traverse	Little Traverse Township	48080	Little Traverse Township-48080	1553.47305687394
+1071	London	London Township	49180	London Township-49180	11421.911433628302
+1072	Leroy	Leroy Township	47060	Leroy Township-47060	19296.566675660764
+1073	Argyle	Argyle Township	03460	Argyle Township-03460	398.40118437402674
+1074	Haynes	Haynes Township	37380	Haynes Township-37380	169.01582305557048
+1075	Summit	Summit Township	77200	Summit Township-77200	53368.27061149308
+1076	Crystal	Crystal Township	19100	Crystal Township-19100	321.1900935590993
+1077	Republic	Republic Township	68000	Republic Township-68000	848.3453004351068
+1078	Dover	Dover Township	22840	Dover Township-22840	182.32589985617457
+1079	Jordan	Jordan Township	41960	Jordan Township-41960	1009.0267200348908
+1080	Olive	Olive Township	60440	Olive Township-60440	6481.359215854618
+1081	Jerome	Jerome Township	41760	Jerome Township-41760	2912.3455779526084
+1082	Homer	Homer Township	38980	Homer Township-38980	31416.334685414015
+1083	Norman	Norman Township	57900	Norman Township-57900	889.3208163370072
+1084	Douglass	Douglass Township	22760	Douglass Township-22760	1520.3802700508088
+1085	Au Train	Au Train Township	04460	Au Train Township-04460	5647.097659025256
+1086	Minden	Minden Township	54540	Minden Township-54540	472.6129673019435
+1087	Ypsilanti	Ypsilanti Township	89160	Ypsilanti Township-89160	81961.37277053192
+1088	Case	Case Township	13740	Case Township-13740	590.635715482632
+1089	Lasalle	Lasalle Township	46260	Lasalle Township-46260	27072.62698020858
+1090	Summit	Summit Township	77220	Summit Township-77220	619.2296300768305
+1091	Montcalm	Montcalm Township	55140	Montcalm Township-55140	1719.5466622893396
+1092	Berlin	Berlin Township	07700	Berlin Township-07700	18358.59022480913
+1093	Orange	Orange Township	60940	Orange Township-60940	1961.817505088372
+1094	Oakfield	Oakfield Township	59580	Oakfield Township-59580	5935.280550356766
+1095	Matchwood	Matchwood Township	52320	Matchwood Township-52320	74.53308265333327
+1096	Sylvan	Sylvan Township	77800	Sylvan Township-77800	12893.338819428547
+1097	Manistique	Manistique Township	50780	Manistique Township-50780	231.00239381995647
+1098	Otisco	Otisco Township	61580	Otisco Township-61580	11974.647753008
+1099	China	China Township	15540	China Township-15540	19308.853093869162
+1100	Fulton	Fulton Township	31080	Fulton Township-31080	3348.0396148150253
+1101	Akron	Akron Township	00720	Akron Township-00720	4342.745189214394
+1102	Byron	Byron Township	12240	Byron Township-12240	154928.08975903402
+1103	Sugar Island	Sugar Island Township	77020	Sugar Island Township-77020	9934.473683067312
+1104	Suttons Bay	Suttons Bay Township	77620	Suttons Bay Township-77620	699.5188240657418
+1105	Waterloo	Waterloo Township	84300	Waterloo Township-84300	5393.4021107232265
+1106	Otto	Otto Township	61780	Otto Township-61780	733.4589528272676
+1107	Lapeer	Lapeer Township	46060	Lapeer Township-46060	3710.190853818338
+1108	Cannon	Cannon Township	13080	Cannon Township-13080	5945.859418230766
+1109	Mt Haley	Mt Haley Township	55940	Mt Haley Township-55940	9993.625133612988
+1110	Grant	Grant Township	34280	Grant Township-34280	969.9168124498564
+1111	Wawatam	Wawatam Township	84840	Wawatam Township-84840	5206.3169895408655
+1112	Meade	Meade Township	52640	Meade Township-52640	270.4446627235479
+1113	Forsyth	Forsyth Township	29720	Forsyth Township-29720	10383.20116216815
+1114	Constantine	Constantine Township	17860	Constantine Township-17860	13404.98832192981
+1115	Ash	Ash Township	03680	Ash Township-03680	54158.09989261818
+1116	Ferry	Ferry Township	27940	Ferry Township-27940	644.4842183010592
+1117	Leavitt	Leavitt Township	46560	Leavitt Township-46560	486.2399572061618
+1118	Clam Union	Clam Union Township	15900	Clam Union Township-15900	506.3304460910499
+1119	Croton	Croton Township	18980	Croton Township-18980	1711.342452403444
+1120	Silver Creek	Silver Creek Township	73940	Silver Creek Township-73940	2175.3046733593364
+1121	Algansee	Algansee Township	01120	Algansee Township-01120	2774.227013554345
+1122	South Branch	South Branch Township	74760	South Branch Township-74760	827.1244947249852
+1123	Dover	Dover Township	22820	Dover Township-22820	8818.612858599547
+1124	Grant	Grant Township	34200	Grant Township-34200	333.8394757792547
+1125	Riga	Riga Township	68580	Riga Township-68580	11802.124626546945
+1126	Wells	Wells Township	85260	Wells Township-85260	565.6751937171714
+1127	Negaunee	Negaunee Township	56880	Negaunee Township-56880	19048.466732670575
+1128	Blackman	Blackman Township	08760	Blackman Township-08760	5443.09141937675
+1129	Sebewa	Sebewa Township	72120	Sebewa Township-72120	9972.977170047046
+1130	Crockery	Crockery Township	18800	Crockery Township-18800	2397.8466713101216
+1131	McMillan	McMillan Township	50440	McMillan Township-50440	1251.7913850561165
+1132	Allouez	Allouez Township	01520	Allouez Township-01520	345.38637037503474
+1133	Watervliet	Watervliet Township	84520	Watervliet Township-84520	2347.582966880415
+1134	Colfax	Colfax Township	17140	Colfax Township-17140	5543.623060094691
+1135	Worth	Worth Township	88760	Worth Township-88760	5391.406836684835
+1136	Resort	Resort Township	68060	Resort Township-68060	9255.626425198821
+1137	Presque Isle	Presque Isle Township	66340	Presque Isle Township-66340	335.3409754856373
+1138	Dallas	Dallas Township	19620	Dallas Township-19620	2382.839342393672
+1139	Coldwater	Coldwater Township	17060	Coldwater Township-17060	1274.7282721492413
+1140	Pleasant View	Pleasant View Township	64960	Pleasant View Township-64960	386.6015940517626
+1141	Ogemaw	Ogemaw Township	60300	Ogemaw Township-60300	955.9893528976162
+1142	Marilla	Marilla Township	51580	Marilla Township-51580	769.6143085309668
+1143	Kinross	Kinross Township	43480	Kinross Township-43480	1516.962667141914
+1144	Keene	Keene Township	42520	Keene Township-42520	6355.825441226654
+1145	Saline	Saline Township	71160	Saline Township-71160	43170.12470257281
+1146	Pittsford	Pittsford Township	64620	Pittsford Township-64620	3401.3627265606056
+1147	Bear Lake	Bear Lake Township	06440	Bear Lake Township-06440	629.4574749868997
+1148	Union	Union Township	81340	Union Township-81340	17915.81210377661
+1149	Jasper	Jasper Township	41560	Jasper Township-41560	1317.0417816672177
+1150	Commerce	Commerce Township	17640	Commerce Township-17640	90555.41142262322
+1151	Oscoda	Oscoda Township	61340	Oscoda Township-61340	4395.311267214171
+1152	Acme	Acme Township	00200	Acme Township-00200	3270.3654087762734
+1153	Brockway	Brockway Township	10820	Brockway Township-10820	3090.283001386386
+1154	Chippewa	Chippewa Township	15600	Chippewa Township-15600	941.2683931943074
+1155	Carmel	Carmel Township	13380	Carmel Township-13380	9198.416417734916
+1156	Chase	Chase Township	14880	Chase Township-14880	2630.292003680945
+1157	Masonville	Masonville Township	52220	Masonville Township-52220	565.2951853085078
+1158	Rapid River	Rapid River Township	67180	Rapid River Township-67180	1257.9410490068008
+1159	Union	Union Township	81280	Union Township-81280	1914.989997618347
+1160	Newton	Newton Township	57620	Newton Township-57620	4725.995634858624
+1161	Denver	Denver Township	21680	Denver Township-21680	2159.3002489824007
+1162	Egelston	Egelston Township	25080	Egelston Township-25080	2261.776503795474
+1163	New Haven	New Haven Township	57400	New Haven Township-57400	2170.5288244745857
+1164	Ironwood	Ironwood Township	41080	Ironwood Township-41080	499.1460434754403
+1165	Mussey	Mussey Township	56380	Mussey Township-56380	3011.8618122276275
+1166	Almont	Almont Township	01680	Almont Township-01680	6634.736114183298
+1167	Baroda	Baroda Township	05520	Baroda Township-05520	13242.563043877599
+1168	Bay	Bay Township	06000	Bay Township-06000	4092.297344670573
+1169	Au Sable	Au Sable Township	04320	Au Sable Township-04320	132.2325106195831
+1170	Sagola	Sagola Township	70600	Sagola Township-70600	528.7813713019356
+1171	Caledonia	Caledonia Township	12520	Caledonia Township-12520	1973.9092684996183
+1172	Solon	Solon Township	74500	Solon Township-74500	1469.6136278033102
+1173	Garden	Garden Township	31400	Garden Township-31400	533.5549479713214
+1174	Forest	Forest Township	29400	Forest Township-29400	1636.5682741745318
+1175	East Bay	East Bay Township	23800	East Bay Township-23800	7470.97776424694
+1176	Allegan	Allegan Township	01280	Allegan Township-01280	3474.4211454912993
+1177	Clarence	Clarence Township	15960	Clarence Township-15960	1907.9299268507364
+1178	Mills	Mills Township	54340	Mills Township-54340	1362.036054572864
+1179	Larkin	Larkin Township	46160	Larkin Township-46160	1481.6156079175644
+1180	Porter	Porter Township	65760	Porter Township-65760	5662.98944369527
+1181	Curtis	Curtis Township	19320	Curtis Township-19320	504.2271954341299
+1182	Port Sheldon	Port Sheldon Township	65940	Port Sheldon Township-65940	4827.378210900362
+1183	Filer	Filer Township	28040	Filer Township-28040	7752.825938693178
+1184	Menominee	Menominee Township	53040	Menominee Township-53040	2816.326595551761
+1185	Flint	Flint Township	29020	Flint Township-29020	88099.55780594355
+1186	Easton	Easton Township	24220	Easton Township-24220	1532.504137421531
+1187	Watersmeet	Watersmeet Township	84380	Watersmeet Township-84380	594.971242416783
+1188	Leslie	Leslie Township	47200	Leslie Township-47200	5606.873508225934
+1189	Marion	Marion Township	51680	Marion Township-51680	888.3781229150247
+1190	Baraga	Baraga Township	05340	Baraga Township-05340	8796.129006195206
+1191	Briley	Briley Township	10660	Briley Township-10660	809.9886707931744
+1192	Winfield	Winfield Township	87880	Winfield Township-87880	1502.7602264443487
+1193	Gourley	Gourley Township	33160	Gourley Township-33160	747.579006832721
+1194	Thetford	Thetford Township	79460	Thetford Township-79460	4641.833438646516
+1195	Sebewaing	Sebewaing Township	72200	Sebewaing Township-72200	1324.7510870458636
+1196	Riley	Riley Township	68600	Riley Township-68600	6059.72605100467
+1197	Eagle	Eagle Township	23580	Eagle Township-23580	3313.0304205706807
+1198	Faithorn	Faithorn Township	27300	Faithorn Township-27300	482.6339184332986
+1199	Belknap	Belknap Township	06920	Belknap Township-06920	808.6245132411702
+1200	Kinderhook	Kinderhook Township	43260	Kinderhook Township-43260	1327.5800347299335
+1201	Hudson	Hudson Township	39700	Hudson Township-39700	371.45734249419434
+1202	Milton	Milton Township	54440	Milton Township-54440	2381.1733614668888
+1203	Houghton	Houghton Township	39380	Houghton Township-39380	70.45091249802333
+1204	Woodstock	Woodstock Township	88640	Woodstock Township-88640	5891.5279978572635
+1205	Manlius	Manlius Township	50840	Manlius Township-50840	10891.411616658728
+1206	Chocolay	Chocolay Township	15660	Chocolay Township-15660	1440.8800223281667
+1207	Bingham	Bingham Township	08400	Bingham Township-08400	4106.071835371991
+1208	Buchanan	Buchanan Township	11420	Buchanan Township-11420	14204.800409294001
+1209	Seville	Seville Township	72580	Seville Township-72580	9868.424550307724
+1210	Zeeland	Zeeland Township	89280	Zeeland Township-89280	29833.725288155125
+1211	Fremont	Fremont Township	30680	Fremont Township-30680	3528.667862633283
+1212	Henderson	Henderson Township	37640	Henderson Township-37640	895.3012072321304
+1213	Spring Lake	Spring Lake Township	75840	Spring Lake Township-75840	27682.980645189436
+1214	Richmond	Richmond Township	68400	Richmond Township-68400	7470.909537874879
+1215	Danby	Danby Township	19720	Danby Township-19720	3526.966639594312
+1216	Vernon	Vernon Township	82040	Vernon Township-82040	12915.00294127742
+1217	Middle Branch	Middle Branch Township	53660	Middle Branch Township-53660	684.5444045905894
+1218	Boyne Valley	Boyne Valley Township	09860	Boyne Valley Township-09860	676.9263143877117
+1219	Horton	Horton Township	39320	Horton Township-39320	1199.8457789775393
+1220	St Charles	St Charles Township	70660	St Charles Township-70660	3101.171838539481
+1221	Woodbridge	Woodbridge Township	88300	Woodbridge Township-88300	1458.3840126593223
+1222	Golden	Golden Township	32780	Golden Township-32780	4950.092177306161
+1223	Frenchtown	Frenchtown Township	30820	Frenchtown Township-30820	39187.22630228103
+1224	Leoni	Leoni Township	46980	Leoni Township-46980	7572.818245014788
+1225	Goodwell	Goodwell Township	33000	Goodwell Township-33000	1920.026778492611
+1226	Meyer	Meyer Township	53460	Meyer Township-53460	544.4093830920871
+1227	Lafayette	Lafayette Township	44080	Lafayette Township-44080	1289.4702257428685
+1228	Torch Lake	Torch Lake Township	80120	Torch Lake Township-80120	1352.2726566604279
+1229	Deerfield	Deerfield Township	21160	Deerfield Township-21160	3532.3222574543556
+1230	Long Lake	Long Lake Township	49240	Long Lake Township-49240	19219.61781971263
+1231	Doyle	Doyle Township	22960	Doyle Township-22960	327.79861499663144
+1232	Maple Grove	Maple Grove Township	51060	Maple Grove Township-51060	4050.5285323468574
+1233	Bear Creek	Bear Creek Township	06380	Bear Creek Township-06380	5140.041730955129
+1234	Grant	Grant Township	34260	Grant Township-34260	1133.1977500610826
+1235	Ensign	Ensign Township	26140	Ensign Township-26140	271.6954233234934
+1236	Monitor	Monitor Township	54980	Monitor Township-54980	43715.92558473148
+1237	Elkland	Elkland Township	25300	Elkland Township-25300	3519.6772866181445
+1238	Clinton	Clinton Township	16540	Clinton Township-16540	235.71761942420972
+1239	Charlevoix	Charlevoix Township	14800	Charlevoix Township-14800	1765.429409777507
+1240	Hamlin	Hamlin Township	36200	Hamlin Township-36200	7471.4112690752445
+1241	Holland	Holland Township	38660	Holland Township-38660	26321.40194267631
+1242	Hartwick	Hartwick Township	37060	Hartwick Township-37060	845.8923495401552
+1243	Chippewa	Chippewa Township	15580	Chippewa Township-15580	1632.8140430003605
+1244	Cedar Creek	Cedar Creek Township	14100	Cedar Creek Township-14100	2371.8125008316574
+1245	Casco	Casco Township	13720	Casco Township-13720	6088.842039034704
+1246	Bridgewater	Bridgewater Township	10560	Bridgewater Township-10560	4794.621405666724
+1247	Richland	Richland Township	68300	Richland Township-68300	2006.8586841708727
+1248	Washington	Washington Township	84120	Washington Township-84120	16775.706072233646
+1249	Juniata	Juniata Township	42140	Juniata Township-42140	4957.927123438783
+1250	Weare	Weare Township	85040	Weare Township-85040	1215.2276672039845
+1251	Nottawa	Nottawa Township	59400	Nottawa Township-59400	2629.537740650201
+1252	Hatton	Hatton Township	37160	Hatton Township-37160	1718.768951321896
+1253	Peninsula	Peninsula Township	63340	Peninsula Township-63340	3570.558092619591
+1254	Leroy	Leroy Township	47080	Leroy Township-47080	4181.8779943540485
+1255	Thornapple	Thornapple Township	79620	Thornapple Township-79620	9523.008800676165
+1256	Covert	Covert Township	18560	Covert Township-18560	12366.533293410992
+1257	Sheridan	Sheridan Township	73040	Sheridan Township-73040	2193.7731491799805
+1258	Columbia	Columbia Township	17440	Columbia Township-17440	2162.9560314657915
+1259	North Allis	North Allis Township	57940	North Allis Township-57940	170.28944609070615
+1260	New Buffalo	New Buffalo Township	57230	New Buffalo Township-57230	3278.7227047301285
+1261	Laketown	Laketown Township	45180	Laketown Township-45180	59553.805958323035
+1262	Bois Blanc	Bois Blanc Township	09500	Bois Blanc Township-09500	27.25100938255787
+1263	Irving	Irving Township	41120	Irving Township-41120	1856.379701323563
+1264	Williams	Williams Township	87380	Williams Township-87380	9722.752100234342
+1265	Wakefield	Wakefield Township	82800	Wakefield Township-82800	69.48689156042838
+1266	Baldwin	Baldwin Township	04900	Baldwin Township-04900	532.9024331622744
+1267	North Star	North Star Township	58880	North Star Township-58880	507.66989462969144
+1268	Victor	Victor Township	82320	Victor Township-82320	3611.026722291608
+1269	Westphalia	Westphalia Township	86140	Westphalia Township-86140	1463.71922975093
+1270	Dover	Dover Township	22800	Dover Township-22800	514.5299395634518
+1271	Frankenmuth	Frankenmuth Township	30220	Frankenmuth Township-30220	5048.489256857293
+1272	Monroe	Monroe Township	55040	Monroe Township-55040	21130.572397586137
+1273	Gladwin	Gladwin Township	32340	Gladwin Township-32340	1103.5819580856228
+1274	Hematite	Hematite Township	37580	Hematite Township-37580	70.91887293729766
+1275	Caldwell	Caldwell Township	12440	Caldwell Township-12440	864.7729576957572
+1276	Camden	Camden Township	12780	Camden Township-12780	1902.005421627995
+1277	Grant	Grant Township	34400	Grant Township-34400	1673.115523155414
+1278	Burt	Burt Township	11980	Burt Township-11980	736.7606039882492
+1279	Brampton	Brampton Township	09980	Brampton Township-09980	814.7926276975713
+1280	Moscow	Moscow Township	55640	Moscow Township-55640	3956.1276059940787
+1281	Cherry Valley	Cherry Valley Township	15100	Cherry Valley Township-15100	445.89108525910217
+1282	Evart	Evart Township	26660	Evart Township-26660	2376.2141347625216
+1283	Oxford	Oxford Township	62040	Oxford Township-62040	14509.042548766422
+1284	Webster	Webster Township	85100	Webster Township-85100	30235.549514071216
+1285	Lexington	Lexington Township	47300	Lexington Township-47300	922.1089110606223
+1286	Somerset	Somerset Township	74560	Somerset Township-74560	6986.689211739122
+1287	Au Sable	Au Sable Township	04300	Au Sable Township-04300	4548.268064949687
+1288	Watertown	Watertown Township	84400	Watertown Township-84400	12667.40445909432
+1289	Arthur	Arthur Township	03620	Arthur Township-03620	1433.5958682579503
+1290	Gilmore	Gilmore Township	32180	Gilmore Township-32180	427.54367699596594
+1291	Sheridan	Sheridan Township	73120	Sheridan Township-73120	8373.627842066095
+1292	Putnam	Putnam Township	66540	Putnam Township-66540	23362.66527542351
+1293	West Branch	West Branch Township	85560	West Branch Township-85560	260.507570902657
+1294	Fairgrove	Fairgrove Township	27100	Fairgrove Township-27100	836.5723219088563
+1295	Owosso	Owosso Township	61960	Owosso Township-61960	8648.51922698111
+1296	Lovells	Lovells Township	49520	Lovells Township-49520	1471.6544645627034
+1297	Muskegon	Muskegon Township	56340	Muskegon Township-56340	12005.211602417632
+1298	Paris	Paris Township	62360	Paris Township-62360	459.25750243293504
+1299	Pleasanton	Pleasanton Township	64860	Pleasanton Township-64860	620.175428368063
+1300	Fabius	Fabius Township	26920	Fabius Township-26920	10863.899356390893
+1301	Hamilton	Hamilton Township	36140	Hamilton Township-36140	897.8566572439352
+1302	White Water	White Water Township	87040	White Water Township-87040	1770.9607982530479
+1303	Forest	Forest Township	29440	Forest Township-29440	449.7697502264552
+1304	Bohemia	Bohemia Township	09460	Bohemia Township-09460	179.772299816736
+1305	Leelanau	Leelanau Township	46700	Leelanau Township-46700	911.1463953023963
+1306	Howell	Howell Township	39560	Howell Township-39560	15960.737660183355
+1307	Wise	Wise Township	88040	Wise Township-88040	1638.4805250601787
+1308	Marion	Marion Township	51620	Marion Township-51620	4061.8180687664185
+1309	Centerville	Centerville Township	14340	Centerville Township-14340	1757.2737962441029
+1310	Waucedah	Waucedah Township	84700	Waucedah Township-84700	386.7862069862282
+1311	Homestead	Homestead Township	39000	Homestead Township-39000	955.8622102859688
+1312	Columbus	Columbus Township	17480	Columbus Township-17480	712.5085884137553
+1313	Munising	Munising Township	56220	Munising Township-56220	1803.3278974437167
+1314	Rives	Rives Township	68920	Rives Township-68920	3482.3501839599353
+1315	Aetna	Aetna Township	00520	Aetna Township-00520	338.9562470252073
+1316	Fairfield	Fairfield Township	27040	Fairfield Township-27040	799.4803286264091
+1317	Dryden	Dryden Township	23160	Dryden Township-23160	7040.898679016236
+1318	Vassar	Vassar Township	81860	Vassar Township-81860	5333.054173449593
+1319	Allis	Allis Township	01480	Allis Township-01480	595.381494870494
+1320	Windsor	Windsor Township	87840	Windsor Township-87840	81063.59211524863
+1321	Milan	Milan Township	53900	Milan Township-53900	16740.47850133232
+1322	Grant	Grant Township	34420	Grant Township-34420	2670.1707773141625
+1323	Big Prairie	Big Prairie Township	08280	Big Prairie Township-08280	801.3175926510262
+1324	Joyfield	Joyfield Township	42000	Joyfield Township-42000	860.1027240069947
+1325	Norway	Norway Township	59240	Norway Township-59240	344.4324317121502
+1326	Imlay	Imlay Township	40300	Imlay Township-40300	6559.683185661057
+1327	Breen	Breen Township	10200	Breen Township-10200	154.1276711972382
+1328	Macon	Macon Township	50520	Macon Township-50520	9614.938086821878
+1329	Wilcox	Wilcox Township	87200	Wilcox Township-87200	491.28223992717597
+1330	Exeter	Exeter Township	26880	Exeter Township-26880	16689.94394233053
+1331	Lake	Lake Township	44380	Lake Township-44380	3722.6981368931997
+1332	Pioneer	Pioneer Township	64460	Pioneer Township-64460	314.7597027600732
+1333	Marcellus	Marcellus Township	51480	Marcellus Township-51480	2573.617033450866
+1334	Delaware	Delaware Township	21380	Delaware Township-21380	458.22661041698194
+1335	Grayling	Grayling Township	34660	Grayling Township-34660	5280.494409872891
+1336	Clarendon	Clarendon Township	16020	Clarendon Township-16020	4199.934630616578
+1337	Sharon	Sharon Township	72760	Sharon Township-72760	2194.395168371465
+1338	North Branch	North Branch Township	58090	North Branch Township-58090	1126.8256993081104
+1339	Brady	Brady Township	09940	Brady Township-09940	4261.022769726297
+1340	Bushnell	Bushnell Township	12120	Bushnell Township-12120	2622.3874365891243
+1341	Leonidas	Leonidas Township	47020	Leonidas Township-47020	1908.3205524935204
+1342	Burleigh	Burleigh Township	11740	Burleigh Township-11740	689.1527863381723
+1343	Friendship	Friendship Township	30860	Friendship Township-30860	692.1959411893831
+1344	Bethany	Bethany Township	08020	Bethany Township-08020	4394.93574046444
+1345	Garfield	Garfield Township	31560	Garfield Township-31560	1252.1415339123864
+1346	Melrose	Melrose Township	52880	Melrose Township-52880	1882.526690600291
+1347	Leland	Leland Township	46820	Leland Township-46820	1387.8645555451928
+1348	Coloma	Coloma Township	17340	Coloma Township-17340	2005.1763602267472
+1349	Spring Arbor	Spring Arbor Township	75640	Spring Arbor Township-75640	65732.52417522157
+1350	Aurelius	Aurelius Township	04240	Aurelius Township-04240	39796.38931669752
+1351	Grim	Grim Township	35340	Grim Township-35340	657.1611911389361
+1352	Odessa	Odessa Township	60200	Odessa Township-60200	2168.454170383866
+1353	Ray	Ray Township	67420	Ray Township-67420	7171.6900770278
+1354	Bangor	Bangor Township	05160	Bangor Township-05160	4461.682702156737
+1355	White River	White River Township	86980	White River Township-86980	5580.6097564963775
+1356	Rutland	Rutland Township	70420	Rutland Township-70420	6810.690911955673
+1357	Lake	Lake Township	44260	Lake Township-44260	28591.222766152376
+1358	Jonesfield	Jonesfield Township	41900	Jonesfield Township-41900	2712.5279319595647
+1359	Whitehall	Whitehall Township	86800	Whitehall Township-86800	266.0066786253798
+1360	Nahma	Nahma Township	56500	Nahma Township-56500	381.5632210837159
+1361	Maple Valley	Maple Valley Township	51380	Maple Valley Township-51380	2281.494488400722
+1362	Dexter	Dexter Township	22180	Dexter Township-22180	22156.870985372676
+1363	Geneva	Geneva Township	31820	Geneva Township-31820	3527.1735376469246
+1364	Star	Star Township	76260	Star Township-76260	831.6412340751239
+1365	Corwith	Corwith Township	18320	Corwith Township-18320	1193.495892909156
+1366	Portland	Portland Township	65880	Portland Township-65880	2881.293236074072
+1367	Garfield	Garfield Township	31600	Garfield Township-31600	734.5496764407591
+1368	Reno	Reno Township	67960	Reno Township-67960	721.8362357166646
+1369	Broomfield	Broomfield Township	11140	Broomfield Township-11140	2789.955762373531
+1370	Ganges	Ganges Township	31360	Ganges Township-31360	4120.773697546468
+1371	Richmond	Richmond Township	68420	Richmond Township-68420	7420.364579939799
+1372	Fairbanks	Fairbanks Township	26960	Fairbanks Township-26960	483.9630285184652
+1373	Wexford	Wexford Township	86500	Wexford Township-86500	1347.1203305740278
+1374	Duplain	Duplain Township	23460	Duplain Township-23460	2078.2591909258535
+1375	Cleveland	Cleveland Township	16400	Cleveland Township-16400	829.328588405294
+1376	Livingston	Livingston Township	48140	Livingston Township-48140	2647.603646696927
+1377	Port Huron	Port Huron Township	65840	Port Huron Township-65840	17253.156722780954
+1378	Garfield	Garfield Township	31640	Garfield Township-31640	3932.1570540260745
+1379	Locke	Locke Township	49040	Locke Township-49040	2297.539766717107
+1380	Boston	Boston Township	09680	Boston Township-09680	7298.8252609283145
+1381	Riverton	Riverton Township	68860	Riverton Township-68860	2282.1273960438693
+1382	Wellington	Wellington Township	85180	Wellington Township-85180	702.6729746515161
+1383	Lincoln	Lincoln Township	47700	Lincoln Township-47700	523.342771695962
+1384	Handy	Handy Township	36340	Handy Township-36340	9429.48798173896
+1385	Soo	Soo Township	74620	Soo Township-74620	32084.389181686645
+1386	Portage	Portage Township	65540	Portage Township-65540	11501.805139785138
+1387	Superior	Superior Township	77560	Superior Township-77560	59265.481947287764
+1388	Caledonia	Caledonia Township	12460	Caledonia Township-12460	1151.0595325246586
+1389	Thompson	Thompson Township	79580	Thompson Township-79580	7744.068605627227
+1390	Bangor	Bangor Township	05120	Bangor Township-05120	11088.223239679592
+1391	Lagrange	Lagrange Township	44140	Lagrange Township-44140	3020.261871202263
+1392	Fremont	Fremont Township	30740	Fremont Township-30740	5339.741082188883
+1393	Jefferson	Jefferson Township	41620	Jefferson Township-41620	1392.5804866416818
+1394	Backus	Backus Township	04720	Backus Township-04720	2355.250732281427
+1395	Fillmore	Fillmore Township	28120	Fillmore Township-28120	16994.788254159714
+1396	Lamotte	Lamotte Township	45460	Lamotte Township-45460	659.5301371996567
+1397	Blue Lake	Blue Lake Township	09320	Blue Lake Township-09320	277.21753062735706
+1398	Ellsworth	Ellsworth Township	25440	Ellsworth Township-25440	666.5447055318381
+1399	Sunfield	Sunfield Township	77440	Sunfield Township-77440	3774.6887515417056
+1400	Wilmot	Wilmot Township	87640	Wilmot Township-87640	905.9078454317635
+1401	Chesterfield	Chesterfield Township	15340	Chesterfield Township-15340	22416.259124634846
+1402	Empire	Empire Township	26000	Empire Township-26000	1230.2138337879378
+1403	Banks	Banks Township	05240	Banks Township-05240	3176.8158873129723
+1404	Blair	Blair Township	08880	Blair Township-08880	21984.20135349265
+1405	Raisin	Raisin Township	66840	Raisin Township-66840	8342.035344355269
+1406	Wright	Wright Township	88780	Wright Township-88780	4077.7493710969375
+1407	Sherman	Sherman Township	73200	Sherman Township-73200	1278.8081377408369
+1408	Sigel	Sigel Township	73880	Sigel Township-73880	438.1123838540607
+1409	Glen Arbor	Glen Arbor Township	32380	Glen Arbor Township-32380	360.28323453549365
+1410	Conway	Conway Township	17920	Conway Township-17920	2417.509487865634
+1411	Matteson	Matteson Township	52400	Matteson Township-52400	2384.695407746737
+1412	Superior	Superior Township	77540	Superior Township-77540	3745.8273357351613
+1413	Hay	Hay Township	37300	Hay Township-37300	213.156646386682
+1414	Birch Run	Birch Run Township	08560	Birch Run Township-08560	7362.378528986609
+1415	Rose	Rose Township	69600	Rose Township-69600	448.3810845329723
+1416	Elba	Elba Township	25160	Elba Township-25160	21308.275867583667
+1417	Hersey	Hersey Township	37840	Hersey Township-37840	1242.0615562064831
+1418	Norwich	Norwich Township	59300	Norwich Township-59300	1712.419065578813
+1419	Burdell	Burdell Township	11680	Burdell Township-11680	4009.2198292595776
+1420	Sanborn	Sanborn Township	71240	Sanborn Township-71240	838.8463875809962
+1421	Lyon	Lyon Township	49820	Lyon Township-49820	59544.67357484459
+1422	Fruitport	Fruitport Township	31020	Fruitport Township-31020	18752.69877008097
+1423	Meridian	Meridian Township	53140	Meridian Township-53140	22482.46682983971
+1424	Brighton	Brighton Township	10640	Brighton Township-10640	27659.844845071268
+1425	Tyrone	Tyrone Township	81140	Tyrone Township-81140	3467.298932896895
+1426	Daggett	Daggett Township	19580	Daggett Township-19580	278.2526817724357
+1427	Edenville	Edenville Township	24830	Edenville Township-24830	3090.482009702415
+1428	Emmett	Emmett Township	25935	Emmett Township-25935	10904.993140454048
+1429	Turin	Turin Township	80780	Turin Township-80780	247.97678165570244
+1430	Limestone	Limestone Township	47540	Limestone Township-47540	580.7341537146929
+1431	Waverly	Waverly Township	84820	Waverly Township-84820	3947.513504184586
+1432	Ogden	Ogden Township	60260	Ogden Township-60260	4779.402612336256
+1433	Delta	Delta Township	21520	Delta Township-21520	82487.05309206544
+1434	Genesee	Genesee Township	31800	Genesee Township-31800	7031.755607950872
+1435	Hart	Hart Township	36940	Hart Township-36940	2508.1414786431305
+1436	Alcona	Alcona Township	01040	Alcona Township-01040	711.5273300874951
+1437	Maple Valley	Maple Valley Township	51340	Maple Valley Township-51340	1492.5176317374476
+1438	Sweetwater	Sweetwater Township	77740	Sweetwater Township-77740	595.4046218328039
+1439	Colfax	Colfax Township	17180	Colfax Township-17180	406.76240758030974
+1440	Marion	Marion Township	51640	Marion Township-51640	24256.064366029685
+1441	Elmer	Elmer Township	25500	Elmer Township-25500	846.1268129937978
+1442	Grass Lake	Grass Lake Township	34500	Grass Lake Township-34500	4053.353255497732
+1443	Reynolds	Reynolds Township	68120	Reynolds Township-68120	3561.903320862116
+1444	Ingersoll	Ingersoll Township	40620	Ingersoll Township-40620	18056.679194051623
+1445	Highland	Highland Township	38080	Highland Township-38080	22620.696699252843
+1446	Prairie Ronde	Prairie Ronde Township	66200	Prairie Ronde Township-66200	28087.27178084635
+1447	Hayes	Hayes Township	37340	Hayes Township-37340	1799.9256940440903
+1448	Hastings	Hastings Township	37140	Hastings Township-37140	5430.548316874326
+1449	Pierson	Pierson Township	64040	Pierson Township-64040	4595.507852594732
+1450	Saginaw	Saginaw Township	70540	Saginaw Township-70540	46361.969700523085
+1451	Raber	Raber Township	66760	Raber Township-66760	1121.2870769194576
+1452	Wilber	Wilber Township	87180	Wilber Township-87180	4961.870726409097
+1453	Brevort	Brevort Township	10360	Brevort Township-10360	220.97582711643872
+1454	North Shade	North Shade Township	58800	North Shade Township-58800	2133.447240411579
+1455	Berlin	Berlin Township	07760	Berlin Township-07760	2730.3672621072546
+1456	Brandon	Brandon Township	10040	Brandon Township-10040	11821.705327867017
+1457	Fremont	Fremont Township	30760	Fremont Township-30760	4692.084870928669
+1458	Bagley	Bagley Township	04780	Bagley Township-04780	6239.0358676095
+1459	Krakow	Krakow Township	43900	Krakow Township-43900	717.7737257176275
+1460	Vermontville	Vermontville Township	81980	Vermontville Township-81980	1670.5573605239108
+1461	Bertrand	Bertrand Township	07920	Bertrand Township-07920	23425.631234565044
+1462	Burlington	Burlington Township	11820	Burlington Township-11820	1535.6763556022288
+1463	Shiawassee	Shiawassee Township	73520	Shiawassee Township-73520	8565.552123714895
+1464	Bennington	Bennington Township	07280	Bennington Township-07280	22859.718324475674
+1465	Jefferson	Jefferson Township	41600	Jefferson Township-41600	4189.373530083534
+1466	Mason	Mason Township	52140	Mason Township-52140	967.6299901932505
+1467	Calvin	Calvin Township	12620	Calvin Township-12620	1406.3796965410836
+1468	Lyons	Lyons Township	49920	Lyons Township-49920	1421.6534093201649
+1469	Crystal	Crystal Township	19080	Crystal Township-19080	1457.184575310822
+1470	Sumner	Sumner Township	77300	Sumner Township-77300	4498.541196237913
+1471	Cohoctah	Cohoctah Township	16920	Cohoctah Township-16920	5547.525406543824
+1472	Bellevue	Bellevue Township	07080	Bellevue Township-07080	2880.080773166388
+1473	Hazelton	Hazelton Township	37440	Hazelton Township-37440	6454.7693488955965
+1474	Casco	Casco Township	13700	Casco Township-13700	6150.776707034733
+1475	Au Gres	Au Gres Township	04140	Au Gres Township-04140	1384.0057004046378
+1476	Springville	Springville Township	75940	Springville Township-75940	1109.3923899624092
+1477	Frederic	Frederic Township	30480	Frederic Township-30480	1368.3066040320316
+1478	Mayfield	Mayfield Township	52480	Mayfield Township-52480	7119.734410144004
+1479	Independence	Independence Township	40400	Independence Township-40400	41442.35123405549
+1480	Felch	Felch Township	27660	Felch Township-27660	220.1998862514061
+1481	Higgins	Higgins Township	38020	Higgins Township-38020	1414.0274590607535
+1482	Long Rapids	Long Rapids Township	49360	Long Rapids Township-49360	705.1357765619771
+1483	Bunker Hill	Bunker Hill Township	11640	Bunker Hill Township-11640	1303.8745664817166
+1484	Blissfield	Blissfield Township	09020	Blissfield Township-09020	1842.1855401168282
+1485	Van Buren	Van Buren Township	81660	Van Buren Township-81660	116312.25039805926
+1486	Leighton	Leighton Township	46760	Leighton Township-46760	14471.654282007965
+1487	Argentine	Argentine Township	03420	Argentine Township-03420	22383.990252066837
+1488	Elm River	Elm River Township	25660	Elm River Township-25660	210.27909034911394
+1489	Bentley	Bentley Township	07360	Bentley Township-07360	732.3392424425226
+1490	Middlebury	Middlebury Township	53680	Middlebury Township-53680	2209.4888334694415
+1491	Big Creek	Big Creek Township	08220	Big Creek Township-08220	3094.003090843494
+1492	Lincoln	Lincoln Township	47640	Lincoln Township-47640	353.9857355524258
+1493	Richfield	Richfield Township	68180	Richfield Township-68180	3981.770213498994
+1494	Goodar	Goodar Township	32860	Goodar Township-32860	419.2774204316337
+1495	Pine River	Pine River Township	64360	Pine River Township-64360	6452.6151535082145
+1496	Newberg	Newberg Township	57120	Newberg Township-57120	1966.6773626165516
+1497	Kalamo	Kalamo Township	42220	Kalamo Township-42220	1724.7990235163793
+1498	Chester	Chester Township	15300	Chester Township-15300	5201.720245623699
+1499	Burr Oak	Burr Oak Township	11940	Burr Oak Township-11940	2912.5839011844814
+1500	Grant	Grant Township	34240	Grant Township-34240	7769.946871100207
+1501	Sheridan	Sheridan Township	73080	Sheridan Township-73080	1196.6330623892559
+1502	Grant	Grant Township	34380	Grant Township-34380	2833.7359288560383
+1503	Germfask	Germfask Township	31940	Germfask Township-31940	331.962353079357
+1504	Sheridan	Sheridan Township	73060	Sheridan Township-73060	243.7980982007473
+1505	Sherman	Sherman Township	73220	Sherman Township-73220	68.88206188431232
+1506	Springdale	Springdale Township	75680	Springdale Township-75680	702.7823726451327
+1507	Hamburg	Hamburg Township	36100	Hamburg Township-36100	38254.18177499525
+1508	Lincoln	Lincoln Township	47580	Lincoln Township-47580	1394.8010097110928
+1509	Kochville	Kochville Township	43800	Kochville Township-43800	16494.651585426465
+1510	Sauble	Sauble Township	71680	Sauble Township-71680	508.7315366340935
+1511	Eden	Eden Township	24800	Eden Township-24800	271.8677396099226
+1512	Grand Haven	Grand Haven Township	33360	Grand Haven Township-33360	32334.097931267417
+1513	Hayes	Hayes Township	37320	Hayes Township-37320	2443.1212712135093
+1514	Kasson	Kasson Township	42320	Kasson Township-42320	1496.0789650533761
+1515	Rubicon	Rubicon Township	70140	Rubicon Township-70140	111.98030522046776
+1516	Brant	Brant Township	10100	Brant Township-10100	3939.0829636609183
+1517	Merritt	Merritt Township	53220	Merritt Township-53220	764.6472591017489
+1518	Highland	Highland Township	38100	Highland Township-38100	1453.8972538283979

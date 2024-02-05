@@ -1,0 +1,1377 @@
+﻿	municipality	res_com_non_electricity	res_com_non_electricity-adjusted (metric tonnes CO2/year)	state	city	edgar_emission_2015(tons_CO2)	absolute_percent_error_edgar (percent error)
+0	aguascalientes, aguascalientes	2873000000.0	167869.39	Aguascalientes	Aguascalientes	178541.07849673377	6.3571378300318795
+1	asientos, aguascalientes	108450000.0	6336.7335	Aguascalientes	Asientos	23620.91441793403	272.7616826229796
+2	calvillo, aguascalientes	150210000.0	8776.7703	Aguascalientes	Calvillo	15284.48864073316	74.14707367621503
+3	cosío, aguascalientes			Aguascalientes	Cosío	5480.281913050588	
+4	elllano, aguascalientes			Aguascalientes	ElLlano	9198.91676223404	
+5	jesúsmaría, aguascalientes	289800000.0	16933.014	Aguascalientes	JesúsMaría	32155.299517506188	89.89708221765002
+6	pabellóndearteaga, aguascalientes	115740000.0	6762.6882000000005	Aguascalientes	PabellóndeArteaga	12606.50412079709	86.4126180000002
+7	rincónderomos, aguascalientes	133080000.0	7775.8644	Aguascalientes	RincóndeRomos	14048.134898049711	80.66332147008262
+8	sanfranciscodelosromo, aguascalientes	100320000.0	5861.6976	Aguascalientes	SanFranciscodelosRomo	7935.950871049574	35.38656226567494
+9	sanjosédegracia, aguascalientes			Aguascalientes	SanJosédeGracia	11516.522758099976	
+10	tepezalá, aguascalientes			Aguascalientes	Tepezalá	6848.6213902425325	
+11	ensenada, bajacalifornia	1613600000.0	94282.648	BajaCalifornia	Ensenada	103546.69879968243	9.825827971741344
+12	mexicali, bajacalifornia	3426000000.0	200181.18	BajaCalifornia	Mexicali	423784.62787131954	111.70053442152732
+13	playasderosarito, bajacalifornia	306400000.0	17902.952	BajaCalifornia	PlayasdeRosarito	80070.69238201721	347.2485452791093
+14	tecate, bajacalifornia	309400000.0	18078.242000000002	BajaCalifornia	Tecate	33798.04515774211	86.95426888157658
+15	tijuana, bajacalifornia	5518000000.0	322416.74	BajaCalifornia	Tijuana	570831.3506336882	77.04767768376051
+16	lapaz, bajacaliforniasur	963000000.0	56268.090000000004	BajaCaliforniaSur	LaPaz	61523.564546352725	9.340062096212472
+17	loreto, bajacaliforniasur			BajaCaliforniaSur	Loreto	5416.149631709357	
+18	loscabos, bajacaliforniasur	1027200000.0	60019.296	BajaCaliforniaSur	LosCabos	64586.89377326878	7.610215510139898
+19	mulegé, bajacaliforniasur	195240000.0	11407.8732	BajaCaliforniaSur	Mulegé	22493.31224130463	97.1735822002705
+20	calkiní, campeche	150210000.0	8776.7703	Campeche	Calkiní	17651.079374724064	101.11132878484999
+21	campeche, campeche	983900000.0	57489.277	Campeche	Campeche	57888.17100076557	0.6938580924675208
+22	carmen, campeche			Campeche	Carmen	55310.38831267928	
+23	champotón, campeche	247670000.0	14471.3581	Campeche	Champotón	31390.07749051588	116.91175958471982
+24	escárcega, campeche	169940000.0	9929.5942	Campeche	Escárcega	19361.848550263538	94.9913376144167
+25	hecelchakán, campeche			Campeche	Hecelchakán	10198.517286254539	
+26	hopelchén, campeche	94290000.0	5509.3647	Campeche	Hopelchén	19185.74722873696	248.23883103503675
+27	tenabo, campeche			Campeche	Tenabo	3433.913436191285	
+28	berriozábal, chiapas	107710000.0	6293.4953000000005	Chiapas	Berriozábal	12187.077722187767	93.64561569129583
+29	cacahoatán, chiapas	111220000.0	6498.5846	Chiapas	Cacahoatán	5522.118221780311	15.025831597540323
+30	catazajá, chiapas			Chiapas	Catazajá	7615.747210042984	
+31	chamula, chiapas	168990000.0	9874.0857	Chiapas	Chamula	24409.089021178777	147.20353623403105
+32	chiapadecorzo, chiapas	245270000.0	14331.1261	Chiapas	ChiapadeCorzo	31039.430276423085	116.58751768587877
+33	comitándedomínguez, chiapas	462100000.0	27000.503	Chiapas	ComitándeDomínguez	30216.296177265245	11.91012321979796
+34	fronterahidalgo, chiapas			Chiapas	FronteraHidalgo	4868.222504142384	
+35	huehuetán, chiapas	91060000.0	5320.6358	Chiapas	Huehuetán	16658.470797035236	213.09173232708835
+36	laindependencia, chiapas	100190000.0	5854.1017	Chiapas	LaIndependencia	16782.026764114315	186.67125417575704
+37	latrinitaria, chiapas	183110000.0	10699.1173	Chiapas	LaTrinitaria	46136.892975451345	331.2214894162469
+38	lasmargaritas, chiapas	225690000.0	13187.0667	Chiapas	LasMargaritas	49099.56588872613	272.3312166816152
+39	mazatán, chiapas			Chiapas	Mazatán	20256.52307660079	
+40	metapa, chiapas			Chiapas	Metapa	1298.837783075133	
+41	palenque, chiapas	305500000.0	17850.365	Chiapas	Palenque	46199.587432402695	158.81592579424955
+42	saltodeagua, chiapas	119790000.0	6999.3297	Chiapas	SaltodeAgua	24280.35783632031	246.8954725238948
+43	sancristóbaldelascasas, chiapas	570600000.0	33340.158	Chiapas	SanCristóbaldelasCasas	42558.37070243565	27.6489772557036
+44	suchiate, chiapas	103340000.0	6038.1562	Chiapas	Suchiate	10935.816569628472	81.11185281408375
+45	tapachula, chiapas	1099100000.0	64220.413	Chiapas	Tapachula	94579.26036342993	47.27289337648752
+46	tuxtlachico, chiapas	96880000.0	5660.6984	Chiapas	TuxtlaChico	14859.502116407817	162.50298225405925
+47	tuxtlagutiérrez, chiapas	1993900000.0	116503.577	Chiapas	TuxtlaGutiérrez	100857.14878932064	13.42999812845177
+48	uniónjuárez, chiapas			Chiapas	UniónJuárez	621.6336270513013	
+49	zinacantán, chiapas	75750000.0	4426.0725	Chiapas	Zinacantán	34206.294677658225	672.8362939752618
+50	ahumada, chihuahua			Chihuahua	Ahumada	2613.9378683627697	
+51	aldama, chihuahua			Chihuahua	Aldama	4948.0711633773635	
+52	aquilesserdán, chihuahua			Chihuahua	AquilesSerdán	2466.4947485708008	
+53	ascensión, chihuahua			Chihuahua	Ascensión	6643.448291962123	
+54	bachíniva, chihuahua			Chihuahua	Bachíniva	2589.067890411468	
+55	buenaventura, chihuahua			Chihuahua	Buenaventura	7412.0320595592375	
+56	camargo, chihuahua	168720000.0	9858.3096	Chihuahua	Camargo	12051.005423682647	22.24210754836353
+57	casasgrandes, chihuahua			Chihuahua	CasasGrandes	13058.877142480304	
+58	chihuahua, chihuahua	3104000000.0	181366.72	Chihuahua	Chihuahua	176839.67015338267	2.4960752703788933
+59	coyamedelsotol, chihuahua			Chihuahua	CoyamedelSotol	1007.8849326020619	
+60	cuauhtémoc, chihuahua	558000000.0	32603.940000000002	Chihuahua	Cuauhtémoc	36981.35211870668	13.426021881731709
+61	cusihuiriachi, chihuahua			Chihuahua	Cusihuiriachi	14122.520235612852	
+62	delicias, chihuahua	507400000.0	29647.382	Chihuahua	Delicias	37304.24483804245	25.826438361547215
+63	dr.belisariodomínguez, chihuahua			Chihuahua	Dr.BelisarioDomínguez	1749.5465281463548	
+64	galeana, chihuahua			Chihuahua	Galeana	1980.075268262105	
+65	gómezfarías, chihuahua			Chihuahua	GómezFarías	2183.02736568974	
+66	granmorelos, chihuahua			Chihuahua	GranMorelos	1336.8564556855824	
+67	guadalupe, chihuahua			Chihuahua	Guadalupe	15579.939272391912	
+68	guerrero, chihuahua	126220000.0	7375.0346	Chihuahua	Guerrero	17301.39744789417	134.59411902818968
+69	hidalgodelparral, chihuahua	385200000.0	22507.236	Chihuahua	HidalgodelParral	11413.870638433771	49.287995032203106
+70	ignaciozaragoza, chihuahua			Chihuahua	IgnacioZaragoza	6277.835143548711	
+71	janos, chihuahua			Chihuahua	Janos	9615.601300663917	
+72	juárez, chihuahua			Chihuahua	Juárez	1076040.5632383144	
+73	julimes, chihuahua			Chihuahua	Julimes	470.2862397827777	
+74	lacruz, chihuahua			Chihuahua	LaCruz	1656.028843813888	
+75	madera, chihuahua			Chihuahua	Madera	10459.801363369494	
+76	manuelbenavides, chihuahua			Chihuahua	ManuelBenavides	936.787528952618	
+77	matachí, chihuahua			Chihuahua	Matachí	2011.2098132732447	
+78	meoqui, chihuahua	132780000.0	7758.3354	Chihuahua	Meoqui	6379.886769519074	17.76732455367844
+79	namiquipa, chihuahua			Chihuahua	Namiquipa	11677.669103883569	
+80	nuevocasasgrandes, chihuahua	220300000.0	12872.129	Chihuahua	NuevoCasasGrandes	4774.01020311985	62.91203884672186
+81	ojinaga, chihuahua			Chihuahua	Ojinaga	19016.28200717688	
+82	praxedisg.guerrero, chihuahua			Chihuahua	PraxedisG.Guerrero	1826.6610671848275	
+83	rivapalacio, chihuahua			Chihuahua	RivaPalacio	2636.7057901280587	
+84	rosales, chihuahua			Chihuahua	Rosales	16064.899662354741	
+85	santaisabel, chihuahua			Chihuahua	SantaIsabel	2112.37064346539	
+86	satevó, chihuahua			Chihuahua	Satevó	2495.823904079819	
+87	saucillo, chihuahua	97630000.0	5704.5209	Chihuahua	Saucillo	9729.858980341147	70.5639991667161
+88	temósachic, chihuahua			Chihuahua	Temósachic	4215.517434870282	
+89	abasolo, coahuila			Coahuila	Abasolo	1115.8049520718587	
+90	acuña, coahuila	463700000.0	27093.991	Coahuila	Acuña	92416.29138241014	241.095157898333
+91	allende, coahuila			Coahuila	Allende	5325.294379762897	
+92	arteaga, coahuila			Coahuila	Arteaga	6541.420105353901	
+93	candela, coahuila			Coahuila	Candela	2308.1089671389186	
+94	castaños, coahuila			Coahuila	Castaños	21462.913338023525	
+95	cuatrociénegas, coahuila			Coahuila	CuatroCiénegas	4631.773517583235	
+96	escobedo, coahuila			Coahuila	Escobedo	1173.9853756620632	
+97	frontera, coahuila	232210000.0	13568.0303	Coahuila	Frontera	31636.37301126707	133.1685020726042
+98	generalcepeda, coahuila			Coahuila	GeneralCepeda	6259.159783191808	
+99	guerrero, coahuila			Coahuila	Guerrero	1082.3835729639293	
+100	hidalgo, coahuila			Coahuila	Hidalgo	554.1511794550227	
+101	jiménez, coahuila			Coahuila	Jiménez	7936.428834846239	
+102	juárez, coahuila			Coahuila	Juárez	856.2143345868501	
+103	lamadrid, coahuila			Coahuila	Lamadrid	286.8988404344257	
+104	matamoros, coahuila	301170000.0	17597.3631	Coahuila	Matamoros	30355.73398490242	72.5016061349693
+105	monclova, coahuila	795800000.0	46498.594000000005	Coahuila	Monclova	15216.023054408077	67.27638032580496
+106	morelos, coahuila			Coahuila	Morelos	4477.967269688182	
+107	múzquiz, coahuila	217560000.0	12712.0308	Coahuila	Múzquiz	12073.520597369179	5.022881179856969
+108	nadadores, coahuila			Coahuila	Nadadores	4845.649898836898	
+109	nava, coahuila			Coahuila	Nava	57045.928686422776	
+110	ocampo, coahuila			Coahuila	Ocampo	4301.460592866604	
+111	piedrasnegras, coahuila	534900000.0	31254.207000000002	Coahuila	PiedrasNegras	58187.6536043008	86.17542785296327
+112	progreso, coahuila			Coahuila	Progreso	3588.501177596304	
+113	ramosarizpe, coahuila	293700000.0	17160.891	Coahuila	RamosArizpe	14949.012753841083	12.889064129356198
+114	sabinas, coahuila	219100000.0	12802.013	Coahuila	Sabinas	16235.13713941466	26.817064936699094
+115	sacramento, coahuila			Coahuila	Sacramento	1450.04477896936	
+116	saltillo, coahuila	2488000000.0	145373.84	Coahuila	Saltillo	170156.75364371302	17.047712053085355
+117	sanbuenaventura, coahuila			Coahuila	SanBuenaventura	6366.283921080346	
+118	sanjuandesabinas, coahuila	138020000.0	8064.5086	Coahuila	SanJuandeSabinas	5295.942628911198	34.33025009222263
+119	sierramojada, coahuila			Coahuila	SierraMojada	5652.8779575666185	
+120	torreón, coahuila	2480000000.0	144906.4	Coahuila	Torreón	78240.27368997048	46.00633671806733
+121	villaunión, coahuila			Coahuila	VillaUnión	2943.521510095477	
+122	zaragoza, coahuila			Coahuila	Zaragoza	5553.059144987661	
+123	armería, colima			Colima	Armería	12985.8271051063	
+124	colima, colima	645300000.0	37704.879	Colima	Colima	24536.49920799171	34.92486951624561
+125	comala, colima			Colima	Comala	4823.672594103505	
+126	coquimatlán, colima			Colima	Coquimatlán	39937.650062220135	
+127	cuauhtémoc, colima			Colima	Cuauhtémoc	8498.828790174815	
+128	manzanillo, colima	617900000.0	36103.897	Colima	Manzanillo	40749.24371406558	12.866607485794637
+129	tecomán, colima	364800000.0	21315.264	Colima	Tecomán	29699.69613369526	39.335342661931186
+130	villadeálvarez, colima	425200000.0	24844.436	Colima	VilladeÁlvarez	7569.8912025760355	69.53083900726892
+131	álvaroobregón, distritofederal	3234000000.0	188962.62	DistritoFederal	ÁlvaroObregón	210615.67727174997	11.45891037695708
+132	azcapotzalco, distritofederal	3032000000.0	177159.76	DistritoFederal	Azcapotzalco	54662.81859977206	69.14490141566456
+133	benitojuárez, distritofederal	2905200000.0	169750.836	DistritoFederal	BenitoJuárez	65312.33010488097	61.52459001446039
+134	coyoacán, distritofederal	2387000000.0	139472.41	DistritoFederal	Coyoacán	141268.00153379713	1.2874170122944915
+135	cuajimalpademorelos, distritofederal	916200000.0	53533.566	DistritoFederal	CuajimalpadeMorelos	116954.90127902116	118.47022348375067
+136	cuauhtémoc, distritofederal	39530000000.0	2309737.9	DistritoFederal	Cuauhtémoc	72535.0218934081	96.85959944228269
+137	cuauhtémoc, distritofederal	4354000000.0	254404.22	DistritoFederal	Cuauhtémoc	72535.0218934081	71.48827881337499
+138	gustavoa.madero, distritofederal	4061000000.0	237284.23	DistritoFederal	GustavoA.Madero	155517.26255977136	34.45950345719505
+139	iztacalco, distritofederal	1338500000.0	78208.55500000001	DistritoFederal	Iztacalco	47412.00495929709	39.37746969075559
+140	iztapalapa, distritofederal	5830000000.0	340646.9	DistritoFederal	Iztapalapa	227046.42527518942	33.3484539929207
+141	lamagdalenacontreras, distritofederal	762300000.0	44541.189	DistritoFederal	LaMagdalenaContreras	92094.07805113569	106.76160677061335
+142	miguelhidalgo, distritofederal	3535900000.0	206602.63700000002	DistritoFederal	MiguelHidalgo	111984.40887956908	45.79720254027103
+143	milpaalta, distritofederal	384600000.0	22472.178	DistritoFederal	MilpaAlta	124676.00003598366	454.8015863704162
+144	tláhuac, distritofederal	1101500000.0	64360.645000000004	DistritoFederal	Tláhuac	130218.26267956465	102.32591310973444
+145	tlalpan, distritofederal	2469000000.0	144263.67	DistritoFederal	Tlalpan	332798.19124675286	130.68745668729545
+146	venustianocarranza, distritofederal	1727300000.0	100926.139	DistritoFederal	VenustianoCarranza	68289.52822004823	32.337124062530286
+147	xochimilco, distritofederal	1276000000.0	74556.68000000001	DistritoFederal	Xochimilco	186138.0212007473	149.65975040834337
+148	durango, durango	1835900000.0	107271.637	Durango	Durango	143479.63212830623	33.75355885387134
+149	gómezpalacio, durango	1107000000.0	64682.01	Durango	GómezPalacio	47201.571941590046	27.02519303034948
+150	lerdo, durango	399400000.0	23336.942	Durango	Lerdo	154822.20867692534	563.4211486531754
+151	nuevoideal, durango			Durango	NuevoIdeal	12353.988472291881	
+152	abasolo, guanajuato	222070000.0	12975.5501	Guanajuato	Abasolo	40526.38896530409	212.32886970475406
+153	acámbaro, guanajuato	339300000.0	19825.299	Guanajuato	Acámbaro	39645.8978262545	99.97629204106582
+154	apaseoelalto, guanajuato	178120000.0	10407.5516	Guanajuato	ApaseoelAlto	45065.500108887936	333.00770287689886
+155	apaseoelgrande, guanajuato	235630000.0	13767.8609	Guanajuato	ApaseoelGrande	63900.80517660621	364.1302351958409
+156	atarjea, guanajuato			Guanajuato	Atarjea	1599.4807288736695	
+157	celaya, guanajuato	1631000000.0	95299.33	Guanajuato	Celaya	70364.81307631341	26.16441996358903
+158	comonfort, guanajuato	200430000.0	11711.1249	Guanajuato	Comonfort	23920.947806774573	104.25832711232181
+159	coroneo, guanajuato			Guanajuato	Coroneo	3772.2820358330773	
+160	cortazar, guanajuato	264500000.0	15454.735	Guanajuato	Cortazar	60158.79585069937	289.25802254583704
+161	cuerámaro, guanajuato			Guanajuato	Cuerámaro	12417.907297991074	
+162	doctormora, guanajuato			Guanajuato	DoctorMora	7659.999298418519	
+163	doloreshidalgocunadelaindep, guanajuato	377400000.0	22051.482	Guanajuato	DoloresHidalgoCunadelaIndep	62455.909888999704	183.22772088061794
+164	guanajuato, guanajuato	507200000.0	29635.696	Guanajuato	Guanajuato	34764.77606009872	17.307101746821523
+165	huanímaro, guanajuato			Guanajuato	Huanímaro	7436.105651553327	
+166	irapuato, guanajuato	1703500000.0	99535.505	Guanajuato	Irapuato	119280.69953659274	19.837337979641273
+167	jaraldelprogreso, guanajuato	106690000.0	6233.8967	Guanajuato	JaraldelProgreso	12389.281955155737	98.74057193080752
+168	jerécuaro, guanajuato	138010000.0	8063.924300000001	Guanajuato	Jerécuaro	28621.016682690562	254.92665379671982
+169	león, guanajuato	4767000000.0	278535.81	Guanajuato	León	258839.27132218765	7.071456513190297
+170	manueldoblado, guanajuato	104520000.0	6107.1036	Guanajuato	ManuelDoblado	23060.53848549851	277.6018878326954
+171	moroleón, guanajuato	177700000.0	10383.011	Guanajuato	Moroleón	16004.3412827132	54.13969303040515
+172	ocampo, guanajuato			Guanajuato	Ocampo	12045.698076451734	
+173	pénjamo, guanajuato	416300000.0	24324.409	Guanajuato	Pénjamo	62264.36479121142	155.9748308425969
+174	pueblonuevo, guanajuato			Guanajuato	PuebloNuevo	15990.999913024989	
+175	purísimadelrincón, guanajuato	179670000.0	10498.1181	Guanajuato	PurísimadelRincón	39139.64670079446	272.8253609644043
+176	romita, guanajuato	144160000.0	8423.2688	Guanajuato	Romita	38159.049496245934	353.01949162830863
+177	salamanca, guanajuato	804000000.0	46977.72	Guanajuato	Salamanca	55051.62863781515	17.18667623251011
+178	salvatierra, guanajuato	308000000.0	17996.44	Guanajuato	Salvatierra	30893.632793867055	71.66524486991348
+179	sandiegodelaunión, guanajuato	90950000.0	5314.2085	Guanajuato	SanDiegodelaUnión	18200.043232011933	242.4789078563992
+180	sanfelipe, guanajuato	263740000.0	15410.3282	Guanajuato	SanFelipe	50421.98090181762	227.19602235218855
+181	sanfranciscodelrincón, guanajuato	338800000.0	19796.084	Guanajuato	SanFranciscodelRincón	49690.463631220795	151.01158204431138
+182	sanjoséiturbide, guanajuato	205290000.0	11995.0947	Guanajuato	SanJoséIturbide	28044.58855283152	133.8004763966684
+183	sanluisdelapaz, guanajuato	292000000.0	17061.56	Guanajuato	SanLuisdelaPaz	34384.31696736236	101.53090905733333
+184	sanmigueldeallende, guanajuato	451600000.0	26386.988	Guanajuato	SanMigueldeAllende	69020.26808493213	161.5693313876223
+185	santacatarina, guanajuato			Guanajuato	SantaCatarina	3155.0798652994895	
+186	santacruzdejuventinorosas, guanajuato	208910000.0	12206.6113	Guanajuato	SantaCruzdeJuventinoRosas	23046.48900536772	88.80333320163736
+187	santiagomaravatío, guanajuato			Guanajuato	SantiagoMaravatío	5191.45918707569	
+188	silaodelavictoria, guanajuato	373500000.0	21823.605	Guanajuato	SilaodelaVictoria	42354.12467465333	94.07483170013997
+189	tarandacuao, guanajuato			Guanajuato	Tarandacuao	4834.956110708704	
+190	tarimoro, guanajuato	108370000.0	6332.0591	Guanajuato	Tarimoro	15139.317827063587	139.08996406972238
+191	tierrablanca, guanajuato			Guanajuato	TierraBlanca	5337.801232336982	
+192	uriangato, guanajuato	203200000.0	11872.976	Guanajuato	Uriangato	9593.484146244771	19.198993190546577
+193	valledesantiago, guanajuato	384600000.0	22472.178	Guanajuato	ValledeSantiago	76576.86891224282	240.76300442370479
+194	victoria, guanajuato			Guanajuato	Victoria	6094.062061117891	
+195	villagrán, guanajuato	163020000.0	9525.258600000001	Guanajuato	Villagrán	20843.16199940709	118.81990688848161
+196	xichú, guanajuato			Guanajuato	Xichú	6068.723963564735	
+197	yuriria, guanajuato	215110000.0	12568.8773	Guanajuato	Yuriria	35760.520477843005	184.5164259646564
+198	acapulcodejuárez, guerrero	2719000000.0	158871.17	Guerrero	AcapulcodeJuárez	146653.67175923666	7.690192147992206
+199	buenavistadecuéllar, guerrero			Guerrero	BuenavistadeCuéllar	5797.454230381472	
+200	coyucadebenítez, guerrero	203590000.0	11895.7637	Guerrero	CoyucadeBenítez	34405.291984753196	189.22306169172808
+201	huitzucodelosfigueroa, guerrero	116420000.0	6802.4206	Guerrero	HuitzucodelosFigueroa	10866.999349741864	59.751946972256654
+202	igualadelaindependencia, guerrero	473100000.0	27643.233	Guerrero	IgualadelaIndependencia	33079.31308663415	19.66513861325176
+203	launióndeisidoromontesdeoc, guerrero			Guerrero	LaUnióndeIsidoroMontesdeOc	9746.990127238601	
+204	pilcaya, guerrero			Guerrero	Pilcaya	5890.716822660804	
+205	sanmarcos, guerrero	133120000.0	7778.2016	Guerrero	SanMarcos	29299.28735433134	276.68459704530335
+206	taxcodealarcón, guerrero	346500000.0	20245.995	Guerrero	TaxcodeAlarcón	31518.280885603403	55.676620909979505
+207	tepecoacuilcodetrujano, guerrero			Guerrero	TepecoacuilcodeTrujano	13958.34436877584	
+208	tetipac, guerrero			Guerrero	Tetipac	8088.047978492006	
+209	zihuatanejodeazueta, guerrero	489000000.0	28572.27	Guerrero	ZihuatanejodeAzueta	30419.6180578189	6.4655277925726615
+210	acatlán, hidalgo			Hidalgo	Acatlán	13347.900206521399	
+211	acaxochitlán, hidalgo	88340000.0	5161.7062000000005	Hidalgo	Acaxochitlán	27646.57272971195	435.609189258233
+212	actopan, hidalgo			Hidalgo	Actopan	7361.0414643881595	
+213	aguablancadeiturbide, hidalgo			Hidalgo	AguaBlancadeIturbide	3596.42814468657	
+214	ajacuba, hidalgo			Hidalgo	Ajacuba	15551.580525176869	
+215	alfajayucan, hidalgo			Hidalgo	Alfajayucan	18641.033807188443	
+216	almoloya, hidalgo			Hidalgo	Almoloya	4543.838935269499	
+217	apan, hidalgo	131860000.0	7704.5798	Hidalgo	Apan	11269.790749906251	46.273918142897955
+218	atitalaquia, hidalgo			Hidalgo	Atitalaquia	4531.625775314166	
+219	atlapexco, hidalgo			Hidalgo	Atlapexco	7744.775504243557	
+220	atotonilcodetula, hidalgo			Hidalgo	AtotonilcodeTula	8239.547992312595	
+221	atotonilcoelgrande, hidalgo			Hidalgo	AtotonilcoelGrande	7111.006139498169	
+222	calnali, hidalgo			Hidalgo	Calnali	12690.131218503508	
+223	cardonal, hidalgo			Hidalgo	Cardonal	5457.838311819036	
+224	chapantongo, hidalgo			Hidalgo	Chapantongo	5860.4766729786925	
+225	chapulhuacán, hidalgo			Hidalgo	Chapulhuacán	18477.057549365993	
+226	chilcuautla, hidalgo			Hidalgo	Chilcuautla	10647.197850951647	
+227	cuautepecdehinojosa, hidalgo	153650000.0	8977.7695	Hidalgo	CuautepecdeHinojosa	24227.058686971606	169.8561005266576
+228	elarenal, hidalgo			Hidalgo	ElArenal	1771.8686951149182	
+229	eloxochitlán, hidalgo			Hidalgo	Eloxochitlán	4614.480307798687	
+230	emilianozapata, hidalgo			Hidalgo	EmilianoZapata	9726.667508628618	
+231	epazoyucan, hidalgo			Hidalgo	Epazoyucan	5200.7064603187955	
+232	franciscoi.madero, hidalgo	97640000.0	5705.1052	Hidalgo	FranciscoI.Madero	8621.326440841474	51.115994159782964
+233	huascadeocampo, hidalgo			Hidalgo	HuascadeOcampo	9670.936897576388	
+234	huautla, hidalgo			Hidalgo	Huautla	10467.564361873186	
+235	huazalingo, hidalgo			Hidalgo	Huazalingo	9060.6342016774	
+236	huehuetla, hidalgo			Hidalgo	Huehuetla	9721.35874577054	
+237	huejutladereyes, hidalgo	323700000.0	18913.791	Hidalgo	HuejutladeReyes	32322.752018847215	70.89515274249997
+238	huichapan, hidalgo	130070000.0	7599.9901	Hidalgo	Huichapan	17928.107775914657	135.8964622324266
+239	ixmiquilpan, hidalgo	265200000.0	15495.636	Hidalgo	Ixmiquilpan	16742.530499036562	8.046746187355987
+240	jacaladeledezma, hidalgo			Hidalgo	JacaladeLedezma	9554.469565639907	
+241	jaltocán, hidalgo			Hidalgo	Jaltocán	4225.109635707227	
+242	juárezhidalgo, hidalgo			Hidalgo	JuárezHidalgo	2702.3102201680395	
+243	lamisión, hidalgo			Hidalgo	LaMisión	8447.128311017375	
+244	lolotla, hidalgo			Hidalgo	Lolotla	6980.330620364496	
+245	metepec, hidalgo			Hidalgo	Metepec	6925.226173818366	
+246	metztitlán, hidalgo			Hidalgo	Metztitlán	21430.42564111138	
+247	mineraldelareforma, hidalgo	438300000.0	25609.869	Hidalgo	MineraldelaReforma	14714.727881961335	42.542744431994805
+248	mineraldelchico, hidalgo			Hidalgo	MineraldelChico	7816.336222040245	
+249	mineraldelmonte, hidalgo			Hidalgo	MineraldelMonte	2608.7714231630307	
+250	mixquiahualadejuárez, hidalgo	131170000.0	7664.2631	Hidalgo	MixquiahualadeJuárez	12621.851573466154	64.68447662588925
+251	molangodeescamilla, hidalgo			Hidalgo	MolangodeEscamilla	5341.39775648717	
+252	nicolásflores, hidalgo			Hidalgo	NicolásFlores	2956.2781405057917	
+253	nopaladevillagrán, hidalgo			Hidalgo	NopaladeVillagrán	12240.684834312971	
+254	omitlándejuárez, hidalgo			Hidalgo	OmitlándeJuárez	3644.0891605613674	
+255	pachucadesoto, hidalgo	1098900000.0	64208.727	Hidalgo	PachucadeSoto	47873.074398512406	25.44148336952326
+256	pacula, hidalgo			Hidalgo	Pacula	2782.0914219554425	
+257	pisaflores, hidalgo			Hidalgo	Pisaflores	15865.814561280404	
+258	progresodeobregón, hidalgo			Hidalgo	ProgresodeObregón	3388.753810282381	
+259	sanagustínmetzquititlán, hidalgo			Hidalgo	SanAgustínMetzquititlán	5430.908157449268	
+260	sanagustíntlaxiaca, hidalgo			Hidalgo	SanAgustínTlaxiaca	23437.672811265813	
+261	sanbartolotutotepec, hidalgo			Hidalgo	SanBartoloTutotepec	9261.04923149782	
+262	sanfelipeorizatlán, hidalgo	98610000.0	5761.7823	Hidalgo	SanFelipeOrizatlán	12555.244030278931	117.90556075468058
+263	sansalvador, hidalgo	88580000.0	5175.7294	Hidalgo	SanSalvador	12367.859430443219	138.95877227358946
+264	santiagodeanaya, hidalgo			Hidalgo	SantiagodeAnaya	2038.8406390663547	
+265	santiagotulantepecdelugoguer, hidalgo	94800000.0	5539.164	Hidalgo	SantiagoTulantepecdeLugoGuer	13725.487106387282	147.78986696164407
+266	singuilucan, hidalgo			Hidalgo	Singuilucan	34404.77128694588	
+267	tasquillo, hidalgo			Hidalgo	Tasquillo	7489.424259704986	
+268	tecozautla, hidalgo	95670000.0	5589.9981	Hidalgo	Tecozautla	15702.9527995642	180.91159457754023
+269	tenangodedoria, hidalgo			Hidalgo	TenangodeDoria	7451.766849467827	
+270	tepeapulco, hidalgo	171230000.0	10004.9689	Hidalgo	Tepeapulco	5986.377614256818	40.165954796153166
+271	tepehuacándeguerrero, hidalgo			Hidalgo	TepehuacándeGuerrero	20064.55184821637	
+272	tepejidelríodeocampo, hidalgo	245570000.0	14348.6551	Hidalgo	TepejidelRíodeOcampo	38771.057635716825	170.20691044219765
+273	tepetitlán, hidalgo			Hidalgo	Tepetitlán	2455.0273836181127	
+274	tetepango, hidalgo			Hidalgo	Tetepango	2403.9062766361085	
+275	tezontepecdealdama, hidalgo	145370000.0	8493.9691	Hidalgo	TezontepecdeAldama	18052.01490389371	112.52743789583258
+276	tianguistengo, hidalgo			Hidalgo	Tianguistengo	7887.172889184786	
+277	tizayuca, hidalgo	309300000.0	18072.399	Hidalgo	Tizayuca	9251.388258389226	48.809296107344544
+278	tlahuelilpan, hidalgo			Hidalgo	Tlahuelilpan	2094.672675302522	
+279	tlahuiltepa, hidalgo			Hidalgo	Tlahuiltepa	11290.367267463844	
+280	tlanalapa, hidalgo			Hidalgo	Tlanalapa	1446.5741327742867	
+281	tlanchinol, hidalgo	85551000.0	4998.74493	Hidalgo	Tlanchinol	24009.63255408174	380.3132164233421
+282	tlaxcoapan, hidalgo			Hidalgo	Tlaxcoapan	3924.620143965786	
+283	tolcayuca, hidalgo			Hidalgo	Tolcayuca	4109.170251050391	
+284	tuladeallende, hidalgo	369000000.0	21560.670000000002	Hidalgo	TuladeAllende	36868.87215854889	71.00058652420768
+285	tulancingodebravo, hidalgo	511700000.0	29898.631	Hidalgo	TulancingodeBravo	18077.288342685522	39.53807335631681
+286	villadetezontepec, hidalgo			Hidalgo	VilladeTezontepec	8651.298536150041	
+287	xochiatipan, hidalgo			Hidalgo	Xochiatipan	7854.481008814632	
+288	xochicoatlán, hidalgo			Hidalgo	Xochicoatlán	7112.824916994586	
+289	yahualica, hidalgo			Hidalgo	Yahualica	10251.708017918705	
+290	zacualtipándeángeles, hidalgo	100430000.0	5868.1249	Hidalgo	ZacualtipándeÁngeles	8736.54630254991	48.881396552242954
+291	zapotlándejuárez, hidalgo			Hidalgo	ZapotlándeJuárez	20337.675257482042	
+292	zempoala, hidalgo	112810000.0	6591.4883	Hidalgo	Zempoala	27985.470742819998	324.56983110809733
+293	zimapán, hidalgo	113300000.0	6620.119000000001	Hidalgo	Zimapán	15857.726069677019	139.53838397281103
+294	acatic, jalisco			Jalisco	Acatic	11132.687004838353	
+295	acatlándejuárez, jalisco			Jalisco	AcatlándeJuárez	9768.4745036092	
+296	amacueca, jalisco			Jalisco	Amacueca	4848.497489640058	
+297	amatitán, jalisco			Jalisco	Amatitán	1051.079960073185	
+298	ameca, jalisco	198150000.0	11577.9045	Jalisco	Ameca	24219.69059371204	109.18889591559542
+299	arandas, jalisco	232600000.0	13590.818000000001	Jalisco	Arandas	17554.14028913443	29.161764134685846
+300	atemajacdebrizuela, jalisco			Jalisco	AtemajacdeBrizuela	4631.673092724007	
+301	atotonilcoelalto, jalisco	172240000.0	10063.9832	Jalisco	AtotonilcoelAlto	17492.213588139435	73.81004360320706
+302	atoyac, jalisco			Jalisco	Atoyac	5751.9718939603445	
+303	ayotlán, jalisco	108590000.0	6344.9137	Jalisco	Ayotlán	11121.046180576837	75.27497939927595
+304	cañadasdeobregón, jalisco			Jalisco	CañadasdeObregón	2159.155106882643	
+305	chapala, jalisco	173770000.0	10153.3811	Jalisco	Chapala	12280.967949209504	20.954466578719313
+306	chiquilistlán, jalisco			Jalisco	Chiquilistlán	4057.976159258754	
+307	cocula, jalisco			Jalisco	Cocula	8493.965304113497	
+308	concepcióndebuenosaires, jalisco			Jalisco	ConcepcióndeBuenosAires	2983.8072387618795	
+309	cuquío, jalisco			Jalisco	Cuquío	6078.182368995309	
+310	degollado, jalisco			Jalisco	Degollado	7115.437802761973	
+311	elarenal, jalisco			Jalisco	ElArenal	3505.0667435674522	
+312	elsalto, jalisco	422500000.0	24686.675	Jalisco	ElSalto	38284.77784821691	55.082763669943034
+313	encarnacióndedíaz, jalisco	150410000.0	8788.4563	Jalisco	EncarnacióndeDíaz	21439.94897196425	143.95580111110357
+314	gómezfarías, jalisco			Jalisco	GómezFarías	2964.6992844121564	
+315	guadalajara, jalisco	6089000000.0	355780.27	Jalisco	Guadalajara	100698.49039867232	71.6964376920979
+316	ixtlahuacándelosmembrillos, jalisco	116980000.0	6835.1414	Jalisco	IxtlahuacándelosMembrillos	13500.439173460894	97.51514099563316
+317	ixtlahuacándelrío, jalisco			Jalisco	IxtlahuacándelRío	10502.825037787496	
+318	jalostotitlán, jalisco			Jalisco	Jalostotitlán	12940.789286129913	
+319	jamay, jalisco			Jalisco	Jamay	4238.510355576049	
+320	jesúsmaría, jalisco			Jalisco	JesúsMaría	6051.122972619853	
+321	jocotepec, jalisco	113400000.0	6625.962	Jalisco	Jocotepec	26617.55027635299	301.7160115973045
+322	juanacatlán, jalisco			Jalisco	Juanacatlán	7438.247176308102	
+323	juchitlán, jalisco			Jalisco	Juchitlán	1557.6993925250645	
+324	labarca, jalisco	196810000.0	11499.6083	Jalisco	LaBarca	15228.349001260334	32.424936606408885
+325	lamanzanilladelapaz, jalisco			Jalisco	LaManzanilladelaPaz	1566.1659132465368	
+326	lagosdemoreno, jalisco	443500000.0	25913.705	Jalisco	LagosdeMoreno	43116.06765175601	66.38326187535132
+327	mascota, jalisco			Jalisco	Mascota	4749.304069901415	
+328	mazamitla, jalisco			Jalisco	Mazamitla	8225.160357807543	
+329	mexticacán, jalisco			Jalisco	Mexticacán	3198.882727448233	
+330	ocotlán, jalisco	299200000.0	17482.256	Jalisco	Ocotlán	13616.759338586058	22.110971612667967
+331	ojuelosdejalisco, jalisco			Jalisco	OjuelosdeJalisco	11955.469184731912	
+332	poncitlán, jalisco	128500000.0	7508.255	Jalisco	Poncitlán	32474.379976411226	332.51567742985856
+333	puertovallarta, jalisco	1041400000.0	60849.002	Jalisco	PuertoVallarta	53592.337258361484	11.925692292600816
+334	sancristóbaldelabarranca, jalisco			Jalisco	SanCristóbaldelaBarranca	1356.780257311551	
+335	sandiegodealejandría, jalisco			Jalisco	SanDiegodeAlejandría	13147.988948817958	
+336	sanignaciocerrogordo, jalisco			Jalisco	SanIgnacioCerroGordo	3216.073547239845	
+337	sanjuandeloslagos, jalisco	205900000.0	12030.737000000001	Jalisco	SanJuandelosLagos	13975.113485105592	16.16174042459403
+338	sanjulián, jalisco			Jalisco	SanJulián	3417.4861804151674	
+339	sanmartínhidalgo, jalisco			Jalisco	SanMartínHidalgo	14820.25973821695	
+340	sanmiguelelalto, jalisco			Jalisco	SanMiguelelAlto	12183.159257603984	
+341	sanpedrotlaquepaque, jalisco	1409900000.0	82380.457	Jalisco	SanPedroTlaquepaque	176761.31267152028	114.56704552090588
+342	sayula, jalisco	104340000.0	6096.5862	Jalisco	Sayula	3041.2421213375183	50.11565453896939
+343	tala, jalisco	210020000.0	12271.4686	Jalisco	Tala	15658.887279672206	27.604020269197495
+344	tapalpa, jalisco			Jalisco	Tapalpa	11859.542744669568	
+345	techalutademontenegro, jalisco			Jalisco	TechalutadeMontenegro	826.1533456654608	
+346	tecolotlán, jalisco			Jalisco	Tecolotlán	11272.559150588813	
+347	teocaltiche, jalisco	121440000.0	7095.7392	Jalisco	Teocaltiche	14084.840294976333	98.49715298127548
+348	teocuitatlándecorona, jalisco			Jalisco	TeocuitatlándeCorona	7344.349556627508	
+349	tepatitlándemorelos, jalisco	447900000.0	26170.797000000002	Jalisco	TepatitlándeMorelos	31954.610755507994	22.100258373896644
+350	tequila, jalisco	119870000.0	7004.0041	Jalisco	Tequila	8621.886546383688	23.099393194011526
+351	teuchitlán, jalisco			Jalisco	Teuchitlán	5638.418142746911	
+352	tizapánelalto, jalisco			Jalisco	TizapánelAlto	3947.864491403631	
+353	tlajomulcodezúñiga, jalisco	1250200000.0	73049.186	Jalisco	TlajomulcodeZúñiga	296194.3865794543	305.4725354221665
+354	tonalá, jalisco	1264800000.0	73902.264	Jalisco	Tonalá	27686.967341155043	62.535698038756905
+355	tototlán, jalisco			Jalisco	Tototlán	5518.981976479711	
+356	tuxcueca, jalisco			Jalisco	Tuxcueca	5926.845633342062	
+357	unióndesanantonio, jalisco			Jalisco	UnióndeSanAntonio	20582.43982053151	
+358	valledeguadalupe, jalisco			Jalisco	ValledeGuadalupe	3577.792620086818	
+359	valledejuárez, jalisco			Jalisco	ValledeJuárez	2268.523714407529	
+360	villacorona, jalisco			Jalisco	VillaCorona	10574.707190495656	
+361	villahidalgo, jalisco			Jalisco	VillaHidalgo	4751.0885658120305	
+362	yahualicadegonzálezgallo, jalisco			Jalisco	YahualicadeGonzálezGallo	6650.311951552967	
+363	zacoalcodetorres, jalisco			Jalisco	ZacoalcodeTorres	15463.46256864469	
+364	zapopan, jalisco	4402000000.0	257208.86000000002	Jalisco	Zapopan	267757.614351952	4.10124066175324
+365	zapotlándelrey, jalisco			Jalisco	ZapotlándelRey	8587.814535886715	
+366	zapotlanejo, jalisco	201720000.0	11786.499600000001	Jalisco	Zapotlanejo	22390.509846368604	89.96742549729186
+367	acambayderuízcastañeda, méxico	140990000.0	8238.0457	México	AcambaydeRuízCastañeda	18158.828443430935	120.42641064046214
+368	acolman, méxico	378200000.0	22098.226	México	Acolman	20535.278307408455	7.072729243476577
+369	aculco, méxico	114890000.0	6713.0227	México	Aculco	22294.415377622492	232.10695649252742
+370	almoloyadealquisiras, méxico			México	AlmoloyadeAlquisiras	8257.81846695247	
+371	almoloyadejuárez, méxico	359500000.0	21005.585	México	AlmoloyadeJuárez	59774.30808738117	184.56388187894396
+372	almoloyadelrío, méxico			México	AlmoloyadelRío	1340.0605003740068	
+373	amanalco, méxico			México	Amanalco	13917.110209918068	
+374	amecameca, méxico	140800000.0	8226.944	México	Amecameca	4138.636053319619	49.694126357009125
+375	apaxco, méxico			México	Apaxco	1961.7394969978288	
+376	atenco, méxico	145270000.0	8488.1261	México	Atenco	33840.43328642958	298.67967190578827
+377	atizapán, méxico			México	Atizapán	1428.6439925478971	
+378	atizapándezaragoza, méxico	1527700000.0	89263.511	México	AtizapándeZaragoza	110495.0293256763	23.785215355999494
+379	atlacomulco, méxico	291200000.0	17014.816	México	Atlacomulco	20123.137158042806	18.268320727316752
+380	atlautla, méxico			México	Atlautla	5286.022149464293	
+381	axapusco, méxico			México	Axapusco	15274.148501144464	
+382	ayapango, méxico			México	Ayapango	3994.77799352474	
+383	calimaya, méxico	122470000.0	7155.9221	México	Calimaya	41497.89651576501	479.90984160888246
+384	capulhuac, méxico	99300000.0	5802.099	México	Capulhuac	2833.732871678689	51.16021164618719
+385	chalco, méxico	917100000.0	53586.153	México	Chalco	42900.98707203441	19.940162392261275
+386	chapademota, méxico			México	ChapadeMota	15462.423989816563	
+387	chapultepec, méxico			México	Chapultepec	3594.8454777589923	
+388	chiautla, méxico			México	Chiautla	3091.0875886146914	
+389	chicoloapan, méxico	513500000.0	30003.805	México	Chicoloapan	9222.609246956088	69.26186779658083
+390	chiconcuac, méxico			México	Chiconcuac	1143.49521798972	
+391	chimalhuacán, méxico	1744400000.0	101925.292	México	Chimalhuacán	36796.39394825568	63.898662219917234
+392	coacalcodeberriozábal, méxico	904800000.0	52867.464	México	CoacalcodeBerriozábal	46140.31100161831	12.724561553362362
+393	coatepecharinas, méxico	94110000.0	5498.8473	México	CoatepecHarinas	15244.738609618544	177.23516908022782
+394	cocotitlán, méxico			México	Cocotitlán	4229.226238505547	
+395	coyotepec, méxico	99520000.0	5814.9536	México	Coyotepec	7667.720213270772	31.86210485446989
+396	cuautitlán, méxico	474900000.0	27748.407	México	Cuautitlán	11597.119173435494	58.20618036402776
+397	cuautitlánizcalli, méxico	1773100000.0	103602.23300000001	México	CuautitlánIzcalli	74338.62888121579	28.246113304125615
+398	donatoguerra, méxico	72949000.0	4262.41007	México	DonatoGuerra	12629.052780196718	196.28901426175355
+399	ecatepecdemorelos, méxico	5059000000.0	295597.37	México	EcatepecdeMorelos	160476.86002665095	45.71099870521482
+400	ecatzingo, méxico			México	Ecatzingo	2101.4734716849443	
+401	eloro, méxico	84880000.0	4959.5384	México	ElOro	15362.56950527079	209.75805137975723
+402	huehuetoca, méxico	294200000.0	17190.106	México	Huehuetoca	23148.58984757543	34.66228682694237
+403	hueypoxtla, méxico	105630000.0	6171.9609	México	Hueypoxtla	7520.055264593474	21.84223760382983
+404	huixquilucan, méxico	758900000.0	44342.527	México	Huixquilucan	144506.46054834928	225.88684119953126
+405	isidrofabela, méxico			México	IsidroFabela	19798.751786260174	
+406	ixtapaluca, méxico	1352400000.0	79020.732	México	Ixtapaluca	29152.150066434246	63.10822574203154
+407	ixtapandelasal, méxico	110690000.0	6467.6167000000005	México	IxtapandelaSal	14260.138591662553	120.48521508181757
+408	ixtlahuaca, méxico	371500000.0	21706.745	México	Ixtlahuaca	37207.61738412293	71.4103951749695
+409	jaltenco, méxico			México	Jaltenco	703.2248372579945	
+410	jilotepec, méxico	235740000.0	13774.2882	México	Jilotepec	27518.544105807658	99.7819684490677
+411	jilotzingo, méxico			México	Jilotzingo	29124.195326207097	
+412	jiquipilco, méxico	157220000.0	9186.3646	México	Jiquipilco	17188.359144413946	87.10730406252266
+413	jocotitlán, méxico	198500000.0	11598.355	México	Jocotitlán	23887.52175254303	105.95611836801883
+414	joquicingo, méxico			México	Joquicingo	8954.759478660302	
+415	juchitepec, méxico			México	Juchitepec	12483.023925135714	
+416	lapaz, méxico	777500000.0	45429.325000000004	México	LaPaz	28128.64109916826	38.082634731710726
+417	lerma, méxico	427800000.0	24996.354	México	Lerma	38800.66912171615	55.225314546738105
+418	malinalco, méxico			México	Malinalco	9255.44205932765	
+419	melchorocampo, méxico	130080000.0	7600.5744	México	MelchorOcampo	2601.735252616694	65.76922853861291
+420	metepec, méxico	812100000.0	47451.003000000004	México	Metepec	22008.11059553562	53.619293156910466
+421	mexicaltzingo, méxico			México	Mexicaltzingo	4950.220936784263	
+422	morelos, méxico			México	Morelos	14416.103392166948	
+423	naucalpandejuárez, méxico	2912000000.0	170148.16	México	NaucalpandeJuárez	206433.8145767981	21.32591652874653
+424	nextlalpan, méxico	87530000.0	5114.3779	México	Nextlalpan	9400.756660144585	83.81036450483224
+425	nezahualcóyotl, méxico	3446000000.0	201349.78	México	Nezahualcóyotl	72755.85986119996	63.86593525893102
+426	nicolásromero, méxico	1062400000.0	62076.032	México	NicolásRomero	98950.14960952572	59.40153779404862
+427	nopaltepec, méxico			México	Nopaltepec	4607.48428571149	
+428	ocoyoacac, méxico	179590000.0	10493.4437	México	Ocoyoacac	32704.857991698405	211.66944738740443
+429	ocuilan, méxico	80380000.0	4696.6034	México	Ocuilan	17559.217399222627	273.8705592902017
+430	otumba, méxico	93160000.0	5443.3388	México	Otumba	5853.448210655715	7.534151845476066
+431	otzolotepec, méxico	179170000.0	10468.9031	México	Otzolotepec	13187.175454433069	25.9652069416238
+432	ozumba, méxico			México	Ozumba	4698.945811827451	
+433	papalotla, méxico			México	Papalotla	391.1413382856877	
+434	polotitlán, méxico			México	Polotitlán	4550.15137697565	
+435	rayón, méxico			México	Rayón	5699.796488599247	
+436	sanantoniolaisla, méxico			México	SanAntoniolaIsla	7384.238878801046	
+437	sanfelipedelprogreso, méxico	269470000.0	15745.1321	México	SanFelipedelProgreso	54133.986207064525	243.8141125984235
+438	sanjosédelrincón, méxico	191580000.0	11194.019400000001	México	SanJosédelRincón	56808.45591436201	407.48934662702123
+439	sanmartíndelaspirámides, méxico			México	SanMartíndelasPirámides	5697.6453542615045	
+440	sanmateoatenco, méxico	215600000.0	12597.508	México	SanMateoAtenco	3626.892854929007	71.2094419393978
+441	sansimóndeguerrero, méxico			México	SanSimóndeGuerrero	5126.002327990026	
+442	soyaniquilpandejuárez, méxico			México	SoyaniquilpandeJuárez	4526.067053337371	
+443	tecámac, méxico	1151900000.0	67305.517	México	Tecámac	35293.19253931116	47.562704942432646
+444	temamatla, méxico			México	Temamatla	10527.372701584864	
+445	temascalapa, méxico	101100000.0	5907.273	México	Temascalapa	10859.177312872689	83.82724673250566
+446	temascalcingo, méxico	164730000.0	9625.1739	México	Temascalcingo	26885.488992186303	179.32470905472476
+447	temascaltepec, méxico	78143000.0	4565.89549	México	Temascaltepec	20608.78878672246	351.36356782275936
+448	temoaya, méxico	207500000.0	12124.225	México	Temoaya	17638.719961714174	45.48327799685484
+449	tenancingo, méxico	254200000.0	14852.906	México	Tenancingo	14047.905178036328	5.419820350062627
+450	tenangodelaire, méxico			México	TenangodelAire	7525.070516746142	
+451	tenangodelvalle, méxico	213930000.0	12499.929900000001	México	TenangodelValle	33420.17666886113	167.36291272210354
+452	teoloyucan, méxico	177340000.0	10361.976200000001	México	Teoloyucan	5762.15676927799	44.391333679399985
+453	teotihuacán, méxico	158890000.0	9283.9427	México	Teotihuacán	6438.918191664848	30.64457203441327
+454	tepetlaoxtoc, méxico			México	Tepetlaoxtoc	7215.432418331686	
+455	tepetlixpa, méxico			México	Tepetlixpa	4309.644996954694	
+456	tepotzotlán, méxico	272800000.0	15939.704	México	Tepotzotlán	38451.60330516139	141.2316019492043
+457	tequixquiac, méxico	100750000.0	5886.8225	México	Tequixquiac	9737.091142456633	65.40487066590903
+458	texcaltitlán, méxico			México	Texcaltitlán	6269.315616338649	
+459	texcalyacac, méxico			México	Texcalyacac	6201.976450626408	
+460	texcoco, méxico	712600000.0	41637.218	México	Texcoco	64935.665755645176	55.95582239823317
+461	tezoyuca, méxico	101100000.0	5907.273	México	Tezoyuca	4214.71377310598	28.65212470955752
+462	tianguistenco, méxico	205700000.0	12019.051	México	Tianguistenco	14154.778719163483	17.769520398602882
+463	timilpan, méxico			México	Timilpan	9527.641918775298	
+464	tlalmanalco, méxico	131740000.0	7697.568200000001	México	Tlalmanalco	3314.119792163432	56.9458859466366
+465	tlalnepantladebaz, méxico	2388000000.0	139530.84	México	TlalnepantladeBaz	123445.28090637538	11.528318107756403
+466	toluca, méxico	2701000000.0	157819.43	México	Toluca	157245.8005183462	0.36347202727433453
+467	tonanitla, méxico			México	Tonanitla	1482.3691691264137	
+468	tonatico, méxico			México	Tonatico	4382.468439939402	
+469	tultepec, méxico	382100000.0	22326.103	México	Tultepec	5128.3312473278365	77.02988628455294
+470	tultitlán, méxico	1491800000.0	87165.874	México	Tultitlán	70076.66402476796	19.605390494027557
+471	valledebravo, méxico	197000000.0	11510.710000000001	México	ValledeBravo	27838.998761606075	141.85301133992667
+472	valledechalcosolidaridad, méxico	1065700000.0	62268.851	México	ValledeChalcoSolidaridad	40519.756554403	34.927727260612215
+473	villadeallende, méxico	106339000.0	6213.38777	México	VilladeAllende	29520.598368724477	375.11276394591533
+474	villadelcarbón, méxico	114250000.0	6675.6275000000005	México	VilladelCarbón	14147.50660797055	111.92774174368701
+475	villaguerrero, méxico	155820000.0	9104.562600000001	México	VillaGuerrero	20974.893135396153	130.37782326189014
+476	villavictoria, méxico	196520000.0	11482.6636	México	VillaVictoria	50453.59585341762	339.38930557381843
+477	xalatlaco, méxico			México	Xalatlaco	16269.634578410902	
+478	xonacatlán, méxico	125250000.0	7318.3575	México	Xonacatlán	5702.145583257262	22.08435317272678
+479	zacualpan, méxico			México	Zacualpan	13017.011665317334	
+480	zinacantepec, méxico	446100000.0	26065.623	México	Zinacantepec	80301.71210144844	208.07516897427865
+481	zumpahuacán, méxico			México	Zumpahuacán	11870.5894415508	
+482	zumpango, méxico	454300000.0	26544.749	México	Zumpango	37411.42523140646	40.9371971511445
+483	acuitzio, michoacán			Michoacán	Acuitzio	4253.0465324739835	
+484	álvaroobregón, michoacán			Michoacán	ÁlvaroObregón	6248.294909326166	
+485	angamacutiro, michoacán			Michoacán	Angamacutiro	9193.55093987057	
+486	angangueo, michoacán			Michoacán	Angangueo	2496.3468374327767	
+487	aporo, michoacán			Michoacán	Aporo	2412.36105020015	
+488	briseñas, michoacán			Michoacán	Briseñas	4181.450634856656	
+489	charo, michoacán			Michoacán	Charo	9952.787501906181	
+490	chavinda, michoacán			Michoacán	Chavinda	8030.42463657292	
+491	chilchota, michoacán	98960000.0	5782.2328	Michoacán	Chilchota	9694.194599105364	67.6548650740137
+492	chucándiro, michoacán			Michoacán	Chucándiro	4742.737059579799	
+493	churintzio, michoacán			Michoacán	Churintzio	6201.0247701495955	
+494	coeneo, michoacán			Michoacán	Coeneo	11286.037914864619	
+495	cojumatlánderégules, michoacán			Michoacán	CojumatlándeRégules	2602.2699361620384	
+496	contepec, michoacán			Michoacán	Contepec	19548.669566450957	
+497	copándaro, michoacán			Michoacán	Copándaro	5254.883900778183	
+498	cuitzeo, michoacán			Michoacán	Cuitzeo	8503.392078458566	
+499	ecuandureo, michoacán			Michoacán	Ecuandureo	7185.2335279047775	
+500	epitaciohuerta, michoacán			Michoacán	EpitacioHuerta	11097.692170833547	
+501	erongarícuaro, michoacán			Michoacán	Erongarícuaro	8791.275574068033	
+502	hidalgo, michoacán	347500000.0	20304.425	Michoacán	Hidalgo	43075.82891341647	112.14995703358493
+503	huandacareo, michoacán			Michoacán	Huandacareo	3011.6213109587106	
+504	huaniqueo, michoacán			Michoacán	Huaniqueo	2652.646998338818	
+505	huiramba, michoacán			Michoacán	Huiramba	4108.755715994205	
+506	indaparapeo, michoacán			Michoacán	Indaparapeo	8985.07907956882	
+507	irimbo, michoacán			Michoacán	Irimbo	7717.445851773073	
+508	ixtlán, michoacán			Michoacán	Ixtlán	3371.3529391682614	
+509	jacona, michoacán	194460000.0	11362.2978	Michoacán	Jacona	17189.47410486817	51.2851925502971
+510	jiménez, michoacán			Michoacán	Jiménez	6087.558393879916	
+511	jiquilpan, michoacán	113610000.0	6638.232300000001	Michoacán	Jiquilpan	17201.290904746384	159.12457002666784
+512	josésixtoverduzco, michoacán			Michoacán	JoséSixtoVerduzco	13126.531603738124	
+513	lapiedad, michoacán	363200000.0	21221.776	Michoacán	LaPiedad	26336.242572058887	24.100087438765186
+514	lagunillas, michoacán			Michoacán	Lagunillas	4933.374712223149	
+515	lázarocárdenas, michoacán	605700000.0	35391.051	Michoacán	LázaroCárdenas	41069.9945646258	16.046269902032012
+516	madero, michoacán			Michoacán	Madero	6812.794560849501	
+517	maravatío, michoacán	231000000.0	13497.33	Michoacán	Maravatío	31914.723968232174	136.45212770401386
+518	marcoscastellanos, michoacán			Michoacán	MarcosCastellanos	3771.4353799195023	
+519	morelia, michoacán	2560000000.0	149580.80000000002	Michoacán	Morelia	173196.28395175104	15.787777543475515
+520	morelos, michoacán			Michoacán	Morelos	3678.686803299794	
+521	nahuatzen, michoacán			Michoacán	Nahuatzen	5188.828061198134	
+522	numarán, michoacán			Michoacán	Numarán	3873.4749462833497	
+523	ocampo, michoacán			Michoacán	Ocampo	5252.767299253582	
+524	pajacuarán, michoacán			Michoacán	Pajacuarán	8302.183076848643	
+525	panindícuaro, michoacán			Michoacán	Panindícuaro	7703.208468619136	
+526	pátzcuaro, michoacán	273900000.0	16003.977	Michoacán	Pátzcuaro	31769.82631964436	98.51207184092027
+527	penjamillo, michoacán			Michoacán	Penjamillo	10904.470856003078	
+528	purépero, michoacán			Michoacán	Purépero	2757.401093647743	
+529	puruándiro, michoacán	205340000.0	11998.0162	Michoacán	Puruándiro	27382.34588192507	128.22394490453405
+530	queréndaro, michoacán			Michoacán	Queréndaro	7198.852199998311	
+531	quiroga, michoacán			Michoacán	Quiroga	2948.412649736363	
+532	sahuayo, michoacán	250900000.0	14660.087	Michoacán	Sahuayo	7917.158217287804	45.99514847839713
+533	santaanamaya, michoacán			Michoacán	SantaAnaMaya	3083.5378142897302	
+534	senguio, michoacán			Michoacán	Senguio	13221.37498955386	
+535	tangancícuaro, michoacán			Michoacán	Tangancícuaro	21573.639062799917	
+536	tanhuato, michoacán			Michoacán	Tanhuato	9448.657388769707	
+537	tarímbaro, michoacán	218280000.0	12754.100400000001	Michoacán	Tarímbaro	16508.25414316198	29.43487682723572
+538	tlalpujahua, michoacán			Michoacán	Tlalpujahua	15033.313046403371	
+539	tlazazalca, michoacán			Michoacán	Tlazazalca	2133.218318668663	
+540	tzintzuntzan, michoacán			Michoacán	Tzintzuntzan	7862.163312799271	
+541	tzitzio, michoacán			Michoacán	Tzitzio	5359.841648663744	
+542	uruapan, michoacán	1072200000.0	62648.646	Michoacán	Uruapan	75854.77501756354	21.079671885587988
+543	venustianocarranza, michoacán			Michoacán	VenustianoCarranza	12285.912887492641	
+544	villamar, michoacán			Michoacán	Villamar	11689.13819651742	
+545	vistahermosa, michoacán			Michoacán	VistaHermosa	5449.853164572387	
+546	yurécuaro, michoacán			Michoacán	Yurécuaro	8569.068080109151	
+547	zacapu, michoacán	245800000.0	14362.094000000001	Michoacán	Zacapu	19387.520856221345	34.990906313670855
+548	zamora, michoacán	653200000.0	38166.476	Michoacán	Zamora	18310.55224645964	52.02451427147835
+549	zináparo, michoacán			Michoacán	Zináparo	4427.9073712655745	
+550	zinapécuaro, michoacán	130660000.0	7634.4638	Michoacán	Zinapécuaro	15451.112638007557	102.38635014560624
+551	zitácuaro, michoacán	440400000.0	25732.572	Michoacán	Zitácuaro	55437.286625683526	115.43624409438561
+552	amacuzac, morelos			Morelos	Amacuzac	8923.04991871724	
+553	atlatlahucan, morelos			Morelos	Atlatlahucan	6714.077655423398	
+554	axochiapan, morelos	102310000.0	5977.973300000001	Morelos	Axochiapan	6882.623262048298	15.133054576344415
+555	ayala, morelos	239530000.0	13995.7379	Morelos	Ayala	50110.00824095846	258.0376297341097
+556	coatlándelrío, morelos			Morelos	CoatlándelRío	4091.2963784667595	
+557	cuautla, morelos	664600000.0	38832.578	Morelos	Cuautla	18308.65146385471	52.85234098067168
+558	cuernavaca, morelos	1469900000.0	85886.257	Morelos	Cuernavaca	54883.59368713565	36.097350607402
+559	emilianozapata, morelos	261460000.0	15277.1078	Morelos	EmilianoZapata	19021.13891863818	24.507460231695024
+560	huitzilac, morelos			Morelos	Huitzilac	5638.819269479343	
+561	jantetelco, morelos			Morelos	Jantetelco	5260.002935986391	
+562	jiutepec, morelos	672800000.0	39311.704	Morelos	Jiutepec	14479.467531486041	63.167540304317406
+563	jojutla, morelos	200800000.0	11732.744	Morelos	Jojutla	19663.525758860967	67.59528511711298
+564	jonacatepec, morelos			Morelos	Jonacatepec	5186.098667465099	
+565	mazatepec, morelos			Morelos	Mazatepec	4645.036848880566	
+566	miacatlán, morelos			Morelos	Miacatlán	26958.92791995034	
+567	ocuituco, morelos			Morelos	Ocuituco	7182.534062200396	
+568	puentedeixtla, morelos	182030000.0	10636.0129	Morelos	PuentedeIxtla	22885.198651105806	115.16708249861006
+569	temixco, morelos	338300000.0	19766.869	Morelos	Temixco	38062.40794323437	92.55658517914179
+570	temoac, morelos			Morelos	Temoac	2594.891585248959	
+571	tepalcingo, morelos			Morelos	Tepalcingo	16503.66799068596	
+572	tepoztlán, morelos	127160000.0	7429.9588	Morelos	Tepoztlán	9782.79775940951	31.666917983576298
+573	tetecala, morelos			Morelos	Tetecala	5418.598452402282	
+574	teteladelvolcán, morelos			Morelos	TeteladelVolcán	1542.7334920650273	
+575	tlalnepantla, morelos			Morelos	Tlalnepantla	3863.9104550837737	
+576	tlaltizapándezapata, morelos	145200000.0	8484.036	Morelos	TlaltizapándeZapata	15256.331458646062	79.82398305059128
+577	tlaquiltenango, morelos			Morelos	Tlaquiltenango	10011.170723389487	
+578	tlayacapan, morelos			Morelos	Tlayacapan	3967.188616207355	
+579	totolapan, morelos			Morelos	Totolapan	5083.8937968799855	
+580	xochitepec, morelos	183350000.0	10713.1405	Morelos	Xochitepec	20371.077668612666	90.15038278096574
+581	yautepec, morelos	325200000.0	19001.436	Morelos	Yautepec	21078.46356960442	10.930897904792138
+582	yecapixtla, morelos	131740000.0	7697.568200000001	Morelos	Yecapixtla	14039.137473138137	82.38406089260938
+583	zacatepec, morelos	119980000.0	7010.4314	Morelos	Zacatepec	3299.860465470162	52.9292809930333
+584	zacualpan, morelos			Morelos	Zacualpan	3689.0093797164054	
+585	bahíadebanderas, nayarit	514500000.0	30062.235	Nayarit	BahíadeBanderas	45864.075767983224	52.56375904181184
+586	tepic, nayarit	1384100000.0	80872.963	Nayarit	Tepic	43570.366912105776	46.12492816405679
+587	xalisco, nayarit	148990000.0	8705.485700000001	Nayarit	Xalisco	57346.397818139965	558.7386366982369
+588	abasolo, nuevoleón			NuevoLeón	Abasolo	2098.4400098985525	
+589	agualeguas, nuevoleón			NuevoLeón	Agualeguas	1776.3436863187867	
+590	allende, nuevoleón	118640000.0	6932.1352	NuevoLeón	Allende	4937.415081940864	28.774974239670563
+591	anáhuac, nuevoleón			NuevoLeón	Anáhuac	2826.635284705265	
+592	apodaca, nuevoleón	1589300000.0	92862.799	NuevoLeón	Apodaca	71469.09600520381	23.03796916006827
+593	aramberri, nuevoleón			NuevoLeón	Aramberri	8597.805121497173	
+594	bustamante, nuevoleón			NuevoLeón	Bustamante	2672.3892436478814	
+595	cadereytajiménez, nuevoleón	293400000.0	17143.362	NuevoLeón	CadereytaJiménez	23890.63252949268	39.3579189979928
+596	cerralvo, nuevoleón			NuevoLeón	Cerralvo	2463.407773769991	
+597	ciénegadeflores, nuevoleón			NuevoLeón	CiénegadeFlores	14527.541874782622	
+598	doctorarroyo, nuevoleón	94890000.0	5544.4227	NuevoLeón	DoctorArroyo	15784.95851913437	184.69976719369484
+599	doctorcoss, nuevoleón			NuevoLeón	DoctorCoss	1114.5793176053774	
+600	doctorgonzález, nuevoleón			NuevoLeón	DoctorGonzález	1069.1751735378764	
+601	elcarmen, nuevoleón			NuevoLeón	ElCarmen	5929.632802967907	
+602	galeana, nuevoleón	108340000.0	6330.3062	NuevoLeón	Galeana	22029.575293750775	248.00173321396014
+603	garcía, nuevoleón	434400000.0	25381.992000000002	NuevoLeón	García	79522.45505194317	213.30265588273437
+604	generalbravo, nuevoleón			NuevoLeón	GeneralBravo	1545.0444497123115	
+605	generalescobedo, nuevoleón	1045700000.0	61100.251000000004	NuevoLeón	GeneralEscobedo	38789.74004563774	36.51459787679474
+606	generalterán, nuevoleón			NuevoLeón	GeneralTerán	3966.6312709893514	
+607	generaltreviño, nuevoleón			NuevoLeón	GeneralTreviño	525.4450124572525	
+608	generalzaragoza, nuevoleón			NuevoLeón	GeneralZaragoza	3479.625467726868	
+609	generalzuazua, nuevoleón	190620000.0	11137.9266	NuevoLeón	GeneralZuazua	26849.309696103282	141.06200965719492
+610	guadalupe, nuevoleón			NuevoLeón	Guadalupe	79949.38065713155	
+611	hidalgo, nuevoleón			NuevoLeón	Hidalgo	2317.4345497502404	
+612	higueras, nuevoleón			NuevoLeón	Higueras	113.92267672356081	
+613	hualahuises, nuevoleón			NuevoLeón	Hualahuises	1253.2981397349436	
+614	iturbide, nuevoleón			NuevoLeón	Iturbide	1043.896830873264	
+615	juárez, nuevoleón	729000000.0	42595.47	NuevoLeón	Juárez	80188.19949894764	88.25522878124747
+616	lampazosdenaranjo, nuevoleón			NuevoLeón	LampazosdeNaranjo	2102.288365924772	
+617	linares, nuevoleón	250360000.0	14628.5348	NuevoLeón	Linares	21651.671598609264	48.00984442139253
+618	losaldamas, nuevoleón			NuevoLeón	LosAldamas	918.7175148293884	
+619	losramones, nuevoleón			NuevoLeón	LosRamones	1505.390524154262	
+620	marín, nuevoleón			NuevoLeón	Marín	1529.0496321074193	
+621	mierynoriega, nuevoleón			NuevoLeón	MieryNoriega	3241.0990349544154	
+622	mina, nuevoleón			NuevoLeón	Mina	4641.236336754406	
+623	montemorelos, nuevoleón	196690000.0	11492.5967	NuevoLeón	Montemorelos	22450.59693221289	95.34834048612261
+624	monterrey, nuevoleón	5062000000.0	295772.66000000003	NuevoLeón	Monterrey	267634.2251711618	9.513534763097512
+625	parás, nuevoleón			NuevoLeón	Parás	497.7695480038987	
+626	pesquería, nuevoleón			NuevoLeón	Pesquería	5344.293378155933	
+627	rayones, nuevoleón			NuevoLeón	Rayones	1609.1438699050273	
+628	sabinashidalgo, nuevoleón	123120000.0	7193.9016	NuevoLeón	SabinasHidalgo	5394.040755696941	25.01925859401606
+629	salinasvictoria, nuevoleón	93320000.0	5452.6876	NuevoLeón	SalinasVictoria	7397.223483666799	35.66197123904181
+630	sannicolásdelosgarza, nuevoleón	1670900000.0	97630.687	NuevoLeón	SanNicolásdelosGarza	51867.99033940276	46.87327116790364
+631	sanpedrogarzagarcía, nuevoleón	842000000.0	49198.06	NuevoLeón	SanPedroGarzaGarcía	61452.41769238506	24.908213235206965
+632	santacatarina, nuevoleón	855300000.0	49975.179000000004	NuevoLeón	SantaCatarina	187166.84648280495	274.51961199139464
+633	santiago, nuevoleón	143240000.0	8369.5132	NuevoLeón	Santiago	17083.464588100105	104.1153909417349
+634	vallecillo, nuevoleón			NuevoLeón	Vallecillo	908.9890490025113	
+635	villaldama, nuevoleón			NuevoLeón	Villaldama	3373.8361317236263	
+636	acatlándepérezfigueroa, oaxaca	127660000.0	7459.1738000000005	Oaxaca	AcatlándePérezFigueroa	25237.149322800422	238.33705983362958
+637	ánimastrujano, oaxaca			Oaxaca	ÁnimasTrujano	447.72366416234684	
+638	cosolapa, oaxaca			Oaxaca	Cosolapa	4364.05064393852	
+639	cuilápamdeguerrero, oaxaca			Oaxaca	CuilápamdeGuerrero	32007.36535098466	
+640	oaxacadejuárez, oaxaca	1138700000.0	66534.241	Oaxaca	OaxacadeJuárez	4009.6366875537597	93.97357416679067
+641	sanagustíndelasjuntas, oaxaca			Oaxaca	SanAgustíndelasJuntas	3856.869514817225	
+642	sanagustínyatareni, oaxaca			Oaxaca	SanAgustínYatareni	45.608181224574416	
+643	sanandréshuayápam, oaxaca			Oaxaca	SanAndrésHuayápam	208.07134086940286	
+644	sanantoniodelacal, oaxaca			Oaxaca	SanAntoniodelaCal	1566.1133059653962	
+645	sanbartolocoyotepec, oaxaca			Oaxaca	SanBartoloCoyotepec	2634.1106790583285	
+646	sanbartoloméquialana, oaxaca			Oaxaca	SanBartoloméQuialana	1696.22367582323	
+647	sanfelipejalapadedíaz, oaxaca			Oaxaca	SanFelipeJalapadeDíaz	7676.390512125507	
+648	sanjacintoamilpas, oaxaca			Oaxaca	SanJacintoAmilpas	658.5961531270997	
+649	sanjerónimotlacochahuaya, oaxaca			Oaxaca	SanJerónimoTlacochahuaya	1022.8844703806507	
+650	sanjosétenango, oaxaca			Oaxaca	SanJoséTenango	7865.5345444475615	
+651	sanjuanbautistatuxtepec, oaxaca	523400000.0	30582.262000000002	Oaxaca	SanJuanBautistaTuxtepec	40427.266549850494	32.191878252336245
+652	sanjuanguelavía, oaxaca			Oaxaca	SanJuanGuelavía	1465.6564183599367	
+653	sanlorenzocacaotepec, oaxaca			Oaxaca	SanLorenzoCacaotepec	4197.406174399847	
+654	sanlucasojitlán, oaxaca			Oaxaca	SanLucasOjitlán	11627.599914597316	
+655	sanmartíntilcajete, oaxaca			Oaxaca	SanMartínTilcajete	1050.8157241400334	
+656	sanpabloetla, oaxaca			Oaxaca	SanPabloEtla	1451.6587406090905	
+657	sanpedroixcatlán, oaxaca			Oaxaca	SanPedroIxcatlán	2348.507843063274	
+658	sanpedroixtlahuaca, oaxaca			Oaxaca	SanPedroIxtlahuaca	5271.224018258166	
+659	sanpedromixtepec-dto.22-, oaxaca	166670000.0	9738.5281	Oaxaca	SanPedroMixtepec-Dto.22-	6405.680046534261	34.223324297495616
+660	sanpedropochutla, oaxaca	130500000.0	7625.115	Oaxaca	SanPedroPochutla	15092.938662187	97.93719389395439
+661	sanpedroteutila, oaxaca			Oaxaca	SanPedroTeutila	8422.212985645447	
+662	sanraymundojalpan, oaxaca			Oaxaca	SanRaymundoJalpan	4226.738216177856	
+663	sansebastiántutla, oaxaca			Oaxaca	SanSebastiánTutla	724.1440431555015	
+664	santaanadelvalle, oaxaca			Oaxaca	SantaAnadelValle	390.35805586517756	
+665	santacatarinaquiané, oaxaca			Oaxaca	SantaCatarinaQuiané	1052.194626350878	
+666	santacruzamilpas, oaxaca			Oaxaca	SantaCruzAmilpas	174.9261811949237	
+667	santacruzxoxocotlán, oaxaca	239600000.0	13999.828	Oaxaca	SantaCruzXoxocotlán	15547.745402241457	11.056688712471734
+668	santalucíadelcamino, oaxaca	166570000.0	9732.6851	Oaxaca	SantaLucíadelCamino	129.564061229498	98.6687737258704
+669	santamaríaatzompa, oaxaca			Oaxaca	SantaMaríaAtzompa	5617.894625453178	
+670	santamaríacolotepec, oaxaca			Oaxaca	SantaMaríaColotepec	17810.44079482544	
+671	santamaríacoyotepec, oaxaca			Oaxaca	SantaMaríaCoyotepec	944.0261187833721	
+672	santamaríadeltule, oaxaca			Oaxaca	SantaMaríadelTule	949.9186989720993	
+673	santamaríahuatulco, oaxaca	156690000.0	9155.3967	Oaxaca	SantaMaríaHuatulco	8289.406879878008	9.458790792997437
+674	santiagopinotepanacional, oaxaca	165360000.0	9661.9848	Oaxaca	SantiagoPinotepaNacional	27284.092106623124	182.38599699125095
+675	teotitlándelvalle, oaxaca			Oaxaca	TeotitlándelValle	1384.0283354131925	
+676	tlacoluladematamoros, oaxaca			Oaxaca	TlacoluladeMatamoros	3896.4314217713836	
+677	tlalixtacdecabrera, oaxaca			Oaxaca	TlalixtacdeCabrera	1689.9265415966397	
+678	trinidadzaachila, oaxaca			Oaxaca	TrinidadZaachila	2884.058497220272	
+679	villadezaachila, oaxaca	99860000.0	5834.8198	Oaxaca	VilladeZaachila	26903.37907664054	361.0832896097415
+680	villadíazordaz, oaxaca			Oaxaca	VillaDíazOrdaz	1735.198793765387	
+681	acajete, puebla	145260000.0	8487.5418	Puebla	Acajete	9438.177660721212	11.200367351607168
+682	acateno, puebla			Puebla	Acateno	4434.926866168693	
+683	acatzingo, puebla	134070000.0	7833.7101	Puebla	Acatzingo	5584.123784004062	28.716741968737626
+684	acteopan, puebla			Puebla	Acteopan	3863.9116944161847	
+685	ahuacatlán, puebla			Puebla	Ahuacatlán	7178.718648197709	
+686	ahuatlán, puebla			Puebla	Ahuatlán	1651.9848318478791	
+687	ahuazotepec, puebla			Puebla	Ahuazotepec	6358.4879991890675	
+688	aljojuca, puebla			Puebla	Aljojuca	2528.598297061277	
+689	amixtlán, puebla			Puebla	Amixtlán	3225.4817157111347	
+690	amozoc, puebla	278700000.0	16284.441	Puebla	Amozoc	15250.368953881418	6.350061670023447
+691	aquixtla, puebla			Puebla	Aquixtla	7216.625492293919	
+692	atempan, puebla			Puebla	Atempan	10661.896689064124	
+693	atlequizayan, puebla			Puebla	Atlequizayan	1255.3573167944485	
+694	atlixco, puebla	396100000.0	23144.123	Puebla	Atlixco	34328.317565866746	48.32412343240116
+695	atoyatempan, puebla			Puebla	Atoyatempan	3007.8998544962137	
+696	atzala, puebla			Puebla	Atzala	739.2845147145142	
+697	atzitzihuacán, puebla			Puebla	Atzitzihuacán	7827.632363677637	
+698	atzitzintla, puebla			Puebla	Atzitzintla	4009.6577425444284	
+699	ayotoxcodeguerrero, puebla			Puebla	AyotoxcodeGuerrero	2495.3110098373054	
+700	calpan, puebla			Puebla	Calpan	8047.14218967331	
+701	camocuautla, puebla			Puebla	Camocuautla	1652.6541302115668	
+702	cañadamorelos, puebla			Puebla	CañadaMorelos	10437.461749764776	
+703	caxhuacan, puebla			Puebla	Caxhuacan	1423.5610297373184	
+704	chalchicomuladesesma, puebla	124260000.0	7260.5118	Puebla	ChalchicomuladeSesma	16772.80627749855	131.0141039574999
+705	chapulco, puebla			Puebla	Chapulco	2034.4274363027398	
+706	chiautzingo, puebla			Puebla	Chiautzingo	18058.56660900128	
+707	chichiquila, puebla			Puebla	Chichiquila	7613.514331612798	
+708	chiconcuautla, puebla			Puebla	Chiconcuautla	7929.284439259864	
+709	chietla, puebla	103510000.0	6048.089300000001	Puebla	Chietla	13709.267605363646	126.67105139078625
+710	chignahuapan, puebla	163410000.0	9548.0463	Puebla	Chignahuapan	28399.075876575116	197.43336997198176
+711	chignautla, puebla			Puebla	Chignautla	16998.623204623644	
+712	chilchotla, puebla			Puebla	Chilchotla	12831.175635566842	
+713	coatepec, puebla			Puebla	Coatepec	1304.8053570770853	
+714	cohuecan, puebla			Puebla	Cohuecan	1738.6364142912046	
+715	coronango, puebla	98390000.0	5748.9277	Puebla	Coronango	9849.032885492108	71.31947729125395
+716	cuapiaxtlademadero, puebla			Puebla	CuapiaxtladeMadero	2882.293282663645	
+717	cuautempan, puebla			Puebla	Cuautempan	5194.599605100285	
+718	cuautinchán, puebla			Puebla	Cuautinchán	20341.49609175384	
+719	cuautlancingo, puebla	278300000.0	16261.069	Puebla	Cuautlancingo	9514.474339829561	41.489244404352746
+720	cuetzalandelprogreso, puebla	119900000.0	7005.7570000000005	Puebla	CuetzalandelProgreso	17107.646513522817	144.1941179735868
+721	cuyoaco, puebla			Puebla	Cuyoaco	6333.4482142602865	
+722	domingoarenas, puebla			Puebla	DomingoArenas	2106.1940941678176	
+723	epatlán, puebla			Puebla	Epatlán	1721.3677163757472	
+724	esperanza, puebla			Puebla	Esperanza	2887.015187814466	
+725	franciscoz.mena, puebla			Puebla	FranciscoZ.Mena	12523.889181473312	
+726	generalfelipeángeles, puebla			Puebla	GeneralFelipeÁngeles	2945.3952274297812	
+727	guadalupevictoria, puebla			Puebla	GuadalupeVictoria	6952.762331752855	
+728	hermenegildogaleana, puebla			Puebla	HermenegildoGaleana	4423.535042802303	
+729	honey, puebla			Puebla	Honey	3793.781037396857	
+730	huaquechula, puebla			Puebla	Huaquechula	10910.234973905346	
+731	huatlatlauca, puebla			Puebla	Huatlatlauca	2521.621517200936	
+732	huauchinango, puebla	283600000.0	16570.748	Puebla	Huauchinango	25299.6803522849	52.67675516087083
+733	huehuetla, puebla			Puebla	Huehuetla	4751.211245167533	
+734	huehuetlánelgrande, puebla			Puebla	HuehuetlánelGrande	3524.3831097808197	
+735	huejotzingo, puebla	177460000.0	10368.9878	Puebla	Huejotzingo	24887.441512114077	140.01804218647143
+736	hueyapan, puebla			Puebla	Hueyapan	2296.442706054418	
+737	hueytamalco, puebla			Puebla	Hueytamalco	15730.866634989161	
+738	hueytlalpan, puebla			Puebla	Hueytlalpan	5123.1277276750625	
+739	huitzilandeserdán, puebla			Puebla	HuitzilandeSerdán	6744.034947571804	
+740	huitziltepec, puebla			Puebla	Huitziltepec	4894.143040980587	
+741	ixtacamaxtitlán, puebla			Puebla	Ixtacamaxtitlán	13118.245029800619	
+742	ixtepec, puebla			Puebla	Ixtepec	2145.547561800997	
+743	izúcardematamoros, puebla	239000000.0	13964.77	Puebla	IzúcardeMatamoros	15887.074787130497	13.765388095403628
+744	jalpan, puebla			Puebla	Jalpan	7809.182307540497	
+745	jonotla, puebla			Puebla	Jonotla	2409.4031074676077	
+746	jopala, puebla			Puebla	Jopala	8625.760368944248	
+747	juanc.bonilla, puebla			Puebla	JuanC.Bonilla	4921.384819395439	
+748	juangalindo, puebla			Puebla	JuanGalindo	2975.6259495987774	
+749	lamagdalenatlatlauquitepec, puebla			Puebla	LaMagdalenaTlatlauquitepec	201.05886706070063	
+750	lafragua, puebla			Puebla	Lafragua	8751.119315263908	
+751	libres, puebla			Puebla	Libres	11537.302545715227	
+752	losreyesdejuárez, puebla			Puebla	LosReyesdeJuárez	2419.9459878475836	
+753	mazapiltepecdejuárez, puebla			Puebla	MazapiltepecdeJuárez	1231.2454471222852	
+754	mixtla, puebla			Puebla	Mixtla	1292.1287627345207	
+755	molcaxac, puebla			Puebla	Molcaxac	4396.407912380829	
+756	naupan, puebla			Puebla	Naupan	2723.652455748141	
+757	nauzontla, puebla			Puebla	Nauzontla	2102.757550239064	
+758	nealtican, puebla			Puebla	Nealtican	2750.6023001359376	
+759	nicolásbravo, puebla			Puebla	NicolásBravo	2749.297802583476	
+760	nopalucan, puebla			Puebla	Nopalucan	7946.773053272943	
+761	ocotepec, puebla			Puebla	Ocotepec	2394.3314096298914	
+762	ocoyucan, puebla			Puebla	Ocoyucan	79237.83942248925	
+763	olintla, puebla			Puebla	Olintla	5881.800026548756	
+764	oriental, puebla			Puebla	Oriental	5276.67619656843	
+765	pahuatlán, puebla			Puebla	Pahuatlán	4582.805856124579	
+766	palmardebravo, puebla	106620000.0	6229.8066	Puebla	PalmardeBravo	17033.042237578535	173.41205483936747
+767	pantepec, puebla			Puebla	Pantepec	6577.717672554262	
+768	puebla, puebla	5573000000.0	325630.39	Puebla	Puebla	197482.3271615918	39.35384005111078
+769	quecholac, puebla	115310000.0	6737.5633	Puebla	Quecholac	5748.9146431931	14.673682647358572
+770	quimixtlán, puebla			Puebla	Quimixtlán	11804.563848839873	
+771	rafaellaragrajales, puebla			Puebla	RafaelLaraGrajales	194.1060806098654	
+772	sanandréscholula, puebla	376600000.0	22004.738	Puebla	SanAndrésCholula	61068.34173305813	177.52360302157712
+773	sandiegolamesatochimiltzingo, puebla			Puebla	SanDiegolaMesaTochimiltzingo	1503.3312321209291	
+774	sanfelipeteotlalcingo, puebla			Puebla	SanFelipeTeotlalcingo	8307.464165722104	
+775	sanfelipetepatlán, puebla			Puebla	SanFelipeTepatlán	2953.897882995968	
+776	sangregorioatzompa, puebla			Puebla	SanGregorioAtzompa	9405.171577068828	
+777	sanjerónimotecuanipan, puebla			Puebla	SanJerónimoTecuanipan	9298.545008863168	
+778	sanjoséchiapa, puebla			Puebla	SanJoséChiapa	6196.805025991824	
+779	sanjuanatenco, puebla			Puebla	SanJuanAtenco	4176.300658432931	
+780	sanjuanatzompa, puebla			Puebla	SanJuanAtzompa	472.1041388899773	
+781	sanmartíntexmelucan, puebla	439700000.0	25691.671000000002	Puebla	SanMartínTexmelucan	8596.302336576004	66.54050903666017
+782	sanmartíntotoltepec, puebla			Puebla	SanMartínTotoltepec	95.05793128326575	
+783	sanmatíastlalancaleca, puebla			Puebla	SanMatíasTlalancaleca	2916.374663442766	
+784	sanmiguelxoxtla, puebla			Puebla	SanMiguelXoxtla	1807.1814470622112	
+785	sannicolásbuenosaires, puebla			Puebla	SanNicolásBuenosAires	4691.7441980690255	
+786	sannicolásdelosranchos, puebla			Puebla	SanNicolásdelosRanchos	8063.148251207809	
+787	sanpedrocholula, puebla	386200000.0	22565.666	Puebla	SanPedroCholula	18773.825302953057	16.803584246292328
+788	sansalvadorelseco, puebla			Puebla	SanSalvadorelSeco	5721.598197327849	
+789	sansalvadorelverde, puebla			Puebla	SanSalvadorelVerde	7919.704708464703	
+790	sansalvadorhuixcolotla, puebla			Puebla	SanSalvadorHuixcolotla	2900.957216783359	
+791	santainésahuatempan, puebla			Puebla	SantaInésAhuatempan	6707.461913010231	
+792	santaisabelcholula, puebla			Puebla	SantaIsabelCholula	8498.40371375879	
+793	santiagomiahuatlán, puebla			Puebla	SantiagoMiahuatlán	1427.9672300417376	
+794	santotomáshueyotlipan, puebla			Puebla	SantoTomásHueyotlipan	2593.6260373243017	
+795	soltepec, puebla			Puebla	Soltepec	4651.266766882015	
+796	tecalideherrera, puebla			Puebla	TecalideHerrera	19972.849235795897	
+797	tecamachalco, puebla	204290000.0	11936.664700000001	Puebla	Tecamachalco	15587.368248335659	30.583949872828857
+798	tehuacán, puebla	927700000.0	54205.511	Puebla	Tehuacán	48957.18757416283	9.682269070089879
+799	tenampulco, puebla			Puebla	Tenampulco	5133.880766035499	
+800	teopantlán, puebla			Puebla	Teopantlán	6227.948162927498	
+801	teotlalco, puebla			Puebla	Teotlalco	7144.003323372444	
+802	tepancodelópez, puebla			Puebla	TepancodeLópez	11038.857094858944	
+803	tepangoderodríguez, puebla			Puebla	TepangodeRodríguez	2593.673940632581	
+804	tepatlaxcodehidalgo, puebla			Puebla	TepatlaxcodeHidalgo	3101.4427008199646	
+805	tepeaca, puebla	209400000.0	12235.242	Puebla	Tepeaca	14247.309911104368	16.444855860671723
+806	tepemaxalco, puebla			Puebla	Tepemaxalco	1375.1964252346766	
+807	tepeojuma, puebla			Puebla	Tepeojuma	2535.3259838636204	
+808	tepetzintla, puebla			Puebla	Tepetzintla	5829.414304349496	
+809	tepexco, puebla			Puebla	Tepexco	3777.097564313504	
+810	tepexiderodríguez, puebla			Puebla	TepexideRodríguez	9615.786526873522	
+811	tepeyahualco, puebla			Puebla	Tepeyahualco	9074.06596358214	
+812	tepeyahualcodecuauhtémoc, puebla			Puebla	TepeyahualcodeCuauhtémoc	1764.3352911272057	
+813	teteladeocampo, puebla			Puebla	TeteladeOcampo	13912.590430521155	
+814	tetelesdeavilacastillo, puebla			Puebla	TetelesdeAvilaCastillo	630.7807258151112	
+815	teziutlán, puebla	299200000.0	17482.256	Puebla	Teziutlán	9073.067152476468	48.101279649054064
+816	tianguismanalco, puebla			Puebla	Tianguismanalco	15233.847617090434	
+817	tilapa, puebla			Puebla	Tilapa	5032.089543229021	
+818	tlachichuca, puebla			Puebla	Tlachichuca	11998.197860222199	
+819	tlacotepecdebenitojuárez, puebla	119330000.0	6972.4519	Puebla	TlacotepecdeBenitoJuárez	16146.657519027087	131.57789756896116
+820	tlacuilotepec, puebla			Puebla	Tlacuilotepec	7558.760913028135	
+821	tlahuapan, puebla	95050000.0	5553.7715	Puebla	Tlahuapan	18261.59694154123	228.81433709581373
+822	tlaltenango, puebla			Puebla	Tlaltenango	4408.900027649471	
+823	tlanepantla, puebla			Puebla	Tlanepantla	1940.0489547332772	
+824	tlaola, puebla			Puebla	Tlaola	8787.05935307277	
+825	tlapacoya, puebla			Puebla	Tlapacoya	3312.432529449761	
+826	tlapanalá, puebla			Puebla	Tlapanalá	3584.4744406006334	
+827	tlatlauquitepec, puebla	141490000.0	8267.2607	Puebla	Tlatlauquitepec	25951.244572276202	213.90378886051334
+828	tlaxco, puebla			Puebla	Tlaxco	3211.466271882814	
+829	tochimilco, puebla			Puebla	Tochimilco	5797.027815935282	
+830	tochtepec, puebla			Puebla	Tochtepec	13264.037510901824	
+831	tuzamapandegaleana, puebla			Puebla	TuzamapandeGaleana	3004.495461882334	
+832	tzicatlacoyan, puebla			Puebla	Tzicatlacoyan	14447.57235090743	
+833	venustianocarranza, puebla			Puebla	VenustianoCarranza	6997.379702561034	
+834	vicenteguerrero, puebla			Puebla	VicenteGuerrero	13995.80235331354	
+835	xicotepec, puebla	227590000.0	13298.083700000001	Puebla	Xicotepec	15272.836139363944	14.849902316105462
+836	xiutetelco, puebla	87900000.0	5135.997	Puebla	Xiutetelco	15740.993573114298	206.48369874659775
+837	xochiapulco, puebla			Puebla	Xochiapulco	4203.473832363534	
+838	xochiltepec, puebla			Puebla	Xochiltepec	491.0029683572959	
+839	xochitlándevicentesuárez, puebla			Puebla	XochitlándeVicenteSuárez	5692.3867829347255	
+840	xochitlántodossantos, puebla			Puebla	XochitlánTodosSantos	7942.481411554801	
+841	yaonáhuac, puebla			Puebla	Yaonáhuac	834.7154024174151	
+842	yehualtepec, puebla			Puebla	Yehualtepec	6629.091513712135	
+843	zacapoaxtla, puebla	147840000.0	8638.2912	Puebla	Zacapoaxtla	13456.340343026312	55.77548882615015
+844	zacatlán, puebla	222230000.0	12984.8989	Puebla	Zacatlán	39299.68126263751	202.65681362091706
+845	zapotitlándeméndez, puebla			Puebla	ZapotitlándeMéndez	2717.2505665584517	
+846	zaragoza, puebla			Puebla	Zaragoza	3526.5676320741086	
+847	zautla, puebla			Puebla	Zautla	19323.015131489414	
+848	zihuateutla, puebla			Puebla	Zihuateutla	5793.909602876913	
+849	zongozotla, puebla			Puebla	Zongozotla	3748.8512214301504	
+850	zoquiapan, puebla			Puebla	Zoquiapan	1698.6315426083804	
+851	amealcodebonfil, querétaro	151240000.0	8836.9532	Querétaro	AmealcodeBonfil	28890.819510974085	226.9319057950209
+852	arroyoseco, querétaro			Querétaro	ArroyoSeco	8293.985164350179	
+853	cadereytademontes, querétaro	168520000.0	9846.6236	Querétaro	CadereytadeMontes	21615.859083848132	119.52559539137995
+854	colón, querétaro	146900000.0	8583.367	Querétaro	Colón	22570.174004090895	162.95245215648936
+855	corregidora, querétaro	475800000.0	27800.994000000002	Querétaro	Corregidora	69611.05643444836	150.39053076464944
+856	elmarqués, querétaro	336300000.0	19650.009000000002	Querétaro	ElMarqués	32481.071989701177	65.29800057445864
+857	ezequielmontes, querétaro	114500000.0	6690.235000000001	Querétaro	EzequielMontes	12383.286018041592	85.09493340729573
+858	huimilpan, querétaro	87829000.0	5131.84847	Querétaro	Huimilpan	30342.686350291173	491.2623205394678
+859	jalpandeserra, querétaro			Querétaro	JalpandeSerra	12024.42853155255	
+860	landadematamoros, querétaro			Querétaro	LandadeMatamoros	17755.640898602385	
+861	pedroescobedo, querétaro	172210000.0	10062.230300000001	Querétaro	PedroEscobedo	22074.58570730216	119.38064473938903
+862	peñamiller, querétaro			Querétaro	Peñamiller	11783.384840669509	
+863	pinaldeamoles, querétaro			Querétaro	PinaldeAmoles	13151.058087044472	
+864	querétaro, querétaro	3129000000.0	182827.47	Querétaro	Querétaro	88830.78706538028	51.412778908235026
+865	sanjoaquín, querétaro			Querétaro	SanJoaquín	4402.464888121938	
+866	sanjuandelrío, querétaro	805400000.0	47059.522000000004	Querétaro	SanJuandelRío	67318.47063521208	43.04962688573861
+867	tequisquiapan, querétaro	192050000.0	11221.4815	Querétaro	Tequisquiapan	21270.93769292867	89.55552074767196
+868	tolimán, querétaro			Querétaro	Tolimán	9583.515446143052	
+869	bacalar, quintanaroo	9220000.0	538.7246	QuintanaRoo	Bacalar	15721.558809852299	2818.2923538023506
+870	benitojuárez, quintanaroo	2775000000.0	162143.25	QuintanaRoo	BenitoJuárez	143401.179767682	11.558958040077517
+871	cozumel, quintanaroo	348600000.0	20368.698	QuintanaRoo	Cozumel	17865.05652545906	12.291612721347933
+872	felipecarrillopuerto, quintanaroo	196520000.0	11482.6636	QuintanaRoo	FelipeCarrilloPuerto	30955.347922013127	169.58333885191175
+873	islamujeres, quintanaroo			QuintanaRoo	IslaMujeres	3653.2857177355986	
+874	josémaríamorelos, quintanaroo	94000000.0	5492.42	QuintanaRoo	JoséMaríaMorelos	16354.864429957901	197.7715547965724
+875	lázarocárdenas, quintanaroo			QuintanaRoo	LázaroCárdenas	11868.004223384598	
+876	othónp.blanco, quintanaroo	817200000.0	47748.996	QuintanaRoo	OthónP.Blanco	50993.11105040726	6.794101074726802
+877	solidaridad, quintanaroo	940300000.0	54941.729	QuintanaRoo	Solidaridad	41762.76484961869	23.98716674966911
+878	tulum, quintanaroo	132910000.0	7765.9313	QuintanaRoo	Tulum	11132.997928897796	43.35689434823864
+879	ahualulco, sanluispotosí			SanLuisPotosí	Ahualulco	9897.600519648831	
+880	alaquines, sanluispotosí			SanLuisPotosí	Alaquines	2132.213281514816	
+881	aquismón, sanluispotosí	108852000.0	6360.22236	SanLuisPotosí	Aquismón	26250.94846325242	312.73633180416704
+882	armadillodelosinfante, sanluispotosí			SanLuisPotosí	ArmadillodelosInfante	3530.611714996505	
+883	axtladeterrazas, sanluispotosí			SanLuisPotosí	AxtladeTerrazas	10382.612988055414	
+884	cárdenas, sanluispotosí			SanLuisPotosí	Cárdenas	6642.6735146947585	
+885	cedral, sanluispotosí			SanLuisPotosí	Cedral	5046.315755989108	
+886	cerritos, sanluispotosí			SanLuisPotosí	Cerritos	5943.633874814039	
+887	cerrodesanpedro, sanluispotosí			SanLuisPotosí	CerrodeSanPedro	587.7409497437661	
+888	ciudaddelmaíz, sanluispotosí			SanLuisPotosí	CiudaddelMaíz	16082.225200224311	
+889	ciudadfernández, sanluispotosí	126040000.0	7364.5172	SanLuisPotosí	CiudadFernández	6142.781804799408	16.589483899916647
+890	ciudadvalles, sanluispotosí	562900000.0	32890.247	SanLuisPotosí	CiudadValles	43257.698182832	31.521353983240058
+891	coxcatlán, sanluispotosí			SanLuisPotosí	Coxcatlán	6696.225802781649	
+892	ebano, sanluispotosí	129720000.0	7579.5396	SanLuisPotosí	Ebano	9418.856937554709	24.266874172076474
+893	elnaranjo, sanluispotosí			SanLuisPotosí	ElNaranjo	8187.784496678464	
+894	guadalcázar, sanluispotosí			SanLuisPotosí	Guadalcázar	13350.918452178255	
+895	huehuetlán, sanluispotosí			SanLuisPotosí	Huehuetlán	5571.108233245107	
+896	lagunillas, sanluispotosí			SanLuisPotosí	Lagunillas	3086.964396526521	
+897	matehuala, sanluispotosí	299200000.0	17482.256	SanLuisPotosí	Matehuala	21727.134183046546	24.281066374079778
+898	matlapa, sanluispotosí			SanLuisPotosí	Matlapa	9636.079286577362	
+899	mexquiticdecarmona, sanluispotosí	119546000.0	6985.07278	SanLuisPotosí	MexquiticdeCarmona	35745.22236425006	411.73729308300864
+900	moctezuma, sanluispotosí			SanLuisPotosí	Moctezuma	9913.692675969773	
+901	rayón, sanluispotosí			SanLuisPotosí	Rayón	10245.171744280688	
+902	rioverde, sanluispotosí	294000000.0	17178.420000000002	SanLuisPotosí	Rioverde	38495.819854811125	124.09406601312065
+903	sanantonio, sanluispotosí			SanLuisPotosí	SanAntonio	3345.5205510199226	
+904	sancirodeacosta, sanluispotosí			SanLuisPotosí	SanCirodeAcosta	4245.170660392179	
+905	sanluispotosí, sanluispotosí	2855000000.0	166817.65	SanLuisPotosí	SanLuisPotosí	212915.298285903	27.633555733402915
+906	sanmartínchalchicuautla, sanluispotosí			SanLuisPotosí	SanMartínChalchicuautla	8028.1735451175855	
+907	sannicolástolentino, sanluispotosí			SanLuisPotosí	SanNicolásTolentino	2938.4627006198702	
+908	sanvicentetancuayalab, sanluispotosí			SanLuisPotosí	SanVicenteTancuayalab	5698.216671845461	
+909	santacatarina, sanluispotosí			SanLuisPotosí	SantaCatarina	4646.32955871225	
+910	santamaríadelrío, sanluispotosí	106250000.0	6208.1875	SanLuisPotosí	SantaMaríadelRío	16186.348204285114	160.72582705153658
+911	soledaddegracianosánchez, sanluispotosí	789300000.0	46118.799	SanLuisPotosí	SoledaddeGracianoSánchez	3662.3913862792783	92.05878846437592
+912	tamasopo, sanluispotosí			SanLuisPotosí	Tamasopo	16602.88371212327	
+913	tamazunchale, sanluispotosí	244050000.0	14259.8415	SanLuisPotosí	Tamazunchale	31201.18101561381	118.8045429229617
+914	tampacán, sanluispotosí			SanLuisPotosí	Tampacán	4326.96353327417	
+915	tampamolóncorona, sanluispotosí			SanLuisPotosí	TampamolónCorona	6172.756326045119	
+916	tamuín, sanluispotosí	109270000.0	6384.6461	SanLuisPotosí	Tamuín	18803.712686800864	194.51456497801598
+917	tancanhuitz, sanluispotosí			SanLuisPotosí	Tancanhuitz	5398.154046819767	
+918	tanlajás, sanluispotosí			SanLuisPotosí	Tanlajás	3935.577290712598	
+919	tanquiándeescobedo, sanluispotosí			SanLuisPotosí	TanquiándeEscobedo	3438.371456135317	
+920	tierranueva, sanluispotosí			SanLuisPotosí	TierraNueva	1614.2587747864713	
+921	villadearista, sanluispotosí			SanLuisPotosí	VilladeArista	4044.9603858340824	
+922	villadearriaga, sanluispotosí			SanLuisPotosí	VilladeArriaga	8178.099562019051	
+923	villadeguadalupe, sanluispotosí			SanLuisPotosí	VilladeGuadalupe	7642.217103741254	
+924	villadelapaz, sanluispotosí			SanLuisPotosí	VilladelaPaz	3312.4507523824354	
+925	villadereyes, sanluispotosí	113780000.0	6648.1654	SanLuisPotosí	VilladeReyes	23203.09891906751	249.0150669095494
+926	villahidalgo, sanluispotosí			SanLuisPotosí	VillaHidalgo	8043.944794842957	
+927	villajuárez, sanluispotosí			SanLuisPotosí	VillaJuárez	6763.7286557170355	
+928	xilitla, sanluispotosí	124910000.0	7298.491300000001	SanLuisPotosí	Xilitla	28347.85863191778	288.40710314908205
+929	zaragoza, sanluispotosí			SanLuisPotosí	Zaragoza	4624.693903008826	
+930	ahome, sinaloa	1445900000.0	84483.937	Sinaloa	Ahome	133769.35009580612	58.337022215011245
+931	culiacán, sinaloa	3004000000.0	175523.72	Sinaloa	Culiacán	172489.06901041858	1.7289121889516832
+932	elfuerte, sinaloa	266020000.0	15543.5486	Sinaloa	ElFuerte	32696.004634337885	110.35096602289313
+933	guasave, sinaloa	862300000.0	50384.189	Sinaloa	Guasave	109264.37328801125	116.86242342416438
+934	mazatlán, sinaloa	1740500000.0	101697.41500000001	Sinaloa	Mazatlán	95774.5231699636	5.824033806598134
+935	navolato, sinaloa	387000000.0	22612.41	Sinaloa	Navolato	95468.61607437787	322.19567075945406
+936	aconchi, sonora			Sonora	Aconchi	1589.855441720926	
+937	aguaprieta, sonora	257100000.0	15022.353000000001	Sonora	AguaPrieta	62884.48687612945	318.60610568883214
+938	alamos, sonora			Sonora	Alamos	11928.617783610553	
+939	altar, sonora			Sonora	Altar	1881.3573869484524	
+940	arivechi, sonora			Sonora	Arivechi	623.8375770841885	
+941	arizpe, sonora			Sonora	Arizpe	1742.8881812332884	
+942	atil, sonora			Sonora	Atil	396.2448688994315	
+943	bacadéhuachi, sonora			Sonora	Bacadéhuachi	592.8915414193067	
+944	bacanora, sonora			Sonora	Bacanora	1294.1911724119877	
+945	bacerac, sonora			Sonora	Bacerac	1097.2016109482204	
+946	bacoachi, sonora			Sonora	Bacoachi	999.6987608153564	
+947	banámichi, sonora			Sonora	Banámichi	833.8922537924838	
+948	baviácora, sonora			Sonora	Baviácora	1796.8958517117483	
+949	bavispe, sonora			Sonora	Bavispe	591.1876200443463	
+950	benjamínhill, sonora			Sonora	BenjamínHill	3166.8911605527755	
+951	caborca, sonora	283000000.0	16535.69	Sonora	Caborca	26506.348391902808	60.297806695111056
+952	cananea, sonora			Sonora	Cananea	7310.779246791319	
+953	carbó, sonora			Sonora	Carbó	1422.2981726348598	
+954	cucurpe, sonora			Sonora	Cucurpe	399.33270059288037	
+955	cumpas, sonora			Sonora	Cumpas	4478.704415060228	
+956	divisaderos, sonora			Sonora	Divisaderos	260.0175942406891	
+957	fronteras, sonora			Sonora	Fronteras	3115.9552713715934	
+958	generalplutarcoelíascalles, sonora			Sonora	GeneralPlutarcoElíasCalles	5072.539735212279	
+959	granados, sonora			Sonora	Granados	574.0543322167188	
+960	guaymas, sonora	511200000.0	29869.416	Sonora	Guaymas	40183.871625809385	34.531828897523084
+961	hermosillo, sonora	2945000000.0	172076.35	Sonora	Hermosillo	177093.92706007542	2.915901609997782
+962	huachinera, sonora			Sonora	Huachinera	755.6738784628038	
+963	huásabas, sonora			Sonora	Huásabas	839.0478736418328	
+964	huatabampo, sonora			Sonora	Huatabampo	39040.89510013592	
+965	huépac, sonora			Sonora	Huépac	415.52465749930843	
+966	imuris, sonora			Sonora	Imuris	2736.7112953895016	
+967	magdalena, sonora			Sonora	Magdalena	7987.440206666438	
+968	moctezuma, sonora			Sonora	Moctezuma	3722.269872636212	
+969	naco, sonora			Sonora	Naco	11189.169985280627	
+970	nácorichico, sonora			Sonora	NácoriChico	1296.676497947853	
+971	nacozaridegarcía, sonora			Sonora	NacozarideGarcía	1752.4396836403291	
+972	navojoa, sonora	523600000.0	30593.948	Sonora	Navojoa	35408.18483951762	15.735912342917036
+973	nogales, sonora	733600000.0	42864.248	Sonora	Nogales	95758.16673305824	123.39868585367051
+974	opodepe, sonora			Sonora	Opodepe	2037.7597628820668	
+975	oquitoa, sonora			Sonora	Oquitoa	294.3809327360426	
+976	pitiquito, sonora			Sonora	Pitiquito	3659.7158154157764	
+977	puertopeñasco, sonora	213500000.0	12474.805	Sonora	PuertoPeñasco	13625.057733891605	9.220606926453796
+978	rayón, sonora			Sonora	Rayón	927.2788585247562	
+979	sahuaripa, sonora			Sonora	Sahuaripa	2324.8007235877176	
+980	sanfelipedejesús, sonora			Sonora	SanFelipedeJesús	512.2068390165646	
+981	sanluisríocolorado, sonora	596100000.0	34830.123	Sonora	SanLuisRíoColorado	98361.13087100885	182.4024792304318
+982	sanmigueldehorcasitas, sonora			Sonora	SanMigueldeHorcasitas	1754.148381534404	
+983	sanpedrodelacueva, sonora			Sonora	SanPedrodelaCueva	952.414836855581	
+984	santaana, sonora			Sonora	SantaAna	4475.641179290117	
+985	santacruz, sonora			Sonora	SantaCruz	1152.2400123947466	
+986	sáric, sonora			Sonora	Sáric	1372.4115011066283	
+987	soyopa, sonora			Sonora	Soyopa	580.5885760263632	
+988	tepache, sonora			Sonora	Tepache	1043.0990119105104	
+989	trincheras, sonora			Sonora	Trincheras	1824.8699435500891	
+990	tubutama, sonora			Sonora	Tubutama	715.9604961926424	
+991	ures, sonora			Sonora	Ures	3831.6289340998364	
+992	villahidalgo, sonora			Sonora	VillaHidalgo	959.8926658216798	
+993	villapesqueira, sonora			Sonora	VillaPesqueira	437.97162868982514	
+994	centro, tabasco	2408000000.0	140699.44	Tabasco	Centro	145456.22096873226	3.380810164370419
+995	nacajuca, tabasco	327890000.0	19158.6127	Tabasco	Nacajuca	26280.586942306814	37.173747148752646
+996	aldama, tamaulipas			Tamaulipas	Aldama	11035.604701751794	
+997	altamira, tamaulipas	686500000.0	40112.195	Tamaulipas	Altamira	39684.13202318414	1.0671641799105271
+998	antiguomorelos, tamaulipas			Tamaulipas	AntiguoMorelos	7610.331272092725	
+999	bustamante, tamaulipas			Tamaulipas	Bustamante	4527.534178380112	
+1000	camargo, tamaulipas			Tamaulipas	Camargo	50727.84492454214	
+1001	casas, tamaulipas			Tamaulipas	Casas	2156.492809907326	
+1002	ciudadmadero, tamaulipas	684600000.0	40001.178	Tamaulipas	CiudadMadero	2369.906565611704	94.07540806520322
+1003	elmante, tamaulipas	401100000.0	23436.273	Tamaulipas	ElMante	29103.871286923426	24.183018720269324
+1004	gómezfarías, tamaulipas			Tamaulipas	GómezFarías	6846.994896852737	
+1005	gonzález, tamaulipas	130640000.0	7633.2952000000005	Tamaulipas	González	12865.029786665453	68.5383500780299
+1006	güémez, tamaulipas			Tamaulipas	Güémez	10941.768544385972	
+1007	guerrero, tamaulipas			Tamaulipas	Guerrero	18996.129670454397	
+1008	gustavodíazordaz, tamaulipas			Tamaulipas	GustavoDíazOrdaz	23902.262103541238	
+1009	hidalgo, tamaulipas			Tamaulipas	Hidalgo	10776.608729406995	
+1010	jaumave, tamaulipas			Tamaulipas	Jaumave	5946.397390983753	
+1011	llera, tamaulipas			Tamaulipas	Llera	8157.535117337379	
+1012	mainero, tamaulipas			Tamaulipas	Mainero	1142.1845319416682	
+1013	matamoros, tamaulipas			Tamaulipas	Matamoros	414768.63354616764	
+1014	mier, tamaulipas			Tamaulipas	Mier	13852.992528277562	
+1015	miguelalemán, tamaulipas			Tamaulipas	MiguelAlemán	26459.214052009134	
+1016	miquihuana, tamaulipas			Tamaulipas	Miquihuana	995.7595804970707	
+1017	nuevolaredo, tamaulipas	1194300000.0	69782.94900000001	Tamaulipas	NuevoLaredo	390171.04540962045	459.12088984605737
+1018	nuevomorelos, tamaulipas			Tamaulipas	NuevoMorelos	2317.7112569111996	
+1019	ocampo, tamaulipas			Tamaulipas	Ocampo	8416.368574757738	
+1020	padilla, tamaulipas			Tamaulipas	Padilla	1981.8062065381318	
+1021	palmillas, tamaulipas			Tamaulipas	Palmillas	1650.8974448070294	
+1022	reynosa, tamaulipas	1935000000.0	113062.05	Tamaulipas	Reynosa	388068.97893445933	243.23539944168652
+1023	ríobravo, tamaulipas	380800000.0	22250.144	Tamaulipas	RíoBravo	58254.23585729186	161.81509592608415
+1024	sancarlos, tamaulipas			Tamaulipas	SanCarlos	4395.812263300446	
+1025	tampico, tamaulipas	1192800000.0	69695.304	Tamaulipas	Tampico	61231.100589483955	12.144582094822413
+1026	tula, tamaulipas			Tamaulipas	Tula	11606.266377808926	
+1027	vallehermoso, tamaulipas	211480000.0	12356.7764	Tamaulipas	ValleHermoso	18081.943672894926	46.33220742664669
+1028	victoria, tamaulipas	1082300000.0	63238.789000000004	Tamaulipas	Victoria	74002.07446618643	17.020068910849044
+1029	villagrán, tamaulipas			Tamaulipas	Villagrán	2751.259244883797	
+1030	xicoténcatl, tamaulipas			Tamaulipas	Xicoténcatl	6357.309118255803	
+1031	acuamanalademiguelhidalgo, tlaxcala			Tlaxcala	AcuamanaladeMiguelHidalgo	1137.2236589457978	
+1032	amaxacdeguerrero, tlaxcala			Tlaxcala	AmaxacdeGuerrero	2495.6818673308358	
+1033	apetatitlándeantoniocarvajal, tlaxcala			Tlaxcala	ApetatitlándeAntonioCarvajal	2584.049563015611	
+1034	apizaco, tlaxcala	291600000.0	17038.188000000002	Tlaxcala	Apizaco	3451.9841292839856	79.73972273762924
+1035	atlangatepec, tlaxcala			Tlaxcala	Atlangatepec	3091.1693488259375	
+1036	atltzayanca, tlaxcala			Tlaxcala	Atltzayanca	6782.915266268633	
+1037	benitojuárez, tlaxcala			Tlaxcala	BenitoJuárez	538.7493035842248	
+1038	calpulalpan, tlaxcala	134850000.0	7879.2855	Tlaxcala	Calpulalpan	10108.23004912978	28.288663345550546
+1039	chiautempan, tlaxcala	220500000.0	12883.815	Tlaxcala	Chiautempan	10548.618580033586	18.125038429738506
+1040	contladejuancuamatzi, tlaxcala	95060000.0	5554.3558	Tlaxcala	ContladeJuanCuamatzi	3566.9925853069462	35.78026482734602
+1041	cuapiaxtla, tlaxcala			Tlaxcala	Cuapiaxtla	4217.0972878898665	
+1042	cuaxomulco, tlaxcala			Tlaxcala	Cuaxomulco	1117.3613019091881	
+1043	elcarmentequexquitla, tlaxcala			Tlaxcala	ElCarmenTequexquitla	3220.179879540678	
+1044	emilianozapata, tlaxcala			Tlaxcala	EmilianoZapata	1105.9889453310095	
+1045	españita, tlaxcala			Tlaxcala	Españita	4551.562161799746	
+1046	huamantla, tlaxcala	248200000.0	14502.326000000001	Tlaxcala	Huamantla	24291.056912261425	67.49766149417289
+1047	hueyotlipan, tlaxcala			Tlaxcala	Hueyotlipan	6474.511866898756	
+1048	ixtacuixtlademarianomatamoros, tlaxcala	97470000.0	5695.1721	Tlaxcala	IxtacuixtladeMarianoMatamoros	12757.78815732646	124.01058182818498
+1049	ixtenco, tlaxcala			Tlaxcala	Ixtenco	2042.0624060046885	
+1050	lamagdalenatlaltelulco, tlaxcala			Tlaxcala	LaMagdalenaTlaltelulco	2964.02833472089	
+1051	lázarocárdenas, tlaxcala			Tlaxcala	LázaroCárdenas	1007.299693177367	
+1052	mazatecochcodejosémaríamorel, tlaxcala			Tlaxcala	MazatecochcodeJoséMaríaMorel	1079.491719318786	
+1053	muñozdedomingoarenas, tlaxcala			Tlaxcala	MuñozdeDomingoArenas	1211.2540448130603	
+1054	nanacamilpademarianoarista, tlaxcala			Tlaxcala	NanacamilpadeMarianoArista	5839.745043137967	
+1055	natívitas, tlaxcala			Tlaxcala	Natívitas	11136.62682956191	
+1056	panotla, tlaxcala			Tlaxcala	Panotla	9413.814720212591	
+1057	papalotladexicohténcatl, tlaxcala			Tlaxcala	PapalotladeXicohténcatl	2362.51570833758	
+1058	sandamiántexóloc, tlaxcala			Tlaxcala	SanDamiánTexóloc	2584.5077328938823	
+1059	sanfranciscotetlanohcan, tlaxcala			Tlaxcala	SanFranciscoTetlanohcan	3632.8241382447422	
+1060	sanjerónimozacualpan, tlaxcala			Tlaxcala	SanJerónimoZacualpan	1818.6036257214555	
+1061	sanjoséteacalco, tlaxcala			Tlaxcala	SanJoséTeacalco	4067.4348973306733	
+1062	sanjuanhuactzinco, tlaxcala			Tlaxcala	SanJuanHuactzinco	798.7685099058895	
+1063	sanlorenzoaxocomanitla, tlaxcala			Tlaxcala	SanLorenzoAxocomanitla	891.1899233540375	
+1064	sanlucastecopilco, tlaxcala			Tlaxcala	SanLucasTecopilco	1037.6216733781107	
+1065	sanpablodelmonte, tlaxcala	170990000.0	9990.9457	Tlaxcala	SanPablodelMonte	4109.010938563682	58.87265268027948
+1066	sanctórumdelázarocárdenas, tlaxcala			Tlaxcala	SanctórumdeLázaroCárdenas	2505.992466745349	
+1067	santaananopalucan, tlaxcala			Tlaxcala	SantaAnaNopalucan	2321.3504663118747	
+1068	santaapoloniateacalco, tlaxcala			Tlaxcala	SantaApoloniaTeacalco	1838.5702341376266	
+1069	santacatarinaayometla, tlaxcala			Tlaxcala	SantaCatarinaAyometla	945.9104608856866	
+1070	santacruzquilehtla, tlaxcala			Tlaxcala	SantaCruzQuilehtla	519.3759923804142	
+1071	santacruztlaxcala, tlaxcala			Tlaxcala	SantaCruzTlaxcala	2076.8097471902324	
+1072	santaisabelxiloxoxtla, tlaxcala			Tlaxcala	SantaIsabelXiloxoxtla	1456.108369780918	
+1073	tenancingo, tlaxcala			Tlaxcala	Tenancingo	2043.3972875195586	
+1074	teolocholco, tlaxcala			Tlaxcala	Teolocholco	2502.0879633120653	
+1075	tepetitladelardizábal, tlaxcala			Tlaxcala	TepetitladeLardizábal	1695.7295831244141	
+1076	tepeyanco, tlaxcala			Tlaxcala	Tepeyanco	2692.3435929525376	
+1077	terrenate, tlaxcala			Tlaxcala	Terrenate	4403.139543863519	
+1078	tetladelasolidaridad, tlaxcala			Tlaxcala	TetladelaSolidaridad	4905.485249786274	
+1079	tetlatlahuca, tlaxcala			Tlaxcala	Tetlatlahuca	5997.368693670936	
+1080	tlaxcala, tlaxcala	336000000.0	19632.48	Tlaxcala	Tlaxcala	12610.638421093816	35.76645222053548
+1081	tlaxco, tlaxcala	106820000.0	6241.4926000000005	Tlaxcala	Tlaxco	17105.971856365337	174.06860750528384
+1082	tocatlán, tlaxcala			Tlaxcala	Tocatlán	861.5487676301667	
+1083	totolac, tlaxcala			Tlaxcala	Totolac	3370.1515856328765	
+1084	tzompantepec, tlaxcala			Tlaxcala	Tzompantepec	2352.237452996866	
+1085	xaloztoc, tlaxcala			Tlaxcala	Xaloztoc	2491.3136055148766	
+1086	xaltocan, tlaxcala			Tlaxcala	Xaltocan	12793.200681152572	
+1087	xicohtzinco, tlaxcala			Tlaxcala	Xicohtzinco	847.3370999775342	
+1088	yauhquemehcan, tlaxcala	101770000.0	5946.4211000000005	Tlaxcala	Yauhquemehcan	7580.27186722962	27.476203581169507
+1089	zacatelco, tlaxcala	118300000.0	6912.269	Tlaxcala	Zacatelco	5306.060080929202	23.237071923427724
+1090	ziltlaltépecdetrinidadsánchez, tlaxcala			Tlaxcala	ZiltlaltépecdeTrinidadSánchez	4867.359573506575	
+1091	acajete, veracruz			Veracruz	Acajete	18873.8131170131	
+1092	acatlán, veracruz			Veracruz	Acatlán	910.9080365552921	
+1093	actopan, veracruz	121970000.0	7126.7071000000005	Veracruz	Actopan	15637.241937138477	119.41749138446387
+1094	acultzingo, veracruz			Veracruz	Acultzingo	17787.348101510488	
+1095	álamotemapache, veracruz	287830000.0	16817.9069	Veracruz	ÁlamoTemapache	46866.883976498844	178.6725140956681
+1096	alpatláhuac, veracruz			Veracruz	Alpatláhuac	5942.742314656474	
+1097	altolucerodegutiérrezbarrios, veracruz			Veracruz	AltoLucerodeGutiérrezBarrios	7490.591220081079	
+1098	altotonga, veracruz	154710000.0	9039.7053	Veracruz	Altotonga	14671.432144897584	62.299894277500236
+1099	alvarado, veracruz			Veracruz	Alvarado	9866.271002540909	
+1100	amatlándelosreyes, veracruz	129610000.0	7573.1123	Veracruz	AmatlándelosReyes	9682.195797115457	27.84962659427957
+1101	apazapan, veracruz			Veracruz	Apazapan	2258.5676429550495	
+1102	aquila, veracruz			Veracruz	Aquila	1374.427638259423	
+1103	atlahuilco, veracruz			Veracruz	Atlahuilco	4021.2420813917197	
+1104	atoyac, veracruz			Veracruz	Atoyac	6632.261238445701	
+1105	atzacan, veracruz			Veracruz	Atzacan	8919.675049219006	
+1106	atzalan, veracruz	121314000.0	7088.37702	Veracruz	Atzalan	35835.059301254805	405.5467450467922
+1107	ayahualulco, veracruz			Veracruz	Ayahualulco	6579.314848468528	
+1108	banderilla, veracruz			Veracruz	Banderilla	1736.7893165925234	
+1109	benitojuárez, veracruz			Veracruz	BenitoJuárez	10451.38587753498	
+1110	bocadelrío, veracruz	585300000.0	34199.079	Veracruz	BocadelRío	12.432726270855753	99.96364602020174
+1111	calcahualco, veracruz			Veracruz	Calcahualco	10522.568866474576	
+1112	camaróndetejeda, veracruz			Veracruz	CamaróndeTejeda	2908.260653431358	
+1113	camerinoz.mendoza, veracruz	130280000.0	7612.2604	Veracruz	CamerinoZ.Mendoza	7089.478966191908	6.867624152848115
+1114	carrillopuerto, veracruz			Veracruz	CarrilloPuerto	6064.7408398733405	
+1115	castillodeteayo, veracruz			Veracruz	CastillodeTeayo	12066.36297300668	
+1116	cazonesdeherrera, veracruz			Veracruz	CazonesdeHerrera	4416.496253063209	
+1117	cerroazul, veracruz			Veracruz	CerroAzul	2942.3392347072795	
+1118	chalma, veracruz			Veracruz	Chalma	4748.665672022813	
+1119	chiconamel, veracruz			Veracruz	Chiconamel	2477.9180784570012	
+1120	chiconquiaco, veracruz			Veracruz	Chiconquiaco	6625.2398680441365	
+1121	chicontepec, veracruz	145180000.0	8482.867400000001	Veracruz	Chicontepec	24699.078922039524	191.16426978499652
+1122	chinampadegorostiza, veracruz			Veracruz	ChinampadeGorostiza	2317.120575871118	
+1123	chocamán, veracruz			Veracruz	Chocamán	4698.26352999226	
+1124	chontla, veracruz			Veracruz	Chontla	7026.201992692888	
+1125	chumatlán, veracruz			Veracruz	Chumatlán	1980.424881425771	
+1126	citlaltépetl, veracruz			Veracruz	Citlaltépetl	2134.6396028315507	
+1127	coacoatzintla, veracruz			Veracruz	Coacoatzintla	2197.3600241165623	
+1128	coahuitlán, veracruz			Veracruz	Coahuitlán	1594.69336054852	
+1129	coatepec, veracruz	281100000.0	16424.673	Veracruz	Coatepec	59384.401570352755	261.5560661107394
+1130	coatzacoalcos, veracruz	1186200000.0	69309.666	Veracruz	Coatzacoalcos	21202.958549175448	69.4083671544811
+1131	coatzintla, veracruz	140470000.0	8207.6621	Veracruz	Coatzintla	35281.735954884185	329.8634072043997
+1132	coetzala, veracruz			Veracruz	Coetzala	824.1115093373044	
+1133	colipa, veracruz			Veracruz	Colipa	2367.1127562466627	
+1134	comapa, veracruz			Veracruz	Comapa	6528.29617168565	
+1135	córdoba, veracruz	738600000.0	43156.398	Veracruz	Córdoba	13173.007415734515	69.4761193560813
+1136	cosautlándecarvajal, veracruz			Veracruz	CosautlándeCarvajal	6810.347030555079	
+1137	coscomatepec, veracruz	129730000.0	7580.1239000000005	Veracruz	Coscomatepec	17620.631201184005	132.4583533678652
+1138	cosoleacaque, veracruz	357600000.0	20894.568	Veracruz	Cosoleacaque	53056.88751719252	153.9267024673232
+1139	cotaxtla, veracruz			Veracruz	Cotaxtla	9543.027477278698	
+1140	coxquihui, veracruz			Veracruz	Coxquihui	4911.489279800322	
+1141	coyutla, veracruz			Veracruz	Coyutla	6641.619165858067	
+1142	cuichapa, veracruz			Veracruz	Cuichapa	2503.6967210776224	
+1143	cuitláhuac, veracruz			Veracruz	Cuitláhuac	5994.517203296568	
+1144	elhigo, veracruz			Veracruz	ElHigo	4466.555474287949	
+1145	emilianozapata, veracruz	196400000.0	11475.652	Veracruz	EmilianoZapata	20226.54805287132	76.25619923705703
+1146	espinal, veracruz			Veracruz	Espinal	9827.399988747205	
+1147	filomenomata, veracruz			Veracruz	FilomenoMata	3934.647599421704	
+1148	fortín, veracruz	194470000.0	11362.8821	Veracruz	Fortín	11287.432924139346	0.66399682049552
+1149	gutiérrezzamora, veracruz			Veracruz	GutiérrezZamora	3777.544533299528	
+1150	huatusco, veracruz	155130000.0	9064.2459	Veracruz	Huatusco	18132.245964402053	100.04141728328501
+1151	huayacocotla, veracruz			Veracruz	Huayacocotla	11252.224067156028	
+1152	huiloapandecuauhtémoc, veracruz			Veracruz	HuiloapandeCuauhtémoc	4648.526799455472	
+1153	ignaciodelallave, veracruz			Veracruz	IgnaciodelaLlave	5776.257747170746	
+1154	ilamatlán, veracruz			Veracruz	Ilamatlán	9481.509586523147	
+1155	ixcatepec, veracruz			Veracruz	Ixcatepec	6195.829341719556	
+1156	ixhuacándelosreyes, veracruz			Veracruz	IxhuacándelosReyes	9251.698807579427	
+1157	ixhuatlándemadero, veracruz	120566000.0	7044.67138	Veracruz	IxhuatlándeMadero	22598.97111619571	220.7952493050955
+1158	ixhuatlándelcafé, veracruz			Veracruz	IxhuatlándelCafé	10841.089528814498	
+1159	ixhuatlancillo, veracruz			Veracruz	Ixhuatlancillo	6668.499138462931	
+1160	ixtaczoquitlán, veracruz	196630000.0	11489.090900000001	Veracruz	Ixtaczoquitlán	32599.535868236813	183.7433888545247
+1161	jalacingo, veracruz	98680000.0	5765.8724	Veracruz	Jalacingo	19495.451527628553	238.11798415151455
+1162	jalcomulco, veracruz			Veracruz	Jalcomulco	2779.802121301414	
+1163	jamapa, veracruz			Veracruz	Jamapa	10219.842236228567	
+1164	jilotepec, veracruz			Veracruz	Jilotepec	4693.8805788726395	
+1165	juchiquedeferrer, veracruz			Veracruz	JuchiquedeFerrer	3326.937968776985	
+1166	laantigua, veracruz			Veracruz	LaAntigua	3208.9865655400463	
+1167	laperla, veracruz			Veracruz	LaPerla	11031.532385905633	
+1168	landeroycoss, veracruz			Veracruz	LanderoyCoss	955.2933745866151	
+1169	lasminas, veracruz			Veracruz	LasMinas	1002.5741447401571	
+1170	lasvigasderamírez, veracruz			Veracruz	LasVigasdeRamírez	5025.073331925736	
+1171	losreyes, veracruz			Veracruz	LosReyes	3349.993472031212	
+1172	magdalena, veracruz			Veracruz	Magdalena	3743.683301715178	
+1173	maltrata, veracruz			Veracruz	Maltrata	12893.304575269724	
+1174	manliofabioaltamirano, veracruz			Veracruz	ManlioFabioAltamirano	22222.878589981017	
+1175	marianoescobedo, veracruz	86200000.0	5036.666	Veracruz	MarianoEscobedo	7933.071917665575	57.50641233041013
+1176	martínezdelatorre, veracruz	358800000.0	20964.684	Veracruz	MartínezdelaTorre	16823.77646233973	19.75182424719719
+1177	mecatlán, veracruz			Veracruz	Mecatlán	3933.6365059415257	
+1178	medellín, veracruz	200030000.0	11687.7529	Veracruz	Medellín	75562.34014308835	546.5087069310675
+1179	miahuatlán, veracruz			Veracruz	Miahuatlán	2104.777772712226	
+1180	minatitlán, veracruz	562900000.0	32890.247	Veracruz	Minatitlán	41378.08209140419	25.80654104362362
+1181	misantla, veracruz	185420000.0	10834.0906	Veracruz	Misantla	22873.069151391795	111.12126523468243
+1182	mixtladealtamirano, veracruz			Veracruz	MixtladeAltamirano	2726.690095218699	
+1183	naolinco, veracruz			Veracruz	Naolinco	6817.644756350761	
+1184	naranjal, veracruz			Veracruz	Naranjal	4445.890477836236	
+1185	naranjosamatlán, veracruz			Veracruz	NaranjosAmatlán	6234.129952872755	
+1186	nautla, veracruz			Veracruz	Nautla	4493.542471691645	
+1187	nogales, veracruz	99750000.0	5828.3925	Veracruz	Nogales	20809.00905800548	257.0282725126264
+1188	omealca, veracruz			Veracruz	Omealca	9229.562229485402	
+1189	orizaba, veracruz	490000000.0	28630.7	Veracruz	Orizaba	4505.358372788011	84.26389025490816
+1190	ozuluamademascareñas, veracruz			Veracruz	OzuluamadeMascareñas	9862.363091317646	
+1191	pánuco, veracruz	293960000.0	17176.0828	Veracruz	Pánuco	61448.708375829854	257.7574065713624
+1192	papantla, veracruz	442700000.0	25866.961	Veracruz	Papantla	59930.01020244044	131.68554745352745
+1193	pasodeovejas, veracruz			Veracruz	PasodeOvejas	17816.346857257347	
+1194	pasodelmacho, veracruz			Veracruz	PasodelMacho	6976.98773035962	
+1195	perote, veracruz	207000000.0	12095.01	Veracruz	Perote	37301.797292531344	208.4065022892196
+1196	platónsánchez, veracruz			Veracruz	PlatónSánchez	9682.879244496406	
+1197	pozaricadehidalgo, veracruz	700900000.0	40953.587	Veracruz	PozaRicadeHidalgo	9752.495854662855	76.18646724482801
+1198	puebloviejo, veracruz	163370000.0	9545.7091	Veracruz	PuebloViejo	34473.35533501715	261.13980610426466
+1199	puentenacional, veracruz			Veracruz	PuenteNacional	13769.03533127502	
+1200	rafaeldelgado, veracruz			Veracruz	RafaelDelgado	5799.58914427401	
+1201	rafaellucio, veracruz			Veracruz	RafaelLucio	1169.696784471248	
+1202	ríoblanco, veracruz	134310000.0	7847.7333	Veracruz	RíoBlanco	3768.947255805838	51.974065481992895
+1203	sanandréstenejapan, veracruz			Veracruz	SanAndrésTenejapan	4796.813284678194	
+1204	sanrafael, veracruz			Veracruz	SanRafael	4683.09169003832	
+1205	sochiapa, veracruz			Veracruz	Sochiapa	1056.9002433442242	
+1206	soledadatzompa, veracruz			Veracruz	SoledadAtzompa	11713.995903994246	
+1207	soledaddedoblado, veracruz			Veracruz	SoledaddeDoblado	17357.46754820488	
+1208	tamalín, veracruz			Veracruz	Tamalín	2609.6313566179833	
+1209	tamiahua, veracruz			Veracruz	Tamiahua	5337.208671743317	
+1210	tampicoalto, veracruz			Veracruz	TampicoAlto	5441.176927726317	
+1211	tancoco, veracruz			Veracruz	Tancoco	6521.377636156946	
+1212	tantima, veracruz			Veracruz	Tantima	4259.546249271299	
+1213	tantoyuca, veracruz	267030000.0	15602.5629	Veracruz	Tantoyuca	30218.041495862904	93.67357587042898
+1214	tatatila, veracruz			Veracruz	Tatatila	1616.5570770358834	
+1215	tecolutla, veracruz			Veracruz	Tecolutla	5853.889207161529	
+1216	tempoal, veracruz	93760000.0	5478.3968	Veracruz	Tempoal	14912.631384796201	172.20794566753906
+1217	tenampa, veracruz			Veracruz	Tenampa	2520.559988757922	
+1218	tenochtitlán, veracruz			Veracruz	Tenochtitlán	3818.8570261431787	
+1219	teocelo, veracruz			Veracruz	Teocelo	7291.16212795842	
+1220	tepatlaxco, veracruz			Veracruz	Tepatlaxco	3353.851715337321	
+1221	tepetlán, veracruz			Veracruz	Tepetlán	4393.444139160198	
+1222	tepetzintla, veracruz			Veracruz	Tepetzintla	5719.876529361659	
+1223	tequila, veracruz			Veracruz	Tequila	13187.115756644675	
+1224	texcatepec, veracruz			Veracruz	Texcatepec	6091.202767103609	
+1225	texhuacán, veracruz			Veracruz	Texhuacán	2630.180237733089	
+1226	tezonapa, veracruz	150400000.0	8787.872	Veracruz	Tezonapa	26243.564256701276	198.6338929003663
+1227	tierrablanca, veracruz	315100000.0	18411.293	Veracruz	TierraBlanca	21796.312610868863	18.385561572828486
+1228	tihuatlán, veracruz	249960000.0	14605.1628	Veracruz	Tihuatlán	40200.5983462016	175.2492313622249
+1229	tlachichilco, veracruz			Veracruz	Tlachichilco	5884.647957349266	
+1230	tlacolulan, veracruz			Veracruz	Tlacolulan	4672.35895797146	
+1231	tlacotepecdemejía, veracruz			Veracruz	TlacotepecdeMejía	1334.6292311282887	
+1232	tlalixcoyan, veracruz	122750000.0	7172.2825	Veracruz	Tlalixcoyan	21410.32512496286	198.51480508419542
+1233	tlalnelhuayocan, veracruz			Veracruz	Tlalnelhuayocan	19549.044318593806	
+1234	tlaltetela, veracruz			Veracruz	Tlaltetela	11581.961328439398	
+1235	tlapacoyan, veracruz	178320000.0	10419.2376	Veracruz	Tlapacoyan	11254.471671091535	8.016268590434429
+1236	tlaquilpa, veracruz			Veracruz	Tlaquilpa	6694.987419401557	
+1237	tlilapan, veracruz			Veracruz	Tlilapan	2583.872566050565	
+1238	tomatlán, veracruz			Veracruz	Tomatlán	1626.5240220537146	
+1239	tonayán, veracruz			Veracruz	Tonayán	3215.2791906107027	
+1240	totutla, veracruz			Veracruz	Totutla	4733.424981634424	
+1241	tuxpan, veracruz	466600000.0	27263.438000000002	Veracruz	Tuxpan	23621.16641914055	13.35954614696595
+1242	ursulogalván, veracruz			Veracruz	UrsuloGalván	3877.091392846077	
+1243	vegadealatorre, veracruz			Veracruz	VegadeAlatorre	2892.322350445464	
+1244	veracruz, veracruz	2143000000.0	125215.49	Veracruz	Veracruz	59207.103043175535	52.715831688894454
+1245	villaaldama, veracruz			Veracruz	VillaAldama	2476.9858691865115	
+1246	xalapa, veracruz	1680400000.0	98185.772	Veracruz	Xalapa	16645.7951803159	83.04663207178744
+1247	xico, veracruz	94210000.0	5504.6903	Veracruz	Xico	21754.140802441398	295.19281952049863
+1248	xoxocotla, veracruz			Veracruz	Xoxocotla	2905.839421709448	
+1249	yanga, veracruz			Veracruz	Yanga	6151.60939560335	
+1250	yecuatla, veracruz			Veracruz	Yecuatla	4582.444394523098	
+1251	zacualpan, veracruz			Veracruz	Zacualpan	4342.180395486052	
+1252	zentla, veracruz			Veracruz	Zentla	4435.411184560409	
+1253	zongolica, veracruz	109350000.0	6389.3205	Veracruz	Zongolica	15229.113522732096	138.35263112457883
+1254	zontecomatlándelópezyfuentes, veracruz			Veracruz	ZontecomatlándeLópezyFuentes	12205.26144002951	
+1255	zozocolcodehidalgo, veracruz			Veracruz	ZozocolcodeHidalgo	5673.886826686354	
+1256	abalá, yucatán			Yucatán	Abalá	3761.284843600099	
+1257	acanceh, yucatán			Yucatán	Acanceh	3508.9958354172336	
+1258	akil, yucatán			Yucatán	Akil	1192.3539763950573	
+1259	baca, yucatán			Yucatán	Baca	2450.0704443523423	
+1260	bokobá, yucatán			Yucatán	Bokobá	2284.012498984123	
+1261	buctzotz, yucatán			Yucatán	Buctzotz	849.934155906567	
+1262	cacalchén, yucatán			Yucatán	Cacalchén	3236.846548777097	
+1263	calotmul, yucatán			Yucatán	Calotmul	4092.2659269502565	
+1264	cansahcab, yucatán			Yucatán	Cansahcab	1409.322275872746	
+1265	cantamayec, yucatán			Yucatán	Cantamayec	2486.900437514231	
+1266	celestún, yucatán			Yucatán	Celestún	417.34848766991706	
+1267	cenotillo, yucatán			Yucatán	Cenotillo	692.4676452131821	
+1268	chacsinkín, yucatán			Yucatán	Chacsinkín	1916.8189493915847	
+1269	chankom, yucatán			Yucatán	Chankom	4314.305752029043	
+1270	chapab, yucatán			Yucatán	Chapab	1100.66452422251	
+1271	chemax, yucatán	79150000.0	4624.7345000000005	Yucatán	Chemax	12766.362156406227	176.04529852267683
+1272	chichimilá, yucatán			Yucatán	Chichimilá	6431.405788500904	
+1273	chicxulubpueblo, yucatán			Yucatán	ChicxulubPueblo	1083.355522367954	
+1274	chikindzonot, yucatán			Yucatán	Chikindzonot	3162.5403231721757	
+1275	chocholá, yucatán			Yucatán	Chocholá	5637.82843165575	
+1276	chumayel, yucatán			Yucatán	Chumayel	464.69110167507944	
+1277	conkal, yucatán			Yucatán	Conkal	2970.7735201305177	
+1278	cuncunul, yucatán			Yucatán	Cuncunul	5545.565854998609	
+1279	cuzamá, yucatán			Yucatán	Cuzamá	2490.3988373089346	
+1280	dzán, yucatán			Yucatán	Dzán	1848.9405346672354	
+1281	dzemul, yucatán			Yucatán	Dzemul	1456.7125127353356	
+1282	dzidzantún, yucatán			Yucatán	Dzidzantún	758.2984683059257	
+1283	dzilamdebravo, yucatán			Yucatán	DzilamdeBravo	96.66975436180476	
+1284	dzilamgonzález, yucatán			Yucatán	DzilamGonzález	441.6465392566606	
+1285	dzitás, yucatán			Yucatán	Dzitás	1512.6046092949368	
+1286	dzoncauich, yucatán			Yucatán	Dzoncauich	615.2826454889491	
+1287	espita, yucatán			Yucatán	Espita	8026.561593845924	
+1288	halachó, yucatán			Yucatán	Halachó	8891.065025908523	
+1289	hocabá, yucatán			Yucatán	Hocabá	3816.012050902682	
+1290	hoctún, yucatán			Yucatán	Hoctún	2131.163539282611	
+1291	homún, yucatán			Yucatán	Homún	3160.596777920377	
+1292	huhí, yucatán			Yucatán	Huhí	2455.0150647281002	
+1293	hunucmá, yucatán			Yucatán	Hunucmá	9182.091460794834	
+1294	ixil, yucatán			Yucatán	Ixil	364.9256847153734	
+1295	izamal, yucatán			Yucatán	Izamal	5010.160330845013	
+1296	kanasín, yucatán	241990000.0	14139.4757	Yucatán	Kanasín	15961.330335917284	12.884881126937989
+1297	kantunil, yucatán			Yucatán	Kantunil	1427.2913456333413	
+1298	kaua, yucatán			Yucatán	Kaua	1139.7876480907055	
+1299	kinchil, yucatán			Yucatán	Kinchil	3856.841134126905	
+1300	kopomá, yucatán			Yucatán	Kopomá	1220.261094635516	
+1301	mama, yucatán			Yucatán	Mama	1358.114377417699	
+1302	maní, yucatán			Yucatán	Maní	3443.3995213899934	
+1303	maxcanú, yucatán			Yucatán	Maxcanú	4417.321676602519	
+1304	mayapán, yucatán			Yucatán	Mayapán	125.91555786227084	
+1305	mérida, yucatán	3504000000.0	204738.72	Yucatán	Mérida	136277.10785872178	33.438526987605584
+1306	mocochá, yucatán			Yucatán	Mocochá	1568.2489815076526	
+1307	motul, yucatán	107030000.0	6253.7629	Yucatán	Motul	7116.028528279233	13.787948824846449
+1308	muna, yucatán			Yucatán	Muna	3573.9458498578356	
+1309	muxupip, yucatán			Yucatán	Muxupip	2339.9512201426505	
+1310	opichén, yucatán			Yucatán	Opichén	1341.5349984879726	
+1311	oxkutzcab, yucatán			Yucatán	Oxkutzcab	10172.427918915026	
+1312	panabá, yucatán			Yucatán	Panabá	1275.846649225448	
+1313	peto, yucatán			Yucatán	Peto	4991.027847408669	
+1314	progreso, yucatán	196100000.0	11458.123	Yucatán	Progreso	9820.274750319884	14.294210750575076
+1315	quintanaroo, yucatán			Yucatán	QuintanaRoo	801.8411282173741	
+1316	ríolagartos, yucatán			Yucatán	RíoLagartos	963.6305465669083	
+1317	sacalum, yucatán			Yucatán	Sacalum	2689.988358423968	
+1318	samahil, yucatán			Yucatán	Samahil	3495.8362792347757	
+1319	sanfelipe, yucatán			Yucatán	SanFelipe	1785.7772787619874	
+1320	sanahcat, yucatán			Yucatán	Sanahcat	641.5957256947656	
+1321	santaelena, yucatán			Yucatán	SantaElena	5173.306388584509	
+1322	seyé, yucatán			Yucatán	Seyé	4934.860930036997	
+1323	sinanché, yucatán			Yucatán	Sinanché	1387.261898427885	
+1324	sotuta, yucatán			Yucatán	Sotuta	2955.966893772691	
+1325	sucilá, yucatán			Yucatán	Sucilá	654.0062791834943	
+1326	sudzal, yucatán			Yucatán	Sudzal	959.0058749178787	
+1327	suma, yucatán			Yucatán	Suma	1209.8465728672725	
+1328	tahdziú, yucatán			Yucatán	Tahdziú	691.2954107803972	
+1329	tahmek, yucatán			Yucatán	Tahmek	1576.0433675767372	
+1330	teabo, yucatán			Yucatán	Teabo	1844.0096710044438	
+1331	tecoh, yucatán			Yucatán	Tecoh	6928.124258910556	
+1332	tekaldevenegas, yucatán			Yucatán	TekaldeVenegas	619.0082233063006	
+1333	tekantó, yucatán			Yucatán	Tekantó	1632.2729165348023	
+1334	tekax, yucatán	116300000.0	6795.409000000001	Yucatán	Tekax	15683.888985757258	130.80125104695327
+1335	tekit, yucatán			Yucatán	Tekit	559.0171729933311	
+1336	tekom, yucatán			Yucatán	Tekom	5346.402581064382	
+1337	telchacpueblo, yucatán			Yucatán	TelchacPueblo	868.820048420678	
+1338	telchacpuerto, yucatán			Yucatán	TelchacPuerto	127.71615770708473	
+1339	temax, yucatán			Yucatán	Temax	2129.5887964280414	
+1340	temozón, yucatán			Yucatán	Temozón	4648.297689741137	
+1341	tepakán, yucatán			Yucatán	Tepakán	1623.52128662818	
+1342	tetiz, yucatán			Yucatán	Tetiz	3528.5766167934844	
+1343	teya, yucatán			Yucatán	Teya	727.012459243791	
+1344	ticul, yucatán	121420000.0	7094.5706	Yucatán	Ticul	11307.193564791209	59.378124516672074
+1345	timucuy, yucatán			Yucatán	Timucuy	3874.460030843711	
+1346	tinum, yucatán			Yucatán	Tinum	3546.6761547937126	
+1347	tixcacalcupul, yucatán			Yucatán	Tixcacalcupul	4366.6219848071205	
+1348	tixkokob, yucatán			Yucatán	Tixkokob	4823.874761899555	
+1349	tixmehuac, yucatán			Yucatán	Tixmehuac	1440.2294375768122	
+1350	tixpéhual, yucatán			Yucatán	Tixpéhual	2270.4576087163036	
+1351	tizimín, yucatán	211470000.0	12356.1921	Yucatán	Tizimín	14847.005723407672	20.15842423984062
+1352	tunkás, yucatán			Yucatán	Tunkás	3293.909436704734	
+1353	tzucacab, yucatán			Yucatán	Tzucacab	8911.59276770598	
+1354	uayma, yucatán			Yucatán	Uayma	3253.1820529390297	
+1355	ucú, yucatán			Yucatán	Ucú	7822.072975187528	
+1356	umán, yucatán	161370000.0	9428.8491	Yucatán	Umán	60333.6042946659	539.8830191763902
+1357	valladolid, yucatán	230100000.0	13444.743	Yucatán	Valladolid	16432.24633718784	22.22060575786268
+1358	xocchel, yucatán			Yucatán	Xocchel	1773.5210448710734	
+1359	yaxcabá, yucatán			Yucatán	Yaxcabá	7167.9465809550675	
+1360	yaxkukul, yucatán			Yucatán	Yaxkukul	1730.2321389596466	
+1361	yobaín, yucatán			Yucatán	Yobaín	629.4742931262342	
+1362	guadalupe, zacatecas	527500000.0	30821.825	Zacatecas	Guadalupe	29643.192786977284	3.8240182501286553
+1363	huanusco, zacatecas			Zacatecas	Huanusco	5970.509061691891	
+1364	jerez, zacatecas	199380000.0	11649.7734	Zacatecas	Jerez	15750.125981855965	35.19684410218627
+1365	loreto, zacatecas	134300000.0	7847.149	Zacatecas	Loreto	12345.942703804241	57.33029542072211
+1366	morelos, zacatecas			Zacatecas	Morelos	5022.557020734889	
+1367	moyahuadeestrada, zacatecas			Zacatecas	MoyahuadeEstrada	2861.2437284225116	
+1368	noriadeángeles, zacatecas			Zacatecas	NoriadeÁngeles	9175.242121045269	
+1369	pinos, zacatecas	179590000.0	10493.4437	Zacatecas	Pinos	34267.66267639977	226.56260095434416
+1370	susticacán, zacatecas			Zacatecas	Susticacán	2200.0582116373716	
+1371	tabasco, zacatecas			Zacatecas	Tabasco	4300.1521078441065	
+1372	tepetongo, zacatecas			Zacatecas	Tepetongo	5693.305531000795	
+1373	vetagrande, zacatecas			Zacatecas	Vetagrande	3433.534063972674	
+1374	villagarcía, zacatecas			Zacatecas	VillaGarcía	9347.453108310843	
+1375	zacatecas, zacatecas	512100000.0	29922.003	Zacatecas	Zacatecas	50714.44648832521	69.48880891538313

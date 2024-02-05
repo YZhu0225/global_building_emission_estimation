@@ -1,0 +1,4 @@
+﻿	region	n_total_municipalities	n_groundtruth_estimate_pairs	WAPE_total_emissions_graced (percent error)	MAPE_total_emissions_graced (percent error)	RMSE_total_emissions_graced
+0	massachusetts	351	24	55.01060329098049	59.95121022604485	214125.13915080726
+1	mexico	1376	467	401.4438483872824	818.578961694308	433542.8304954045
+2	michigan	1534	523	78.46674723148185	397.70839650166187	60446.51037588682

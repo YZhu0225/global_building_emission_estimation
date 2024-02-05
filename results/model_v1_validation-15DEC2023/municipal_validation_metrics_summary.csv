@@ -1,0 +1,9 @@
+﻿	Number of Municipalities	WAPE (Duke Model)	WAPE (GRACED)	WAPE (EDGAR)	MAPE (Duke Model)	MAPE (GRACED)	MAPE (EDGAR)
+unitedstates	12092	54.7%	73.9%	59.2%	133.2%	88.5%	94.9%
+mexico	2370	99.0%	65.2%	92.7%	299.4%	44.1%	274.7%
+japan	1585	173.3%	45.4%	169.7%	373.9%	44.6%	351.6%
+canada	2267	52.9%	70.5%	70.7%	122.5%	80.4%	293.3%
+costarica	65	300.4%	95.5%	486.9%	425.1%	169.6%	826.6%
+chile	272	160.3%	39.2%	177.7%	367.7%	35.8%	264.7%
+denmark	98	62.4%	71.3%	75.9%	173.0%	70.0%	385.4%
+All Validation Regions	18749	70.3%	69.6%	75.5%	177.9%	77.6%	169.8%
