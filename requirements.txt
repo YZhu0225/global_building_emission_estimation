@@ -1,0 +1,16 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+matplotlib
+numpy
+pandas
+pyyaml
+scikit-learn
+tqdm
+geopandas >= 0.12.0
+selenium >= 4
+webdriver-manager
+chardet
+urllib3
+rasterio
+geojson
+seaborn

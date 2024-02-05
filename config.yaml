@@ -1,0 +1,83 @@
+path:
+  datarawpath: data/raw/
+  dataprocessedpath: data/processed/
+  datatemp: data/temp/
+  datadebug: data/debug/
+  resultpath: results/
+  reportpath: reports/
+  regionconfig: src/data/regions.yaml
+  ghsdataconfig: src/data/ghsdata/ghs_config.yaml
+  subpath:
+    boundary: boundary/
+    energyconsumption: energyconsumption/
+    combinedfeaturesandgroundtruth: combinedfeaturesandgroundtruth/
+    bottomup: bottomup/
+    validationaggregate: aggregate/
+
+
+regions: ["massachusetts", "mexico", "michigan"]
+#regions: ["massachusetts"]
+
+boundary:
+  path: boundary/boundary
+  generate_new: False
+
+features:
+  ghs_building_area:
+    path: ghsbuildingcharacteristics/buildingarea 
+    include: True
+    generate_new: False
+  msft_building_area:  
+    path: msftbuildingcharacteristics/buildingarea
+    include: True
+    generate_new: False
+  population:
+    path: population/population
+    include: True
+    generate_new: False
+  
+targets:
+  dpfcgroundtruth:
+    path: dpfcgroundtruth/dpfcgroundtruth
+    include: True
+    generate_new: False
+  combinedfeaturesandgroundtruth:
+    path: combinedfeaturesandgroundtruth/combinedfeaturesandgroundtruth
+    include: True
+    generate_new: False
+
+misc:
+  worldwaterbodies:
+    path: '/shared/data/building-emissions/data/world_water_bodies/wwb_v108-geodataframe.parquet'
+
+comparisons:
+  graced:
+    generate_new: False
+    2019_data_directory: "/shared/data/building-emissions/comparisons/GRACED/residential_2019/"
+    estimate_column_header: "graced_emissions_2019(metric tonnes/year)"
+    outputpath: graced_residential/
+  edgar:
+    generate_new: False
+    data_directory: "/shared/data/building-emissions/comparisons/EDGAR/2015v8/"
+    estimate_column_header: "edgar_emission_2015(tons_CO2)"
+    outputpath: edgar/
+
+  
+
+run:
+  gather_dpfc_data: False
+  preprocessing: False
+  experiments:
+    bottom_up_model: True
+  comparisons:
+    graced_comparison: True
+    edgar_comparison: True
+  validation:
+    outputpath: aggregate/
+    modelstoinclude:
+      bottom_up_model: True
+      graced_comparison: True
+      edgar_comparison: True
+    analytics: False
+    visualization: False
+  
